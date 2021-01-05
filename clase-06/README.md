@@ -1,6 +1,6 @@
 # Desde ilustración vectorial al SVG (sesión 1 de 2)
 
-### Infografía Digital v2 → Clase 06 → Lunes 19 de abril, 2021
+### Clase 06 → Infografía Digital v2 → Lunes 19 de abril, 2021
 
 Esta clase abre una segunda etapa en este Optativo; etapa que se enfoca en los lenguajes que confluyen en el desarrollo de la infografía digital, interactiva y dinámica.
 
