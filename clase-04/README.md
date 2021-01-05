@@ -8,13 +8,11 @@ En las tres primeras clases aseguramos la partida mediante la exploración de [p
 
 2) [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
 
-**En esta clase de "El boceto: Herramientas de dibujo en función de la planificación", el material de consulta principal es:**
+**En esta clase de "El boceto: El dibujo en función de la planificación", el material de consulta principal es:**
 
-- Holmes, N. (2005).*Wordless Diagrams*
+- wireframes
 
-- Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*.
-
-- Salomón, Fran. *Mejor dilo con monos*. En línea: https://universidaddemonichigan.cl/
+- sketching
 
 - - - - - - - - - - - - - 
 
