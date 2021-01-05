@@ -1,6 +1,10 @@
 # Infografía Digital v2
 
-### Clase 04 → Lunes 5 de abril, 2020
+### El boceto: El dibujo en función de la planificación
+
+#### Clase 04 → Lunes 5 de abril, 2020
+
+- - - - - - - -
 
 En las tres primeras clases aseguramos la partida mediante la exploración de [precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01), [antecedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) y [referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03). Como tarea, quedó la revisión de dos ponencias de expertos:
 
@@ -8,9 +12,13 @@ En las tres primeras clases aseguramos la partida mediante la exploración de [p
 
 2) [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
 
-**A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más práctico, partiendo por "[El boceto: Herramientas de dibujo en función de la planificación](https://docs.google.com/presentation/d/1zLfOxLFSUM7wjQaQg9IET-mHR_mfjpQYANsQMccpgKY/edit?usp=sharing)", donde la referencia principal será**: 
+**A partir esta clase, la cuarta del semestre, nuestro aprendizaje se hará más práctico, partiendo por "[El boceto: Herramientas de dibujo en función de la planificación](https://docs.google.com/presentation/d/1zLfOxLFSUM7wjQaQg9IET-mHR_mfjpQYANsQMccpgKY/edit?usp=sharing)", donde las referencias principales será**: 
+
+- Holmes, N. (2005).*Wordless Diagrams*
 
 - Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*.
+
+- Salomón, Fran. *Mejor dilo con monos*. En línea: https://universidaddemonichigan.cl/
 
 - - - - - - - - - - - - - 
 
@@ -29,4 +37,4 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 - - - - - - - 
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) 
