@@ -6,11 +6,13 @@
 
 El tema del curso es …………………………………
 
-Lo primero informarse sobre el tema del curso, y optar por un asunto específico.
+Lo primero que corresponde es informarse sobre el tema, y avanzar por un asunto específico.
 
-Según su opción, armar equipos de un máximo de 5 integrantes.
+Según cada avance, corresponde armar equipos de máximo 5 integrantes.
 
-En equipo corresponde recolectar antecedentes de infografía digital. Considere como fuentes principales de antecedentes a los siguientes medios:
+En equipo corresponde recolectar antecedentes de infografía digital con la que se podría desplegar el asunto específico. 
+
+Considere como fuentes principales de antecedentes a los siguientes medios:
 
 - South China Morning Post - https://www.scmp.com/infographic/
 
@@ -18,7 +20,9 @@ En equipo corresponde recolectar antecedentes de infografía digital. Considere 
 
 - - - - - - - - 
 
-Para publicar su definición de tema y recolección de información, utilice el README.md se un repositorio creado por una organización, donde aporte cada integrante del equipo.
+Para publicar su definición de tema y recolección de información, utilice el README.md de un repositorio creado por una organización, donde cada integrante aporte algo.
+
+Algunas referencias útiles:
 
 - https://docs.github.com/es/enterprise-server@2.20/admin/user-management/creating-organizations
 
