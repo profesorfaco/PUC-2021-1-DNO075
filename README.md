@@ -20,23 +20,23 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial.
 
-[Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) → Desde ilustración vectorial al SVG (Scalable Vector Graphics) - SESIÓN 1 DE 2.
+[Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) → Desde ilustración vectorial al SVG (sesión 1 de 2)
 
-[Clase 07 → 26/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) → Desde ilustración vectorial al SVG (Scalable Vector Graphics) - SESIÓN 2 DE 2.
+[Clase 07 → 26/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) → Desde ilustración vectorial al SVG (sesión 2 de 2)
 
-[Clase 08 → 3/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08) → Coding: HTML, CSS y JavaScript - SESIÓN 1 DE 2
+[Clase 08 → 3/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08) → Coding: HTML, CSS y JavaScript (sesión 1 de 2)
 
 **Clase 09 → 10/05/2021** → Semana de receso universitario para estudiantes
 
-[Clase 10 → 17/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10) → Coding: HTML, CSS y JavaScript - SESIÓN 2 DE 2
+[Clase 10 → 17/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10) → Coding: HTML, CSS y JavaScript (sesión 2 de 2)
 
-[Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) → Trabajo de Investigación: Ingeniería inversa.
+[Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) → Trabajo práctico de ingeniería inversa
 
 [Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) → Definición de tema a desarrollar.
 
-[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) → Planificación del trabajo a través del boceto.
+[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) → Planificación de la infografía a través del boceto.
 
-[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) → Del boceto al prototipo interactivo en línea.
+[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) → Del boceto al prototipo digital interactivo en línea.
 
 [Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-15) → Ayudantías para la implementación.
 
