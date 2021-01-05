@@ -1,8 +1,6 @@
-# Infografía Digital v2
+# Desde ilustración vectorial al SVG (Scalable Vector Graphics) - sisión 2 de 2
 
-### Desde ilustración vectorial al SVG (Scalable Vector Graphics) - SESIÓN 2 DE 2
-
-#### Clase 07 → Lunes 26 de abril, 2021
+### Infografía Digital v2 → Clase 07 → Lunes 26 de abril, 2021
 
 - - - - - - - - 
 
