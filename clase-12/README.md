@@ -18,7 +18,7 @@ Fuentes principales para la recolección de tales infografías deberían ser:
 
 - - - - - - - - 
 
-Para publicar la definición de sub-tema y avance en la recolección de información, cada equipo debe **utilizar el `README.md` de un repositorio creado dentro de una organización de GitHub**. Algunas referencias útiles:
+Para publicar su definición de sub-tema y su avance en la recolección, cada equipo debe **utilizar el `README.md` de un repositorio creado dentro de una organización de GitHub**. Algunas referencias útiles:
 
 - https://docs.github.com/es/enterprise-server@2.20/admin/user-management/creating-organizations
 
