@@ -1,6 +1,6 @@
 # Trabajo práctico de ingeniería inversa
 
-### Infografía Digital v2 → Clase 11 → Lunes 24 de abril, 2021
+### Clase 11 → Infografía Digital v2 → Lunes 24 de abril, 2021
 
 Este es un desafío evaluado. Tendrán que replicar partes de distintas infografías digitales. 
 
