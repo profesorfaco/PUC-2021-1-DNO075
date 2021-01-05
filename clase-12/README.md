@@ -2,13 +2,13 @@
 
 ###  Infografía Digital → v2 Clase 12 → Lunes 31 de abril, 2021
 
-El tema del curso es …………………………………
+Esta clase abre una tercera y última etapa en este Optativo, una etapa que se enfoca en comprobar o demostrar el aprovechamiento en los estudios con el desarrollo de una infografía digital sobre un tema específico: ………………………………… 
 
-Lo primero que corresponde hacer es investigar respecto al tema del curso, hasta identificar subtemas.
+Lo primero que corresponde hacer es investigar respecto al tema específico recién indicado, hasta identificar sub-temas.
 
-Basándose en los subtemas de interés personal, corresponde armar equipos de trabajo con un mínimo de 3 integrantes y máximo de 5.
+Basándose en sub-temas de interés personal, corresponde armar equipos de trabajo con un mínimo de 3 integrantes y máximo de 5.
 
-En equipo corresponde buscar más información y recolectar infografías digitales con la que se podría desplegar asuntos claves para la comprensión del subtema que explocar el equipo. 
+En equipo corresponde buscar más información y recolectar infografías digitales con la que se podría desplegar asuntos claves para la comprensión del sub-tema.
 
 Fuentes principales para la recolección de tales infografías deberían ser:
 
@@ -18,7 +18,7 @@ Fuentes principales para la recolección de tales infografías deberían ser:
 
 - - - - - - - - 
 
-Para publicar la definición de subtema del equipo y su avance en la recolección de información, **utilice el README.md de un repositorio creado dentro de una organización de GitHub**. Algunas referencias útiles:
+Para publicar la definición de sub-tema y avance en la recolección de información, cada equipo debe **utilizar el `README.md` de un repositorio creado dentro de una organización de GitHub**. Algunas referencias útiles:
 
 - https://docs.github.com/es/enterprise-server@2.20/admin/user-management/creating-organizations
 
