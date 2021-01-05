@@ -1,4 +1,4 @@
-# Definición de tema a desarrollar
+# Definición del tema a desarrollar
 
 ###  Infografía Digital → v2 Clase 12 → Lunes 31 de abril, 2021
 
