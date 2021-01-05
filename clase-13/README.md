@@ -24,4 +24,4 @@ Ideal es que el último boceto, que se crea de manera colaborativa, se confunda 
 
 - - - - - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) 
