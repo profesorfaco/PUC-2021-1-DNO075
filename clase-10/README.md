@@ -1,8 +1,8 @@
 # Coding: HTML, CSS y JavaScript (sesión 2 de 2)
 
-### Infografía Digital v2 → Clase 10 → Lunes 17 de abril, 2021
+### Clase 10 → Infografía Digital v2 → Lunes 17 de abril, 2021
 
-Enfocarnos en metadatos y validaciones.
+Nos enfocaremos en estándares, recomendaciones y validaciones para el código fuente.
 
 - - - - - - - -
 
