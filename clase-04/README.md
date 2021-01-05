@@ -24,11 +24,11 @@ También se podría utilizar [Photoshop](https://www.adobe.com/la/products/photo
 
 Con papel y lápiz corresponde replicar una infografía digital determinada, echando mano a los elementos estándares en la producción del *wireframe*, que es una representación esquemática de una página web que permite un primer acercamiento a la organización de contenidos en pantalla. Estos elementos se utiliza en la aplicación https://wireframe.cc/. 
 
-La infografía digital debe replicarse en dos versiones:
+La infografía digital debe replicarse en dos versiones de *wireframe*:
 
-- una versión de la infografía digital para pantalla pequeña (smartphone); y 
+- una versión para pantalla pequeña (smartphone); y 
 
-- una versión de la misma para pantalla grande (desktop).
+- una versión para pantalla grande (desktop).
 
 El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-04/) de repositorio. 
 
