@@ -1,12 +1,12 @@
-# Infografía Digital v2
+# Del boceto al prototipo digital interactivo 
 
-### Clase 14 → Lunes 14 de junio, 2021 → Del boceto al prototipo interactivo en línea
+### Infografía Digital v2 → Clase 14 → Lunes 14 de junio, 2021
 
-Usen los *snippets* incluidos en esta carpeta de repositorio: 
+Para pasar del boceto al prototipo digital intearctivo corresponde aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
 
 > *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 
-Con los *snippets* en esta carpeta de repositorio, podrían resolver: 
+Con los *snippets* podrían resolver: 
 
 - [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2021/clase-14/snippets/organizacion.html)
 - [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2021/clase-14/snippets/encabezado.html)
@@ -18,9 +18,9 @@ Con los *snippets* en esta carpeta de repositorio, podrían resolver:
 - [Mapa con leafletjs](https://profesorfaco.github.io/dno075-2021/clase-14/snippets/mapa.html)
 - [Matriz de peces](https://profesorfaco.github.io/dno075-2021/clase-14/snippets/matriz-de-peces.html)
 
-Estos *snippets* suponen el uso de [Bootstrap](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del OPR. 
+Estos *snippets* suponen el uso de [Bootstrap 5](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del Optativo. 
 
-Para resolver dudas respecto de [Bootstrap](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
+Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
 
 - **[Bootstrap 5 Grid](https://getbootstrap.com/docs/5.0/examples/grid/)**
 - **[Bootstrap 5 Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)**
@@ -29,16 +29,4 @@ Para resolver dudas respecto de [Bootstrap](https://getbootstrap.com/), conviene
 
 - - - - - - - - - - - 
 
-**Recuerden que deben tomar distancia de una [landing page](https://startbootstrap.com/themes/landing-pages) o un papelógrafo digitalizado**. Tomando distancia de aquello, podrían **acercarse a lo esperado: Infografías digitales** que, a primera vista, podrían confundirse con alguna en:
-
-- https://www.scmp.com/infographic/
-- https://graphics.reuters.com/
-
-Mientras más se acerquen a tales infografías, más probabilidades tendrán de:
-
-- aportar al debate constitucional
-- ganar un [Malofiej](https://www.malofiejgraphics.com/awards#categories)
-
-- - - - - - - - - - - 
-
-###### [ÚLTIMA CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-15)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-15)
