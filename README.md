@@ -32,17 +32,17 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) → Trabajo práctico de ingeniería inversa
 
-[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) → Definición de tema a desarrollar.
+[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) → Definición de tema a desarrollar
 
-[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) → Planificación de la infografía a través del boceto.
+[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) → Planificación de la infografía a través del boceto
 
-[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) → Del boceto al prototipo digital interactivo en línea.
+[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) → Del boceto al prototipo digital interactivo en línea
 
-[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-15) → Ayudantías para la implementación.
+[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-15) → Ayudantías para la implementación
 
-**Clase 16 → 28/06/2020** → San Pedro y San Pablo. Feriado legal.
+**Clase 16 → 28/06/2020** → San Pedro y San Pablo. Feriado legal
 
-[Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) → Preentrega, en línea.
+[Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) → Pre-entrega, en línea
 
 **Clase 18 → 09/07/2021** → Finalización de clases del primer período académico**
 
