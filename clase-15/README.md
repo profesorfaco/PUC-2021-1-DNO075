@@ -2,8 +2,6 @@
 
 ### Infografía Digital v2 → Clase 15 → Lunes 21 de junio, 2021
 
-- - - - - - - - - - - 
-
 Durante esta semana, que es la última antes de la pre-entrega de sus infografías, se ofrecerán sesiones de ayudantía para resolver dudas de implentación en aquellas infografías que ya se encuentren en línea y hayan aprovechado los *snippets* ofrecidos la clase recién pasada.
 
 - - - - - - - - - - -
