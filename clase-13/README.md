@@ -9,7 +9,7 @@ Hoy correspode aprovechar su recolección de antecedentes en:
 
 Se recomienda tomar partes de infografías digitales publicadas en tales medios, y mezclarlas de modo original en el bocetaje.
 
-Se recomienda dividir el proceso de bocetaje en 6 partes: 
+Se recomienda **dividir el proceso de bocetaje en 6 partes**: 
 
 - Delimitar el desafío de equipo.
 - Cada integrante debe desarrollar un boceto respondiendo a tal desafío. 
