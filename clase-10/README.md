@@ -2,8 +2,6 @@
 
 ### Infografía Digital v2 → Clase 10 → Lunes 17 de abril, 2021
 
-- - - - - - 
-
 Aprovechamos trabajos reales de infografía digital, originalmente desarrollados por: 
 
 - pendiente
@@ -13,9 +11,6 @@ Aprovechamos trabajos reales de infografía digital, originalmente desarrollados
 - pendiente
 
 En tales trabajos hay equipos de 3 a 6 integrantes, con 1 o 2 colaboradores. 
-
-A partir de la próxima clase, adaptaremos tal organización.
-
 
 - - - - - - - -
 
