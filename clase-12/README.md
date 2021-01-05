@@ -4,13 +4,13 @@
 
 El tema del curso es …………………………………
 
-Lo primero que corresponde es informarse sobre el tema, y avanzar por un asunto específico.
+Lo primero que corresponde hacer es investigar respecto al tema del curso, hasta identificar subtemas.
 
-Según cada avance, corresponde armar equipos de máximo 5 integrantes.
+Basándose en los subtemas de interés personal, corresponde armar equipos de trabajo con un mínimo de 3 integrantes y máximo de 5.
 
-En equipo corresponde recolectar antecedentes de infografía digital con la que se podría desplegar el asunto específico. 
+En equipo corresponde buscar más información y recolectar infografías digitales con la que se podría desplegar asuntos claves para la comprensión del subtema que explocar el equipo. 
 
-Considere como fuentes principales de antecedentes a los siguientes medios:
+Fuentes principales para la recolección de tales infografías deberían ser:
 
 - South China Morning Post - https://www.scmp.com/infographic/
 
@@ -18,7 +18,7 @@ Considere como fuentes principales de antecedentes a los siguientes medios:
 
 - - - - - - - - 
 
-Para publicar su definición de tema y recolección de información, utilice el README.md de un repositorio creado por una organización, donde cada integrante aporte algo.
+Para publicar la definición de subtema de equipo y recolección de información, utilice el README.md de un repositorio creado por una organización.
 
 Algunas referencias útiles:
 
@@ -30,5 +30,5 @@ Algunas referencias útiles:
 
 - - - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) 
 
