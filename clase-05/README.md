@@ -6,8 +6,13 @@ Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2021/tree/ma
 
 Ya pudieron haber revisado las ponencias de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) para comprender cómo las actuales tecnologías nos permiten contar historias. Y la clase recién pasada tuvimos la primera aproximación a [herramientas de dibujo en función de la planificación](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04), desarrollando bocetos para explicar: 
 
-- tema 1
-- tema 2
+**En esta clase de "El dibujo como contenido: Imagen final o base para ilustración vectorial", el material de consulta principal es:**
+
+- Holmes, N. (2005).*Wordless Diagrams*
+
+- Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*.
+
+- Salomón, Fran. *Mejor dilo con monos*. En línea: https://universidaddemonichigan.cl/
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
