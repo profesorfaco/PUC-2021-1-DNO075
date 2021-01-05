@@ -1,6 +1,6 @@
 # Del boceto al prototipo digital interactivo 
 
-### Infografía Digital v2 → Clase 14 → Lunes 14 de junio, 2021
+### Clase 14 → Infografía Digital v2 → Lunes 14 de junio, 2021
 
 Para pasar del boceto al prototipo digital intearctivo corresponde aprovechar los *snippets* incluidos en esta carpeta de repositorio: 
 
