@@ -1,8 +1,6 @@
-# Infografía Digital v2
+# El dibujo como contenido: Imagen final o base para ilustración vectorial
 
-### El dibujo como contenido: Imagen final o base para ilustración vectorial
-
-#### Clase 05 → Lunes 12 de abril, 2021
+### Infografía Digital v2 → Clase 05 → Lunes 12 de abril, 2021
 
 - - - - - - - - - - - - -
 
