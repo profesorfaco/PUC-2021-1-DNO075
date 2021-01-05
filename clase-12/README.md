@@ -4,7 +4,7 @@
 
 Esta clase abre una tercera y última etapa en este Optativo, una etapa que se enfoca en comprobar o demostrar el aprovechamiento en los estudios con el desarrollo de una infografía digital sobre un tema específico: ………………………………… 
 
-Lo primero que corresponde hacer es investigar respecto al tema específico recién indicado, hasta identificar sub-temas.
+Lo primero que corresponde hacer es investigar respecto del tema específico recién indicado, hasta identificar sub-temas.
 
 Basándose en sub-temas de interés personal, corresponde armar equipos de trabajo con un mínimo de 3 integrantes y máximo de 5.
 
