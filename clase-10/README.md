@@ -1,4 +1,4 @@
-# Coding: HTML, CSS y JavaScript - sesión 2 de 2
+# Coding: HTML, CSS y JavaScript (sesión 2 de 2)
 
 ### Infografía Digital v2 → Clase 10 → Lunes 17 de abril, 2021
 
