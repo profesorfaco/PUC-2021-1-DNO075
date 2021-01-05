@@ -38,4 +38,14 @@ En esta ocasión, se recomienda poner especial atención al pie de **foto**; ide
 
 - - - - - - - 
 
+#### Tarea
+
+Se recomienda revisar dos ponencias de expertos:
+
+1) [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima; y 
+
+2) [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
+
+- - - - - - - 
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) 
