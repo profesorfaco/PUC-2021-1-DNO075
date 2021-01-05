@@ -1,4 +1,4 @@
-# Preentrega, en línea
+# Pre-entrega, en línea
 
 ### Infografía Digital v2 → Clase 17 → Lunes 5 de julio, 2021
 
