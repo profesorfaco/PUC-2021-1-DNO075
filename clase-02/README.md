@@ -1,18 +1,22 @@
-## Infografía Digital v2
+# Infografía Digital v2
 
-### Clase 02 → Lunes 22 de marzo, 2021
+### Antecedentes: Entre el diseño de información y el visual storytelling
+
+#### Clase 02 → Lunes 22 de marzo, 2021
+
+- - - - - - - -
 
 Las primeras tres clases de este Optativo se dividen en:
 
-- [Precedente…](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
+- [Precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
-- **Antecedente…** 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
+- **Antecedentes** 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
 
-- [Referente…](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 1. adj. Que refiere o que expresa relación a algo.
+- [Referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 1. adj. Que refiere o que expresa relación a algo.
 
 En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio. 
 
-**En esta segunda clase, de "[Antecedentes: Entre el diseño de información y el visual storytelling](https://docs.google.com/presentation/d/1v7mYomfIAf25Yw92JPU-ILcG5768b0TgBW9DzAnilsU/edit?usp=sharing)", se consulta la siguiente bibliografía**:
+**En esta segunda clase, de "Antecedentes: Entre el diseño de información y el visual storytelling", se consulta la siguiente bibliografía**:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
@@ -37,4 +41,4 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 - - - - - - - 
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 
