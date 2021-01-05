@@ -1,8 +1,8 @@
-# Definición del tema a desarrollar
+# Definición del sub-tema a desarrollar
 
-###  Infografía Digital → v2 Clase 12 → Lunes 31 de abril, 2021
+###  Clase 12 → Infografía Digital v2 → Lunes 31 de abril, 2021
 
-Esta clase abre una tercera y última etapa en este Optativo, una etapa que se enfoca en comprobar o demostrar el aprovechamiento en los estudios con el desarrollo de una infografía digital sobre un tema específico: ………………………………… 
+Esta clase abre una tercera y última etapa en este Optativo, una etapa que se enfoca en comprobar o demostrar el aprovechamiento en los estudios con el desarrollo de una infografía digital sobre un tema específico: "…………………………………"
 
 Lo primero que corresponde hacer es investigar respecto del tema específico recién indicado, hasta identificar sub-temas.
 
