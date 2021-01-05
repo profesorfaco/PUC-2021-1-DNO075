@@ -35,4 +35,4 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 
