@@ -2,15 +2,16 @@
 
 ### Infografía digital v2 → Clase 13 → Lunes 7 de junio, 2021
 
-En sus bocetos **deben tomar distancia de las [landing pages](https://startbootstrap.com/themes/landing-pages) y los papelógrafos digitalizado**. Su boceto debería aprovechar su recolección de antecedentes en:
+Sus bocetos deberían aprovechar su recolección de antecedentes en:
 
 - https://www.scmp.com/infographic/
 - https://graphics.reuters.com/
 
-Se recomienda tomar partes y mezclaras de modo original en un boceto realizado a mano alzada. En primera instancia, cada integrante del equipo debe desarrollar su boceto. Los distintos bocetos se comparten con el grupo y se hace un segundo boceto, único y colaborativo. De esta manera, si el equipo tienen 4 integrantes, les corresponde desarrollar 5 bocetos.
+Se recomienda tomar partes originales de infografías digitales publicadas en tales medios, y mezclar tales partes de modo original en un boceto realizado a mano alzada. 
 
-Consideren que un resultado idea es ofrecer una pieza que podría confundirse con las publicadas los medios recién referidos. 
+En primera instancia, cada integrante del equipo debe desarrollar un boceto. Luego, los distintos bocetos deben compartirse con el grupo. Finalmente, se hace un boceto único y colaborativo. De esta manera, por ejemplo, un equipo tienen 4 integrantes debe desarrollar 5 bocetos.
 
+Ideal es que boceto colaborativo se confunda con la planificación de una infografía digital a ser publicada en los medios recién referidos. Y bajo ninguna circunstancia podría confundirse el boceto de una [landing page](https://startbootstrap.com/themes/landing-pages)
 
 - - - - - - - - - - - 
 
