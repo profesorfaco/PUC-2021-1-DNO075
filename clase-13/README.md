@@ -7,7 +7,7 @@ Hoy correspode aprovechar su recolección de antecedentes en:
 - https://graphics.reuters.com/
 - https://www.scmp.com/infographic/
 
-Se recomienda tomar partes de infografías digitales publicadas en tales medios, y mezclarlas de modo original en el bocetaje.
+Se recomienda tomar partes de infografías digitales publicadas en tales medios, y mezclarlas de modo original en el bocetaje tipo wireframe.
 
 Se recomienda **dividir el proceso de bocetaje en 6 partes**: 
 
