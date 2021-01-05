@@ -10,7 +10,7 @@ En las tres primeras clases de este Optativo vamos a distinguir:
 
 - [Referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 1. adj. Que refiere o que expresa relación a algo.
 
-**En esta clase de "Antecedentes: Entre el diseño de información y el visual storytelling", el material de consulta principal es:
+**En esta clase de "Antecedentes: Entre el diseño de información y el visual storytelling", el material de consulta principal es**:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
