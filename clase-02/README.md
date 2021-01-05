@@ -22,7 +22,7 @@ En las tres primeras clases de este Optativo vamos a distinguir:
 
 #### Ejercicio
 
-Tal como en la clase anterior, para identificar ejemplos del asunto abordado, cada estudiante debe seleccionar entre 6 y 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve, de no más de 200 palabras, para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
+Tal como en la clase anterior, para identificar ejemplos del asunto abordado, **cada estudiante debe seleccionar entre 6 y 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve, de no más de 200 palabras, para darles un hilo conductor**; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
 
 En lo que escriba, prefiera cumplir con estas recomendaciones: 
 
