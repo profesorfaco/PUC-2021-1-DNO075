@@ -11,6 +11,4 @@ Esta clase y la que sigue se apoyan en GitHub. La Presentación en Drive es rele
 
 - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06)
-
-###### [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08) 
