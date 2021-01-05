@@ -2,7 +2,7 @@
 
 ### Infografía Digital v2 → Clase 01 → Lunes 15 de marzo, 2021
 
-En las primeras tres clases de este Optativo vamos a distinguir:
+En las tres primeras clases de este Optativo vamos a distinguir:
 
 - **Precedentes** 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
