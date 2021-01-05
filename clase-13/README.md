@@ -20,7 +20,7 @@ Se recomienda dividir el proceso de bocetaje en 6 partes, con el [método de des
 
 Así, por ejemplo, un equipo de 4 integrantes debe desarrollar 9 bocetos (4 + 4 + 1).
 
-Ideal es que boceto colaborativo se confunda con la planificación de una infografía digital a ser publicada en los medios recién referidos, y bajo ninguna circunstancia se confunda con el boceto de una [landing page](https://startbootstrap.com/themes/landing-pages)
+Ideal es que el último boceto, que se crea de manera colaborativa, se confunda con el boceto de planificación de una infografía digital a ser publicada por South China Morning Post o Reuters, y bajo ninguna circunstancia se confunda con el boceto de una [landing page](https://startbootstrap.com/themes/landing-pages)
 
 - - - - - - - - - - - 
 
