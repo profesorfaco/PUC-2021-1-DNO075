@@ -32,7 +32,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) → Trabajo práctico de ingeniería inversa
 
-[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) → Definición de tema a desarrollar
+[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) → Definición del sub-tema a desarrollar
 
 [Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) → Planificación de la infografía a través del boceto
 
