@@ -2,14 +2,14 @@
 
 ### Infografía digital v2 → Clase 13 → Lunes 7 de junio, 2021
 
-Sus bocetos deberían aprovechar su recolección de antecedentes en:
+Correspode aprovechar su recolección de antecedentes en:
 
 - https://www.scmp.com/infographic/
 - https://graphics.reuters.com/
 
-Se recomienda tomar partes de infografías digitales publicadas en tales medios, y mezclarlas de modo original en un boceto realizado a mano alzada. 
+Se recomienda tomar partes de infografías digitales publicadas en tales medios, y mezclarlas de modo original en el bocetaje.
 
-Se recomienda dividir el proceso de bocetaje en 6 partes, con el [método de design studio](https://medium.com/@amyreneogrin/introduction-to-design-studios-f6342be02234): 
+Se recomienda dividir el proceso de bocetaje en 6 partes: 
 
 - Establecer el desafío de equipo.
 - Cada integrante debe desarrollar un boceto respondiendo a tal desafío. 
