@@ -1,6 +1,8 @@
-# Infografía Digital v2
+# Definición de tema a desarrollar
 
-### Clase 12 → Lunes 31 de abril, 2021 → Definición de tema a desarrollar.
+###  Infografía Digital → v2 Clase 12 → Lunes 31 de abril, 2021
+
+- - - - - - - - - 
 
 El tema del curso es …………………………………
 
@@ -26,5 +28,5 @@ Para publicar su definición de tema y recolección de información, utilice el 
 
 - - - - - - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) 
 
