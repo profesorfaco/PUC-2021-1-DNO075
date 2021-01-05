@@ -1,16 +1,14 @@
 # Referentes: Desarrollo del visual storytelling desde el periodismo digital
 
 ### Infografía Digital v2 → Clase 03 → Lunes 29 de marzo, 2021 
-
-- - - - - - - - 
  
 Las primeras tres clases de este Optativo se dividen en:
 
-- [Precedente…](https://github.com/profesorfaco/dno075-2021/blob/gh-pages/clase-01/README.md) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
+- [Precedente](https://github.com/profesorfaco/dno075-2021/blob/gh-pages/clase-01/README.md) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
-- [Antecedente…](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02/README.md) 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
+- [Antecedente](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02/README.md) 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
 
-- **Referente…** 1. adj. Que refiere o que expresa relación a algo.
+- **Referente** 1. adj. Que refiere o que expresa relación a algo.
 
 En las tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio. 
 
