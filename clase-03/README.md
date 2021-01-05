@@ -1,6 +1,6 @@
 # Referentes: Desarrollo del visual storytelling desde el periodismo digital
 
-### Infografía Digital v2 → Clase 03 → Lunes 29 de marzo, 2021 
+### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
 En las tres primeras clases de este Optativo vamos a distinguir:
 
