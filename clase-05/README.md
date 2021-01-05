@@ -36,5 +36,5 @@ Corresponde:
 
 - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) 
 
