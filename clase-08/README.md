@@ -2,7 +2,7 @@
 
 ### Infografía Digital v2 → Clase 08 → Lunes 3 de abril, 2021 
 
-**Vamos a profundizar en lenguajes que hemos aprovechado en cada clase del Optativo:**
+**Vamos a profundizar en lenguajes de código fuente que hemos aprovechado en cada clase del Optativo:**
 
 - [HTML](https://github.com/profesorfaco/dno075-2021/wiki/HTML), un lenguaje descriptivo que podemos reconocer por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
