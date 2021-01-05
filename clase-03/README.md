@@ -1,7 +1,11 @@
-## Infografía Digital v2
+# Infografía Digital v2
 
-### Clase 03 → Lunes 29 de marzo, 2021 → Referentes: Desarrollo del visual storytelling desde el periodismo digital
+### Referentes: Desarrollo del visual storytelling desde el periodismo digital
 
+#### Clase 03 → Lunes 29 de marzo, 2021 
+
+- - - - - - - - 
+ 
 Las primeras tres clases de este Optativo se dividen en:
 
 - [Precedente…](https://github.com/profesorfaco/dno075-2021/blob/gh-pages/clase-01/README.md) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
@@ -42,6 +46,6 @@ En esta ocasión, te recomendamos poner especial atención al pie de **foto**; i
 
 La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-03/) de repositorio.
 
-- - - - - - - - - 
+- - - - - - - 
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) 
