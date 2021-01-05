@@ -10,9 +10,9 @@ En las tres primeras clases aseguramos la partida mediante la exploración de [p
 
 **En esta clase de "El boceto: El dibujo en función de la planificación", el material de consulta principal es:**
 
-- wireframes
+- Brown, D. (2011). *Communicating Design. Developing Web Site Documentations for Design and Planning*
 
-- sketching
+- Valcke, Thomas (2009). *Basic Sketching. Techniques for the Industrial Designer*
 
 - - - - - - - - - - - - - 
 
