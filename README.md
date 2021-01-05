@@ -48,15 +48,9 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 - - - - - - - - - -
 
-#### En el programa original, se establecen las siguientes evaluaciones:
+#### Evaluaciones:
 
-- Trabajos de aplicación a desarrollarse clase a clase: 40%
-
-- Trabajo de Investigación: 20%
-
-- Trabajo final de aplicación: Desarrollo y publicación de storytelling digital: 40%
-
-**En el formato de clases remotas, por [Covid-19](https://www.uc.cl/uc-contra-el-coronavirus/), las evaluaciones se ajustarán de la siguiente manera:**
+**En el formato de clases remotas, por [Covid-19](https://www.uc.cl/uc-contra-el-coronavirus/), las evaluaciones se definen con:**
 
 - Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 10. Puntaje acumulativo que se transforma en nota equivalente al 25% del promedio final. 
 
