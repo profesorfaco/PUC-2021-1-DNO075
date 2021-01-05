@@ -41,4 +41,4 @@ Mientras más se acerquen a tales infografías, más probabilidades tendrán de:
 
 - - - - - - - - - - - 
 
-###### [ÚLTIMA CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-15)
+###### [ÚLTIMA CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-15)

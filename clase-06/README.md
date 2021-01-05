@@ -14,4 +14,4 @@ La clase de hoy abre una segunda etapa en este Optativo; etapa que introduce a l
 
 - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-07)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07)

@@ -26,5 +26,5 @@ Para publicar su definición de tema y recolección de información, utilice el 
 
 - - - - - - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-13)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13)
 

@@ -9,4 +9,4 @@ Esta clase y la que sigue se apoyan en GitHub. La Presentación en Drive es rele
 
 - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-08)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08)

@@ -2,7 +2,7 @@
 
 ### Clase 04 → Lunes 5 de abril, 2020
 
-En las tres primeras clases aseguramos la partida mediante la exploración de [precedentes](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-01), [antecedentes](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-02) y [referentes](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-03). Como tarea, quedó la revisión de dos ponencias de expertos:
+En las tres primeras clases aseguramos la partida mediante la exploración de [precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01), [antecedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) y [referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03). Como tarea, quedó la revisión de dos ponencias de expertos:
 
 1) [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima; y 
 
@@ -29,4 +29,4 @@ Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un
 
 - - - - - - - 
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-05)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05)

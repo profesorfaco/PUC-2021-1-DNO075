@@ -7,4 +7,4 @@ Evaluación. Cierre de segunda etapa.
 
 - - - - - - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-12)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12)

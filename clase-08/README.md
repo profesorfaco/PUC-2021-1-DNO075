@@ -33,4 +33,4 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 
 - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-10)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10)

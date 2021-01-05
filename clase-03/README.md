@@ -6,7 +6,7 @@ Las primeras tres clases de este Optativo se dividen en:
 
 - [Precedente…](https://github.com/profesorfaco/dno075-2021/blob/gh-pages/clase-01/README.md) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
-- [Antecedente…](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-02/README.md) 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
+- [Antecedente…](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02/README.md) 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
 
 - **Referente…** 1. adj. Que refiere o que expresa relación a algo.
 
@@ -44,4 +44,4 @@ La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, apro
 
 - - - - - - - - - 
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-04)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04)
