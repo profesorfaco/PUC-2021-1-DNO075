@@ -1,8 +1,6 @@
-# Infografía Digital v2
+# Antecedentes: Entre el diseño de información y el visual storytelling
 
-### Antecedentes: Entre el diseño de información y el visual storytelling
-
-#### Clase 02 → Lunes 22 de marzo, 2021
+### Infografía Digital v2 → Clase 02 → Lunes 22 de marzo, 2021
 
 - - - - - - - -
 
