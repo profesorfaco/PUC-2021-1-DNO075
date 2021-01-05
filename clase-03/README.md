@@ -1,8 +1,6 @@
-# Infografía Digital v2
+# Referentes: Desarrollo del visual storytelling desde el periodismo digital
 
-### Referentes: Desarrollo del visual storytelling desde el periodismo digital
-
-#### Clase 03 → Lunes 29 de marzo, 2021 
+### Infografía Digital v2 → Clase 03 → Lunes 29 de marzo, 2021 
 
 - - - - - - - - 
  
