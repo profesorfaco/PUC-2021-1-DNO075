@@ -58,15 +58,13 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 **En el formato de clases remotas, por [Covid-19](https://www.uc.cl/uc-contra-el-coronavirus/), las evaluaciones se ajustarán de la siguiente manera:**
 
-- Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 10. Un punto por trabajo + un punto base. Equivale al 25% del promedio final. 
+- Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 10. Puntaje acumulativo que se transforma en nota equivalente al 25% del promedio final. 
 
-- Trabajo de investigación: Ingeniería inversa → A desarrollar en la [clase 11](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11). Se entregará rúbrica para evaluación con nota entre 1 y 7. Equivale al 25% del promedio final.
+- Trabajo práctico de ingeniería inversa → A desarrollar en la [clase 11](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11). Equivale al 25% del promedio final.
 
-- Trabajo final de aplicación, dividido en dos partes: 
+- Proceso de implementación de infografía digital → A desarrollar entre las clases 12 y 15. Puntaje acumulativo que se transforma en nota equivalente al 25% del promedio final. 
 
-  - Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 12 y 15. Un punto por trabajo + dos puntos base. Equivale al 25% del promedio final.
-
-  - Resultado final en línea → A pre-entregar en la clase 17. Se entregará el resultado del cumplimiento a una pauta cotejo, con nota entre 1 y 7. Equivale al 25% del promedio final.
+- Resultado de trabajo final → Promedio entre nota de pre-entrega de [la clase 17](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) y la entrega final. Equivale al 25% del promedio final.
 
 - - - - - - - - - - 
 
