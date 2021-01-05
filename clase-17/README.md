@@ -6,7 +6,7 @@ En esta clase el equipo docente evaluará el resultado del trabajo de los equipo
 
 Recibiendo su evaluación, los equipos de estudiantes tendrán la posibilidad de hacer modificaciones dentro de una semana y presentar el resultado como entrega final. Esta entrega será evaluada con la misma pauta de cotejo.  
 
-La cuarta y última evaluación del Optativo resultará del promedio entre evaluación de pre-entrega y evaluación de entrega.
+La cuarta y última evaluación del Optativo, equivalente al 25% del promedio final, resultará del promedio entre evaluación de pre-entrega y evaluación de entrega.
 
 - - - - - - - - - - -
 
