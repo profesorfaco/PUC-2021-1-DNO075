@@ -2,7 +2,7 @@
 
 ### Infografía Digital v2 → Clase 11 → Lunes 24 de abril, 2021
 
-Evaluación. Cierre de segunda etapa.
+Evaluación
 
 
 - - - - - - - - - - - - -
