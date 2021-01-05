@@ -10,39 +10,39 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 #### Clase a Clase
 
-[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-01) → Precedentes: Del texto iluminado al diseño de información.
+[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-01) → Precedentes: Del texto iluminado al diseño de información.
 
-[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-02) → Antecedentes: Entre el diseño de información y el visual storytelling.
+[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-02) → Antecedentes: Entre el diseño de información y el visual storytelling.
 
-[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-03) → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
+[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-03) → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
 
-[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-04) → El boceto: El dibujo en función de la planificación.
+[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-04) → El boceto: El dibujo en función de la planificación.
 
-[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial.
+[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial.
 
-[Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-06) → Desde ilustración vectorial al SVG (Scalable Vector Graphics) - SESIÓN 1 DE 2.
+[Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-06) → Desde ilustración vectorial al SVG (Scalable Vector Graphics) - SESIÓN 1 DE 2.
 
-[Clase 07 → 26/04/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-07) → Desde ilustración vectorial al SVG (Scalable Vector Graphics) - SESIÓN 2 DE 2.
+[Clase 07 → 26/04/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-07) → Desde ilustración vectorial al SVG (Scalable Vector Graphics) - SESIÓN 2 DE 2.
 
-[Clase 08 → 3/05/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-08) → Coding: HTML, CSS y JavaScript - SESIÓN 1 DE 2
+[Clase 08 → 3/05/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-08) → Coding: HTML, CSS y JavaScript - SESIÓN 1 DE 2
 
 **Clase 09 → 10/05/2021** → Semana de receso universitario para estudiantes
 
-[Clase 10 → 17/05/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-10) → Coding: HTML, CSS y JavaScript - SESIÓN 2 DE 2
+[Clase 10 → 17/05/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-10) → Coding: HTML, CSS y JavaScript - SESIÓN 2 DE 2
 
-[Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-11) → Trabajo de Investigación: Ingeniería inversa.
+[Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-11) → Trabajo de Investigación: Ingeniería inversa.
 
-[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-12) → Definición de tema a desarrollar.
+[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-12) → Definición de tema a desarrollar.
 
-[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-13) → Planificación del trabajo a través del boceto.
+[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-13) → Planificación del trabajo a través del boceto.
 
-[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-14) → Del boceto al prototipo interactivo en línea.
+[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-14) → Del boceto al prototipo interactivo en línea.
 
-[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-15) → Ayudantías para la implementación.
+[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-15) → Ayudantías para la implementación.
 
 **Clase 16 → 28/06/2020** → San Pedro y San Pablo. Feriado legal.
 
-[Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-17) → Preentrega, en línea.
+[Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-17) → Preentrega, en línea.
 
 **Clase 18 → 09/07/2021** → Finalización de clases del primer período académico**
 
@@ -60,7 +60,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 - Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 10. Un punto por trabajo + un punto base. Equivale al 25% del promedio final. 
 
-- Trabajo de investigación: Ingeniería inversa → A desarrollar en la [clase 11](https://github.com/profesorfaco/dno075-2021/tree/gh-pages/clase-11). Se entregará rúbrica para evaluación con nota entre 1 y 7. Equivale al 25% del promedio final.
+- Trabajo de investigación: Ingeniería inversa → A desarrollar en la [clase 11](https://github.com/profesorfaco/dno075-2021/main/gh-pages/clase-11). Se entregará rúbrica para evaluación con nota entre 1 y 7. Equivale al 25% del promedio final.
 
 - Trabajo final de aplicación, dividido en dos partes: 
 
