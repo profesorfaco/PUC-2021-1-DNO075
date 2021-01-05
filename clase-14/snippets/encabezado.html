@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous" />
+        <style>
+            /* COPIA DESDE AQUÍ… */
+            html,
+            body {
+                min-height: 100%;
+                color: #fff;
+                background-color: #000;
+                /*noten que color y background-color se repite en header#titular*/
+            }
+            header#titular {
+                min-height: 100vh;
+                color: #fff;
+                background-color: #000;
+                background-repeat: no-repeat;
+                background-attachment: scroll;
+                background-position: center top;
+                background-size: 100% auto;
+                background-image: url("img/bg-titular-sm.jpg");
+                /* Uso una imagen cuadrada para pantallas más angosta*/
+            }
+
+            @media (min-width: 768px) {
+                header#titular {
+                    background-image: url("img/bg-titular-md.jpg");
+                    /* Uso una imagen apaisada para pantallas más anchas*/
+                }
+            }
+            header#titular div.container {
+                height: 100vh; /*  Misma altura que el header */
+            }
+
+            header#titular h1 {
+                color:rgba(255,255,255,0.8); /* en caso quieran un texto blanco algo traslúcido */
+            }
+
+            header#titular h2 {
+                color:rgba(255,255,255,0.6); /* en caso quieran un texto blanco un poco más traslúcido que el título de primer nivel */
+            }
+
+            /* …HASTA ACÁ, Y PÉGALO EN TU CSS */
+        </style>
+        <title>Clase 16 | Snippets</title>
+    </head>
+    <body>
+        <!-- COPIA DESDE AQUÍ… -->
+        <header id="titular">
+            <div class="container">
+                <div class="row h-100">
+                    <div class="col-10 mt-auto pb-5 mx-auto text-center">
+                        <h1>Lorem ipsum dolor sit amet</h1>
+                        <h2 class="mb-5 mb-md-0">Praesent ultricies lectus at lacus molestie vitae</h2>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- …HASTA ACÁ, Y PÉGALO DENTRO DEL BODY DE TU HTML -->
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    </body>
+</html>

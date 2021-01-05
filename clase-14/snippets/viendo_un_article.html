@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous" />
+        <title>Clase 16 | Snippets</title>
+        <style>
+            header,
+            aside {
+                min-height: 100vh;
+            }
+        </style>
+    </head>
+    <body class="bg-dark">
+        <header class="bg-light">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <h1>Lorem ipsum dolor sit amet</h1>
+                        <h2>Praesent ultricies lectus at lacus molestie vitae</h2>
+                    </div>
+                </div>
+            </div>
+        </header>
+        <main class="bg-light" role="main">
+            <article id="primero" class="bg-secondary">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12 py-5">
+                            <h3>Lorem ipsum dolor sit amet</h3>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--COPIA DESDE AQUÍ-->
+            <article id="segundo" class="py-3">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-12 col-md-6 py-5">
+                            <h3>Este es el artículo de identidad "segundo", que es afectado por jQuery</h3>
+                        </div>
+                        <div class="col-12 col-md-6 py-5">
+                            <p class="lead">
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel nisi a neque imperdiet egestas. Donec orci mi, condimentum vel lorem eu, vestibulum vehicula justo. Sed laoreet mauris eget nunc scelerisque
+                                fringilla. In hac habitasse platea dictumst. Morbi sed euismod leo. Etiam laoreet velit tincidunt scelerisque tempor. Maecenas mollis ullamcorper mauris porttitor condimentum. Nulla porta posuere luctus.
+                            </p>
+                            <p>
+                                Suspendisse potenti. Proin fringilla quam a mi tempus, et mattis mi facilisis. Aenean luctus tortor quis lacus tincidunt, eget dapibus massa finibus. Maecenas nunc tellus, consequat quis sodales sed, blandit
+                                id ex. Etiam quis sem in erat bibendum tincidunt. Maecenas at ornare lectus. Nulla semper ligula et accumsan placerat. Nunc lorem tellus, sodales a mi at, rhoncus aliquam sapien. Aliquam quis velit id orci
+                                posuere pulvinar at at metus.
+                            </p>
+                            <p>
+                                Cras vitae laoreet tortor. Cras tellus nulla, ultrices eget justo non, sollicitudin consequat augue. Praesent dictum suscipit nunc vitae convallis. Fusce non felis neque. Praesent mollis sem congue ultrices
+                                placerat. Sed sit amet metus id augue sagittis fringilla eget non diam. Integer eu leo non felis rutrum auctor in ut tellus.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!--…HASTA ACÁ, Y PÉGALO EN TU HTML (LUEGO REVISA LA LÍNEA 96) -->
+            <article id="tercero" class="py-3 bg-secondary">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h3>Lorem ipsum dolor sit amet</h3>
+                        </div>
+                    </div>
+                </div>
+            </article>
+        </main>
+        <aside class="bg-dark text-white-50 py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <h3>Praesent ultricies lectus at lacus molestie vitae</h3>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <h3>Praesent ultricies lectus at lacus molestie vitae</h3>
+                    </div>
+                    <div class="col-12 col-md-4">
+                        <h3>Praesent ultricies lectus at lacus molestie vitae</h3>
+                    </div>
+                </div>
+            </div>
+        </aside>
+        <footer class="bg-dark text-white-50 py-5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <small>Praesent ultricies lectus at lacus molestie vitae</small>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--COPIA DESDE ACÁ…-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <script>
+            $(window).scroll(function () {
+                var alturaVentana = $(window).height();
+                var alturaArticle = $("#segundo").outerHeight();
+                var distanciaArticle = $("#segundo").offset().top;
+                var distanciaScroll = $(this).scrollTop();
+                var parteArticle = distanciaArticle + (alturaArticle - alturaVentana);
+                var terminaArticle = distanciaArticle + alturaArticle;
+                if (distanciaScroll > parteArticle && distanciaScroll < terminaArticle) {
+                    if (distanciaScroll <= parteArticle + alturaArticle * 0.125) {
+                        $("#segundo p:nth-child(1)").addClass("lead");
+                        $("#segundo p:nth-child(2)").removeClass("lead");
+                        $("#segundo p:nth-child(3)").removeClass("lead");
+                    } else if (distanciaScroll <= parteArticle + alturaArticle * 0.25) {
+                        $("#segundo p:nth-child(1)").removeClass("lead");
+                        $("#segundo p:nth-child(2)").addClass("lead");
+                        $("#segundo p:nth-child(3)").removeClass("lead");
+                    } else {
+                        $("#segundo p:nth-child(1)").removeClass("lead");
+                        $("#segundo p:nth-child(2)").removeClass("lead");
+                        $("#segundo p:nth-child(3)").addClass("lead");
+                    }
+                }
+            });
+        </script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+        <!--HASTA ACÁ, Y PÉGALO AL FINAL DE TU HTML, DENTRO DEL BODY-->
+    </body>
+</html>
