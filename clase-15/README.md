@@ -1,6 +1,6 @@
 # Ayudantías para la implementación 
 
-###Clase 15 → Infografía Digital v2 → Lunes 21 de junio, 2021
+### Clase 15 → Infografía Digital v2 → Lunes 21 de junio, 2021
 
 Durante esta semana, que es la última antes de la pre-entrega de sus infografías digitales, se ofrecerán sesiones de ayudantía para resolver dudas en la implentación del código fuente final.
 
