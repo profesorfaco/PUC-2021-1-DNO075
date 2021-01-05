@@ -6,7 +6,7 @@ Durante esta semana, que es la última antes de la pre-entrega de sus infografí
 
 Hay dos condiciones para participar de las ayudantías:
 
-- que el trabajo del equipo ya se encuentre en línea, en un repositorio de organización, y 
+- que el trabajo del equipo ya se encuentre en GitHub, en un repositorio de organización, y 
 - que el trabajo haya aprovechado los *snippets* ofrecidos la clase recién pasada.
 
 - - - - - - - - - - -
