@@ -2,9 +2,7 @@
 
 ### Infografía Digital v2 → Clase 02 → Lunes 22 de marzo, 2021
 
-- - - - - - - -
-
-Las primeras tres clases de este Optativo se dividen en:
+En las tres primeras clases de este Optativo vamos a distinguir:
 
 - [Precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
@@ -12,9 +10,7 @@ Las primeras tres clases de este Optativo se dividen en:
 
 - [Referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 1. adj. Que refiere o que expresa relación a algo.
 
-En estas tres primeras clase tendrán que usar GitHub y algún editor de código fuente para resolver un ejercicio. 
-
-**En esta segunda clase, de "Antecedentes: Entre el diseño de información y el visual storytelling", se consulta la siguiente bibliografía**:
+**En esta clase de "Antecedentes: Entre el diseño de información y el visual storytelling", se consulta la siguiente bibliografía**:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
