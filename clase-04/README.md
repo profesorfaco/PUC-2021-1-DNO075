@@ -20,17 +20,22 @@ En las tres primeras clases aseguramos la partida mediante la exploración de [p
 
 #### Ejercicio
 
-Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los bocetos que realicen a mano (Ej: la cámara en su teléfono, scanner); podríamos entregar algunas instrucciones respecto del uso de [Photoshop](https://www.adobe.com/la/products/photoshop.html) para ajustar peso y resolución en la digitalización del boceto, para ello sería necesario tener este software de Adobe instalado en sus computadores.
+Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los bocetos que realicen a mano (Ej: la cámara en su teléfono, scanner).
 
-Con base a lo escogido en votación del comienzo de clases, **desarrollaremos un ejercicio en tres partes**:
+También se podría utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/) para ajustar peso y resolución en la digitalización del boceto, para ello sería necesario tener este software de Adobe instalado en sus computadores.
 
-- Primero, tendrán que **dibujar 4, 5 o 6 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
+Con base a lo escogido en votación del comienzo de clases, corresponde:
 
-- Luego, se toman tales dibujos y se digitalizan. Corresponde dejarlos en un formato cuadrado, escala de grises y extensión `PNG`. **Con esto se arma la página web que tendrán que poner en línea, con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-04/)**. Esta página tiene que introducir al movimiento o proceso en cuestión, pero primero debe publicase sólo con su secuencia de imágenes, **sin reemplazar el *loren ipsum* con la que se les entrega. Es importante que no se explique nada con texto, ni se indique cómo se llama lo que vieron**. ¿Por qué? Porque la idea es que al volver a la sala general, mostremos algunos y que alguien que no vió ese proceso nos diga lo que entiende del *wordless*. Si hay un texto o el nombre del proceso o experimento se pierde el efecto. La idea es dejar en evidencia la efectividad de la explicación visual.
+- **dibujar 4, 5 o 6 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
 
-- **Después de una sesión grupal, donde se verificará la efectividad de los *wordless*, sí podrán [describir los pasos que se muestran](https://youtu.be/iEB3oILm-qQ?t=2024)**. Esto pueden mejorarlo hasta las 23.59 hrs. del mismo día. 
+- **digitalizar tales dibujos**. Prefiera formato `JPG`, `PNG` o `GIF`, proporción cuadrada y escala de grises. Mantenga el peso de cada dibujo debajo de los [400 Kb](https://nbadiola.com/peso-ideal-fotografia-para-web/).
 
+- **armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-04/)**. 
+
+- en primera intancia, **no debe reemplazar el *loren ipsum* en el `index.html`**. Primero corresponde evaluar la efectividad de los dibujos, sin descripción escrita.
+
+- después de una sesión grupal de evaluación cruzada, [sí podrán describir](https://youtu.be/iEB3oILm-qQ?t=2024) los pasos de ese movimiento o proceso representados a través del dibujo.
 
 - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) 
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) 
