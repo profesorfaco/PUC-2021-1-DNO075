@@ -2,7 +2,7 @@
 
 ### Infografía Digital v2 → Clase 03 → Lunes 29 de marzo, 2021 
  
-Las primeras tres clases de este Optativo se dividen en:
+Las primeras tres clases de este Optativo ayudarán a diferenciar:
 
 - [Precedente](https://github.com/profesorfaco/dno075-2021/blob/gh-pages/clase-01/README.md) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
