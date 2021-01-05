@@ -1,6 +1,8 @@
-# Infografía Digital v2
+# Coding: HTML, CSS y JavaScript - sesión 2 de 2
 
-### Clase 10 → Lunes 17 de abril, 2021 → Coding: HTML, CSS y JavaScript - SESIÓN 2 DE 2
+### Infografía Digital v2 → Clase 10 → Lunes 17 de abril, 2021
+
+- - - - - - 
 
 Aprovechamos trabajos reales de infografía digital, originalmente desarrollados por: 
 
@@ -17,4 +19,4 @@ Adaptaremos tal organización a nuestro trabajo final, ajustando los números.
 
 - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) 
