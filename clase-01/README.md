@@ -10,8 +10,6 @@ En las primeras tres clases de este Optativo vamos a distinguir:
 
 - [Referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 1. adj. Que refiere o que expresa relación a algo.
 
-En estas tres primeras clase tendrán que usar [GitHub](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01#github) y algún [editor de código fuente](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01#coding-descripci%C3%B3n-vs-programaci%C3%B3n) para resolver un [ejercicio](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01#ejercicio) (todo esto se describe a continuación). 
-
 **En esta primera clase, de "Precedentes: Del texto iluminado al diseño de información"**, se consulta la siguiente bibliografía:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
