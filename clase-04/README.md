@@ -32,9 +32,9 @@ Con base a lo escogido en votación del comienzo de clases, corresponde:
 
 - **armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-04/)**. 
 
-- en primera intancia, **no debe reemplazar el *loren ipsum* en el `index.html`**. Primero corresponde evaluar la efectividad de los dibujos, sin descripción escrita.
+  - en primera intancia, **no debe reemplazar el *loren ipsum* en el `index.html`**. Primero corresponde evaluar la efectividad de los dibujos, sin ayuda escrita.
 
-- después de una sesión grupal de evaluación cruzada, [sí podrán describir](https://youtu.be/iEB3oILm-qQ?t=2024) los pasos de ese movimiento o proceso representados a través del dibujo.
+  - después de una sesión grupal de evaluación cruzada, [sí podrá describir](https://youtu.be/iEB3oILm-qQ?t=2024) los pasos de ese movimiento o proceso que representa a través de los 4, 5 o 6 dibujos.
 
 - - - - - - - 
 
