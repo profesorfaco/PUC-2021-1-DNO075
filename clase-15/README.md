@@ -6,4 +6,4 @@ Durante esta semana, que es la última antes de la pre-entrega de sus infografí
 
 - - - - - - - - - - -
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17)
