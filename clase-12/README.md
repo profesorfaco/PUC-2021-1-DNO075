@@ -2,8 +2,6 @@
 
 ###  Infografía Digital → v2 Clase 12 → Lunes 31 de abril, 2021
 
-- - - - - - - - - 
-
 El tema del curso es …………………………………
 
 Lo primero que corresponde es informarse sobre el tema, y avanzar por un asunto específico.
