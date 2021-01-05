@@ -2,7 +2,7 @@
 
 ### Infografía Digital v2 → Clase 08 → Lunes 3 de abril, 2021 
 
-**En [`index.html`](https://profesorfaco.github.io/dno075-2021/clase-08/index.html) podemos revisar lenguajes y dialectos que nos permiten producir infografías digitales:**
+**Como ya hemos visto en cada clase del Optativo:**
 
 - [HTML](https://github.com/profesorfaco/dno075-2021/wiki/HTML), que se reconoce por sus elementos demarcados con `<etiqueta atributo="…"></etiqueta>`.
 
