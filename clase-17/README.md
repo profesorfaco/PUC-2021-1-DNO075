@@ -1,6 +1,6 @@
-# Pre-entrega, en línea
+# Pre-entrega
 
-### Infografía Digital v2 → Clase 17 → Lunes 5 de julio, 2021
+###  Clase 17 → Infografía Digital v2 → Lunes 5 de julio, 2021
 
 En esta clase el equipo docente evaluará el resultado en línea. En la evaluación se aplicará una pauta de cotejo.
 
