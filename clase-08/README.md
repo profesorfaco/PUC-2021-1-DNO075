@@ -1,6 +1,8 @@
-# Infografía Digital v2
+# Coding: HTML, CSS y JavaScript - sesión 1 de 2
 
-### Clase 08 → Lunes 3 de abril, 2021 → Coding: HTML, CSS y JavaScript - SESIÓN 1 DE 2
+### Infografía Digital v2 → Clase 08 → Lunes 3 de abril, 2021 → 
+
+- - - - - - - - -
 
 **En [`index.html`](https://profesorfaco.github.io/dno075-2021/clase-08/index.html) podemos revisar lenguajes y dialectos que nos permiten producir infografías digitales:**
 
@@ -30,7 +32,6 @@ Como en cada clase, corresponde **preparar una página web que debe** quedar en 
 
 - En este nuevo `index.html` debes eliminar el elemento demarcado por las etiquetas `<footer>…</footer>`.
 
-
 - - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) | [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10) 
