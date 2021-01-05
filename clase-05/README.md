@@ -1,6 +1,6 @@
 # El dibujo como contenido: Imagen final o base para ilustración vectorial
 
-### Infografía Digital v2 → Clase 05 → Lunes 12 de abril, 2021
+### Clase 05 → Infografía Digital v2 → Lunes 12 de abril, 2021
 
 Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01), [antecedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-0) y [referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) de infografía digital. 
 
@@ -13,16 +13,21 @@ Ya pudieron haber revisado las ponencias de [Isabel Meirelles](https://youtu.be/
 
 #### Ejercicio
 
-**Nuevamente necesitaremos lápiz y papel, además de un aparato para digitalizar los bocetos que realicen a mano**; insistiremos con las instrucciones respecto del uso de Photoshop, porque no todos los trabajos de la clase recién pasada cumplieron con los ajustes de peso y resolución indicados.
+Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los dibujos que realicen a mano (Ej: la cámara en su teléfono inteligente, tablet, o scanner).
 
-**También vamos a utilizar https://wireframe.cc/ para guiar y/o complementar el trabajo a mano**.
+También se podría utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/), para ajustar peso y resolución en la digitalización del dibujo.
 
-Con base en [el desafío que se entregue](https://drive.google.com/drive/folders/1PEWSuqoLRR0H2Nkv0_xtMBo6Ns6pOPsF?usp=sharing), aplicaremos el dibujo para definir el *layout* de una página de infografía digital para dos tipos de dispositivos; en esta ocasión NO se desarrollarán imágenes independientes para luego incluir en una página predefinida. **Lo que se desarrollará serán dos bocetos completos de una misma página**:
+Corresponde:
 
-- primero un *layout* para móvil;
-- después un *layout* para pantalla grande.
+- **dibujar 4, 5 o 6 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
 
-El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-05/) de repositorio. 
+- **digitalizar tales dibujos**. Prefiera formato `JPG`, `PNG` o `GIF`, proporción cuadrada y escala de grises. Mantenga el peso de cada dibujo debajo de los [400 Kb](https://nbadiola.com/peso-ideal-fotografia-para-web/).
+
+- **armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-05/)**. 
+
+  - en primera intancia, **no debe reemplazar el *loren ipsum* en el `index.html`**. Primero corresponde evaluar la efectividad de los dibujos, sin ayuda escrita.
+
+  - después de una sesión grupal de evaluación cruzada, [sí podrá describir](https://youtu.be/iEB3oILm-qQ?t=2024) los pasos de ese movimiento o proceso que representa a través de los 4, 5 o 6 dibujos.
 
 - - - - - - - -
 
