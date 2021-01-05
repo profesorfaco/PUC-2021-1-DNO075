@@ -12,15 +12,13 @@ En equipo corresponde buscar más información y recolectar infografías digital
 
 Fuentes principales para la recolección de tales infografías deberían ser:
 
-- South China Morning Post - https://www.scmp.com/infographic/
-
 - Reuters Graphics - https://graphics.reuters.com/
+
+- South China Morning Post - https://www.scmp.com/infographic/
 
 - - - - - - - - 
 
-Para publicar la definición de subtema de equipo y recolección de información, utilice el README.md de un repositorio creado por una organización.
-
-Algunas referencias útiles:
+Para publicar la definición de subtema del equipo y su avance en la recolección de información, **utilice el README.md de un repositorio creado dentro de una organización de GitHub**. Algunas referencias útiles:
 
 - https://docs.github.com/es/enterprise-server@2.20/admin/user-management/creating-organizations
 
