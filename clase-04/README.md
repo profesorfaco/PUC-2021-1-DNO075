@@ -1,8 +1,6 @@
-# Infografía Digital v2
+# El boceto: El dibujo en función de la planificación
 
-### El boceto: El dibujo en función de la planificación
-
-#### Clase 04 → Lunes 5 de abril, 2020
+### Infografía Digital v2 → Clase 04 → Lunes 5 de abril, 2020
 
 - - - - - - - -
 
