@@ -1,4 +1,4 @@
-# Desde ilustración vectorial al SVG  → sesión 2 de 2
+# Desde ilustración vectorial al SVG  (sesión 2 de 2)
 
 ### Infografía Digital v2 → Clase 07 → Lunes 26 de abril, 2021
 
