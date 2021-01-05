@@ -8,7 +8,7 @@ Lo primero que corresponde hacer es investigar respecto al tema específico reci
 
 Basándose en sub-temas de interés personal, corresponde armar equipos de trabajo con un mínimo de 3 integrantes y máximo de 5.
 
-En equipo corresponde buscar más información y recolectar infografías digitales con la que se podría desplegar asuntos claves para la comprensión del sub-tema.
+En equipo corresponde buscar más información y recolectar infografías digitales con la que se podrían desplegar asuntos claves para la comprensión del sub-tema.
 
 Fuentes principales para la recolección de tales infografías deberían ser:
 
