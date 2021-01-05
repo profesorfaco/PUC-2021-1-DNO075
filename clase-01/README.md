@@ -1,6 +1,6 @@
 # Precedentes: Del texto iluminado al diseño de información
 
-### Infografía Digital v2 → Clase 01 → Lunes 15 de marzo, 2021
+### Clase 01 → Infografía Digital v2 → Lunes 15 de marzo, 2021
 
 En las tres primeras clases de este Optativo vamos a distinguir:
 
