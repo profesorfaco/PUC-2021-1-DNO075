@@ -24,7 +24,7 @@ En las tres primeras clases de este Optativo vamos a distinguir:
 
 #### Ejercicio
 
-Tal como en las clases anteriores, vamos a preparar una página web, que mantiene la estructura de [HTML](https://github.com/profesorfaco/dno075-2021/wiki/HTML), con variaciones de [CSS](https://github.com/profesorfaco/dno075-2021/wiki/CSS), y la adición de una librería de [JavaScript](https://github.com/profesorfaco/dno075-2021/wiki/JavaScript). Cada estudiante tendrá que preparar una página sobre un referente, el que debe informar previamente para evitar repeticiones. 
+Tal como en las clases anteriores, vamos a preparar una página web, que mantiene la estructura de [HTML](https://github.com/profesorfaco/dno075-2021/wiki/HTML), con variaciones de [CSS](https://github.com/profesorfaco/dno075-2021/wiki/CSS), y la adición de una librería de [JavaScript](https://github.com/profesorfaco/dno075-2021/wiki/JavaScript). **Cada estudiante tendrá que preparar una página sobre un referente, el que debe informar previamente para evitar repeticiones**. 
 
 Para presentar a su referente, destacada/o en el desarrollo de la infografía digital, debe seleccionar entre 6 y 10 imágenes, además depreparar un texto breve como reseña biográfica, con énfasis en su trayectoria profesional. En lo que escriba, prefiera seguir las siguientes recomendaciones: 
 
