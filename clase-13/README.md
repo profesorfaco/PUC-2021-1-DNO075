@@ -7,7 +7,7 @@ En sus bocetos **deben tomar distancia de las [landing pages](https://startboots
 - https://www.scmp.com/infographic/
 - https://graphics.reuters.com/
 
-Se recomienda tomar partes y mezclaras de modo original en un boceto realizado a mano alzada.
+Se recomienda tomar partes y mezclaras de modo original en un boceto realizado a mano alzada. En primera instancia, cada integrante del equipo debe desarrollar su boceto. Los distintos bocetos se comparten con el grupo y se hace un segundo boceto, único y colaborativo. De esta manera, si el equipo tienen 4 integrantes, les corresponde desarrollar 5 bocetos.
 
 Consideren que un resultado idea es ofrecer una pieza que podría confundirse con las publicadas los medios recién referidos. 
 
