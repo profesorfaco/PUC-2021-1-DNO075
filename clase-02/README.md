@@ -16,17 +16,18 @@
 
 #### Ejercicio
 
-Tal como en la clase anterior, para identificar ejemplos del asunto abordado, **cada estudiante debe seleccionar entre 6 y 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve, de no más de 200 palabras, para darles un hilo conductor**; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
+**Para conocer más referentes**, cada estudiante debe seleccionar de 6 a 10 imágenes de trabajos de un/a mismo/a infografista. Con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-02/). 
 
-En lo que escriba, prefiera seguir las siguientes recomendaciones: 
+Una vez terminada su página, debe ponerla en línea, usando su propia cuenta de GitHub y GitHub Pages.
 
-- https://www.nngroup.com/articles/be-succinct-writing-for-the-web/
+Como en clase pasada, se recomienda:
 
-- https://www.nngroup.com/videos/biggest-mistake-writing-web/
+- Leer con atención las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos justo donde se le indica. 
+- Apoyarse en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021/wiki). 
+- Aprovechar servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
+- Solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
-- https://www.nngroup.com/videos/plain-language-for-experts/
-
-**La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-02/) de repositorio**.
+Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su trabajo en un repositorio de GitHub; recuerde que un pantallazo u otro tipo de archivo adjunto a correo no nos permite apoyar de la mejor manera el proceso de enseñanza-aprendizaje.
 
 - - - - - - - 
 
