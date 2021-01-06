@@ -36,7 +36,9 @@ Si necesita más ayuda, se sugiere tener el trabajo en un repositorio de GitHub:
 
 #### Tarea
 
-Se recomienda revisar una ponencia en YouTube de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima.
+Revisar en YouTube una ponencia de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima.
+
+El nombre de la ponencia: [The impact of technology on infographics & data visualizations in news(-papers)](https://youtu.be/Nb0HfCj1C7Q)
 
 - - - - - - -
 
