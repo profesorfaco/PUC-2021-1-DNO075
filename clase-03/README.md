@@ -31,4 +31,10 @@ Aprovechando los archivos compartidos en esta carpeta de repositorio, podrá des
 
 - - - - - - - 
 
+#### Terea
+
+Ver en Youtube el video [Que es la Gestalt | Principios de percepción visual](https://www.youtube.com/watch?v=oW6dwEZIf3g)
+
+- - - - - - - 
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) 
