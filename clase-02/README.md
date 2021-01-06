@@ -22,7 +22,7 @@ Una vez terminada su página, debe ponerla en línea, usando su propia cuenta de
 
 Como en clase pasada, se recomienda:
 
-- Leer con atención las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos justo donde se le indica. 
+- Leer con atención las instrucciones incluidas en [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-02/), haciendo los reemplazos justo donde se le indica. 
 - Apoyarse en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021/wiki). 
 - Aprovechar servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
 - Solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
