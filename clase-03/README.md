@@ -33,7 +33,7 @@ Aprovechando los archivos compartidos en esta carpeta de repositorio, podrá des
 
 #### Terea
 
-Tiene plazo extra para terminar su página web. Puede hacerlo hasta las 23.59 hrs. del día de hoy (lunes 29 de marzo, 2021) 
+Aprovechar el plazo extra para terminar su página web. Tiene hasta hasta las 23.59 hrs. del día de hoy (lunes 29 de marzo, 2021) 
 
 - - - - - - - 
 
