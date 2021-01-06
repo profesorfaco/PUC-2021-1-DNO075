@@ -1,8 +1,8 @@
-# Referentes: Desarrollo del visual storytelling desde el periodismo digital
+# Análisis de referentes: Configuración de una infografía digital.
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
-En las tres primeras clases de este Optativo vamos a distinguir:
+En las dos primeras clases de este Optativo vamos a distinguir:
 
 - [Precedentes](https://github.com/profesorfaco/dno075-2021/blob/gh-pages/clase-01/README.md) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
 
