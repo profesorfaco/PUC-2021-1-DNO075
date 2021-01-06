@@ -14,7 +14,7 @@
 
 #### Ejercicio
 
-**Para identificar ejemplos de lo que se aborda en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve de no más de 200 palabras para darles un hilo conductor; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
+**Para identificar ejemplos de lo que se aborda en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título y texto original; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
 
 En lo que escriba, prefiera seguir las siguientes recomendaciones: 
 
