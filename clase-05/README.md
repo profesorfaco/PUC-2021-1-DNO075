@@ -2,10 +2,6 @@
 
 ### Clase 05 → Infografía Digital v2 → Lunes 12 de abril, 2021
 
-Hemos revisado [precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01), [antecedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-0) y [referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) de infografía digital. 
-
-Ya pudieron haber revisado las ponencias de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q) y [Mario García](https://youtu.be/iEB3oILm-qQ?t=1300) para comprender cómo las actuales tecnologías nos permiten contar historias. Y la clase recién pasada tuvimos la primera aproximación a [herramientas de dibujo en función de la planificación](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04).
-
 **En esta clase de "El dibujo como contenido: Imagen final o base para ilustración vectorial", el material de consulta principal es:**
 
 - Holmes, N. (2005).*Wordless Diagrams*
