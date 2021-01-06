@@ -20,11 +20,11 @@ Tal como en la clase anterior, para identificar ejemplos del asunto abordado, **
 
 En lo que escriba, prefiera seguir las siguientes recomendaciones: 
 
+- https://www.nngroup.com/articles/be-succinct-writing-for-the-web/
+
 - https://www.nngroup.com/videos/biggest-mistake-writing-web/
 
 - https://www.nngroup.com/videos/plain-language-for-experts/
-
-- https://www.nngroup.com/articles/be-succinct-writing-for-the-web/
 
 **La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-02/) de repositorio**.
 
