@@ -18,11 +18,13 @@
 
 Tal como en la clase anterior, para identificar ejemplos del asunto abordado, **cada estudiante debe seleccionar entre 6 y 10 imágenes, las que debe reunir bajo un título original, y ofrecer un texto breve, de no más de 200 palabras, para darles un hilo conductor**; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
 
-En lo que escriba, prefiera cumplir con estas recomendaciones: 
+En lo que escriba, prefiera seguir las siguientes recomendaciones: 
 
 - https://www.nngroup.com/videos/biggest-mistake-writing-web/
 
 - https://www.nngroup.com/videos/plain-language-for-experts/
+
+- https://www.nngroup.com/articles/be-succinct-writing-for-the-web/
 
 **La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-02/) de repositorio**.
 
