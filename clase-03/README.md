@@ -2,7 +2,7 @@
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
-En esta clase de "Análisis de referentes: Configuración de una infografía digital", el material de consulta principal es:
+**En esta clase de "Análisis de referentes: Configuración de una infografía digital", el material de consulta principal es:**
 
 - Samara, T. (2008) *Los elementos del diseño. Manual de estilo para diseñadores gráficos*. Barcelona: GG.
 
