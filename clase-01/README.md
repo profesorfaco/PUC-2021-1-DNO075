@@ -14,27 +14,18 @@
 
 #### Ejercicio
 
-**Para identificar ejemplos de lo que se aborda en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes, las que debe reunir bajo un título y texto original; se espera que las imágenes guarden relación entre sí, y que se indique la fuente de origen de cada una de ellas.
+**Para identificar ejemplos de lo que se aborda en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes. Y con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-01/). 
 
-En lo que escriba, prefiera seguir las siguientes recomendaciones: 
+Una vez terminada su página, debe ponerla en línea, usando su propia cuenta de GitHub y GitHub Pages.
 
-- https://www.nngroup.com/articles/be-succinct-writing-for-the-web/
+Si este es su primer trabajo con este tipo de tecnología:
 
-- https://www.nngroup.com/videos/biggest-mistake-writing-web/
-
-- https://www.nngroup.com/videos/plain-language-for-experts/
-
-
-**La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, [y aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-01/)**.
-
-Este podría ser su primer trabajo con este tipo de tecnología ¡Pero no desesperes! 
-
+- Lea con atención las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos justo donde se le indica. 
 - Apóyese en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021/wiki). 
-- Siga las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos donde se le indica. 
-- Conviene aprovechar servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
+- Aproveche servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
 - Solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
-Si necesita más ayuda, se sugiere tener el trabajo en un repositorio de GitHub: pantallazos u otro tipo de archivos adjuntos a correo no sirven para apoyar el proceso de enseñanza-aprendizaje.
+Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su trabajo en un repositorio de GitHub; pantallazos u otro tipo de archivos adjuntos a correo no nos permiten apoyar el proceso de enseñanza-aprendizaje.
 
 - - - - - - - 
 
