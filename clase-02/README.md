@@ -30,10 +30,9 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 #### Tarea
 
-Revisar en YouTube una ponencia del [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
+Revisar en YouTube una ponencia del [Dr. Mario García](http://garciamedia.com/), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
 
 El nombre de la ponencia: [Transformando el periodismo para la era del móvil](https://youtu.be/iEB3oILm-qQ?t=1301)
-
 
 - - - - - - - 
 
