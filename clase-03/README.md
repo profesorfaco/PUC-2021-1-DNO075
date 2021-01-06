@@ -1,4 +1,4 @@
-# Análisis de referentes: Configuración de una infografía digital
+# Análisis de referentes: Configuración de la infografía digital
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
