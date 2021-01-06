@@ -28,4 +28,11 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 - - - - - - - 
 
+#### Tarea
+
+Se recomienda revisar en YouTube una ponencia del [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
+
+
+- - - - - - - 
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 
