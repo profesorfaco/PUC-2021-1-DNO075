@@ -28,4 +28,10 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 
 - - - - - - - 
 
+#### Terea
+
+Tiene plazo extra para terminar su página web. Puede hacerlo hasta las 23.59 hrs. del día de hoy. 
+
+- - - - - - - 
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) 
