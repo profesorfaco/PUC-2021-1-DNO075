@@ -1,22 +1,16 @@
-# Antecedentes: Entre el diseño de información y el visual storytelling
+# Referentes: Desarrollo del visual storytelling desde el periodismo digital
 
 ### Clase 02 → Infografía Digital v2 → Lunes 22 de marzo, 2021
 
-En las tres primeras clases de este Optativo vamos a distinguir:
-
-- [Precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
-
-- **Antecedentes** 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
-
-- [Referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 1. adj. Que refiere o que expresa relación a algo.
-
-**En esta clase de "Antecedentes: Entre el diseño de información y el visual storytelling", el material de consulta principal es**:
+**En esta clase de "Referentes: Desarrollo del visual storytelling desde el periodismo digital", el material de consulta principal es**:
  
-- Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
+- Austin, T. & Doust, R. (2008). *Diseño de nuevos medios de comunicación*. Barcelona: Blume.
 
-- Franchi, F. (2013). *Designing News*. Berlin: Gestalten.
+- García, Mario R. (1998). *Tendencias en comunicación periodística visual*. Revista Latina de Comunicación Social, 3: http://www.revistalatinacs.org/z8/marz98.mario.htm
 
-- Meirelles, I. (2015). *Data Meets Viz Workshop*. En línea: http://rosuda.org/DMVslides-f/IsabelMeirelles_dataMeetViz.pdf
+- SND 2020 Virtual Conference – Newsrooms and Beyond: https://www.snd.org/dc2020/
+
+- The Eyeo Festival (2011-2020): http://eyeofestival.com/
 
 - - - - - - - 
 
@@ -31,7 +25,6 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 - https://www.nngroup.com/videos/plain-language-for-experts/
 
 **La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-02/) de repositorio**.
-
 
 - - - - - - - 
 
