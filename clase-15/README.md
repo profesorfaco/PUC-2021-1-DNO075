@@ -9,6 +9,8 @@ Hay dos condiciones para participar de las ayudantías:
 - que el trabajo del equipo ya se encuentre en GitHub, en un repositorio de organización; y 
 - que tal trabajo haya aprovechado los *snippets* ofrecidos la clase recién pasada.
 
+Las ayudantías se programarán en horario a convenir, distinto del habitual de la clase. 
+
 - - - - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17)
