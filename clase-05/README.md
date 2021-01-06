@@ -30,6 +30,12 @@ Corresponde:
 
   - después de una sesión grupal de evaluación cruzada, [sí podrá describir](https://youtu.be/iEB3oILm-qQ?t=2024) los pasos de ese movimiento o proceso que representa a través de los 4, 5 o 6 dibujos.
 
+- - - - - - - 
+
+#### Terea
+
+Tiene plazo extra para terminar su página web. Puede hacerlo hasta las 23.59 hrs. del día de hoy (lunes 12 de abril, 2021).
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) 
