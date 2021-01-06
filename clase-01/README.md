@@ -1,22 +1,14 @@
-# Precedentes: Del texto iluminado al diseño de información
+# Antecedentes: Entre el diseño de información y el visual storytelling
 
 ### Clase 01 → Infografía Digital v2 → Lunes 15 de marzo, 2021
 
-En las tres primeras clases de este Optativo vamos a distinguir:
-
-- **Precedentes** 1. adj. Que precede o es anterior y primero en el orden de la colocación o de los tiempos.
-
-- [Antecedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) 1. adj. Que antecede. 2. m. Acción, dicho o circunstancia que sirve para comprender o valorar hechos posteriores.
-
-- [Referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) 1. adj. Que refiere o que expresa relación a algo.
-
-**En esta clase de "Precedentes: Del texto iluminado al diseño de información", el material de consulta principal es:**
+**En esta clase de "Antecedentes: Entre el diseño de información y el visual storytelling", el material de consulta principal es**:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
-- Casanueva, M. & Bolaños, B. (2009). *El giro pictórico: Epistemología de la Imagen*. Barcelona: Anthropos Editorial. 
+- Franchi, F. (2013). *Designing News*. Berlin: Gestalten.
 
-- Chiuminatto, P. (2013). *René Descartes. El método de las figuras. Imaginario visual e ilustración científica*. Santiago de Chile: Orjikh editores limitada.
+- Meirelles, I. (2015). *Data Meets Viz Workshop*. En línea: http://rosuda.org/DMVslides-f/IsabelMeirelles_dataMeetViz.pdf
 
 - - - - - - - 
 
@@ -32,7 +24,13 @@ En lo que escriba, prefiera cumplir con estas recomendaciones:
 
 **La entrega de este ejercicio se hace en línea, con el uso de GitHub Pages, [y aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-01/)**.
 
-Este podría ser su primer trabajo con este tipo de tecnología ¡Pero no desesperes! Apóyese en [el Wiki del repositorio de esta versión del Optativo](https://github.com/profesorfaco/dno075-2021/wiki). Siga las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos donde se le indica. También puedes solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/), y si necesita ayuda de los profesores o ayudante, se sugiere tener tu trabajo en un repositorio de GitHub: pantallazos u otro tipo de archivos adjuntos a correo no serían útiles para apoyar el proceso de enseñanza-aprendizaje.
+Este podría ser su primer trabajo con este tipo de tecnología ¡Pero no desesperes! 
+
+- Apóyese en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021/wiki). 
+- Siga las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos donde se le indica. 
+- Puede solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/)
+
+Si necesita más ayuda, se sugiere tener el trabajo en un repositorio de GitHub: pantallazos u otro tipo de archivos adjuntos a correo no sirven para apoyar el proceso de enseñanza-aprendizaje.
 
 - - - - - - - 
 
