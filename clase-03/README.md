@@ -2,7 +2,7 @@
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
-**En esta clase de "Análisis de referentes: Configuración de una infografía digital", el material de consulta principal es:**
+**En esta clase de "Análisis de referentes: Configuración de la infografía digital", el material de consulta principal es:**
 
 - A Periodic Table of Visualization Methods. En línea: https://www.visual-literacy.org/periodic_table/periodic_table.html
 
