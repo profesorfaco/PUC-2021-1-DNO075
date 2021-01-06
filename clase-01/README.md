@@ -34,4 +34,10 @@ Si necesita más ayuda, se sugiere tener el trabajo en un repositorio de GitHub:
 
 - - - - - - - 
 
+#### Tarea
+
+Se recomienda revisar una ponencia en YouTube de [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima.
+
+- - - - - - -
+
 ###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02)
