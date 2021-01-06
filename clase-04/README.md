@@ -2,12 +2,6 @@
 
 ### Clase 04 → Infografía Digital v2 → Lunes 5 de abril, 2020
 
-En las tres primeras clases aseguramos la partida mediante la exploración de [precedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01), [antecedentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) y [referentes](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03). Como tarea, quedó la revisión de dos ponencias de expertos:
-
-1) [Isabel Meirelles](https://youtu.be/Nb0HfCj1C7Q), investigadora cuyo libro *Design for Information* es parte de nuestra bibliografía mínima; y 
-
-2) [Dr. Mario García](https://youtu.be/iEB3oILm-qQ?t=1301), especialista en storytelling móvil y transformación de redacciones para el mundo digital.
-
 **En esta clase de "El boceto: El dibujo en función de la planificación", el material de consulta principal es:**
 
 - Brown, D. (2011). *Communicating Design. Developing Web Site Documentations for Design and Planning*
