@@ -16,6 +16,8 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
 
+[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Análisis de referentes: Configuración de una infografía digital.
+
 [Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) → El boceto: El dibujo en función de la planificación.
 
 [Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial.
