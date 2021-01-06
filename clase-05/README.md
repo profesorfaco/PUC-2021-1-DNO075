@@ -34,7 +34,7 @@ Corresponde:
 
 #### Terea
 
-Tiene plazo extra para terminar su página web. Puede hacerlo hasta las 23.59 hrs. del día de hoy (lunes 12 de abril, 2021).
+Aprovechar el plazo extra para terminar su página web. Tiene hasta hasta las 23.59 hrs. del día de hoy (lunes 12 de abril, 2021).
 
 - - - - - - - -
 
