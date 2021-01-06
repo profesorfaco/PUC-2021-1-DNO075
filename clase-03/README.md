@@ -33,7 +33,7 @@ Aprovechando los archivos compartidos en esta carpeta de repositorio, podrá des
 
 #### Terea
 
-Ver en Youtube el video [Que es la Gestalt | Principios de percepción visual](https://www.youtube.com/watch?v=oW6dwEZIf3g)
+Tiene plazo extra para terminar su página web. Puede hacerlo hasta las 23.59 hrs. del día de hoy. 
 
 - - - - - - - 
 
