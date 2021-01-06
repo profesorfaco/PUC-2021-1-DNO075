@@ -30,7 +30,7 @@ El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [l
 
 #### Terea
 
-Tiene plazo extra para terminar su página web. Puede hacerlo hasta las 23.59 hrs. del día de hoy. 
+Tiene plazo extra para terminar su página web. Puede hacerlo hasta las 23.59 hrs. del día de hoy (lunes 5 de abril, 2020).
 
 - - - - - - - 
 
