@@ -31,7 +31,8 @@ Este podría ser su primer trabajo con este tipo de tecnología ¡Pero no desesp
 
 - Apóyese en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021/wiki). 
 - Siga las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos donde se le indica. 
-- Puede solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/)
+- Conviene aprovechar servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
+- Solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
 Si necesita más ayuda, se sugiere tener el trabajo en un repositorio de GitHub: pantallazos u otro tipo de archivos adjuntos a correo no sirven para apoyar el proceso de enseñanza-aprendizaje.
 
