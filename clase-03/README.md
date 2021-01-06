@@ -2,11 +2,11 @@
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
-En las dos primeras clases de este Optativo vamos a distinguir:
+En esta clase de "Análisis de referentes: Configuración de una infografía digital", el material de consulta principal es:
 
+- Samara, T. (2008) *Los elementos del diseño. Manual de estilo para diseñadores gráficos*. Barcelona: GG.
 
-
-
+- Mikjsenaar, P. (1997). *Visual Function. An Introduction to Information Design* NY: Princeton Architectural Press.
 
 - - - - - - - 
 
