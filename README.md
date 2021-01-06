@@ -44,7 +44,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 [Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) → Pre-entrega
 
-**Clase 18 → 09/07/2021** → Finalización de clases del primer período académico**
+**Clase 18 → 12/07/2021** → Período de evaluación académica final
 
 - - - - - - - - - -
 
