@@ -56,11 +56,11 @@ Cada estudiante debería contar con:
 
 - Cuenta persona en GitHub
 
-- Editor de código fuente; se recomienda [Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/).
+- Editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
 
-- Editor de gráficos rasterizados; se recomienda [Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/)
+- Editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/))
 
-- Editor de vectores gráficos; se recomienda [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/)
+- Editor de vectores gráficos ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
 
 
 - - - - - - - - - -
