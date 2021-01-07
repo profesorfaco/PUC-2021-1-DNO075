@@ -1,153 +1,172 @@
-<!DOCTYPE html>
 <html lang="es">
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous" />
-        <title>Reemplaza este título de ventana del navegador</title>
-        <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet" />
-        <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous" />
+        <title>Reemplaza este título que se muestra en la ventana de tu navegador</title>
+        <link rel="preconnect" href="https://fonts.gstatic.com" />
+        <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;1,300&display=swap" rel="stylesheet" />
         <style>
-            body {
-                font-family: "Work Sans", sans-serif;
-                font-weight: 400;
-                background-color: #fafafa;
-                color: #222;
-            }
-
-            body::-webkit-scrollbar {
-                width: 0.4rem;
-                scrollbar-color: rgba(200, 200, 200, 1) rgba(225, 225, 225, 1);
-            }
-
-            body::-webkit-scrollbar-track {
-                background: rgba(225, 225, 225, 1);
-            }
-            body::-webkit-scrollbar-thumb {
-                background-color: rgba(200, 200, 200, 1);
-            }
-            body::-webkit-scrollbar-thumb:hover {
-                background-color: rgba(175, 175, 175, 1);
-            }
-
-            h1 {
-                font-family: "DM Serif Display", serif;
-                color: #444;
-                letter-spacing: 0.05rem;
-                font-weight: 400;
-                text-shadow: 0.05rem 0.05rem 0.1rem rgba(55, 55, 55, 0.25), -0.05rem -0.05rem 0.1rem rgba(200, 200, 200, 0.25);
-            }
-            /* 
-            lo que esté acá dentro es un comentario 
-            */
-            @media (min-width: 992px) {
-                p {
-                    line-height: 1.8;
-                    text-align: justify;
-                }
-            }
-            figure {
-                position: relative;
-                margin-bottom: 2rem;
-                overflow:hidden;
-            }
-            figure img{
-                cursor:crosshair;
-            }
-            figure figcaption {
-                position: absolute;
-                bottom: -5rem;
-                left: 0.95rem;
-                margin:0;
-                color:rgba(255,255,255,0.9);
-                background: rgba(0, 0, 0, 0.75);
-            }
-            figure:hover figcaption {
-                bottom: 0;
-                transition: all ease 0.25s;
-            }            
+            :root { --bs-font-sans-serif: "DM Sans", sans-serif; }
+            :hover { transition: all ease 0.5s; }
+            * { font-weight: 300; }
+            header p { text-align: justify; }
+            header p.lead { line-height: 1.6; }
+            .card, .card-img-top { border: none; border-radius: 0 0; }
+            footer a { color: var(--bs-gray); text-decoration: none; }
+            footer a:hover { color: var(--bs-light); }
         </style>
     </head>
     <body>
-        <div class="container">
-            <div class="row py-3">
-                <div class="col-12">
-                    <h1 class="py-4">Infografista seleccionada/o</h1>
-                    <p>Breve reseña de tu infografista. Tu reseña debe tener una extensión máxima de doscientas palabras.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque in elementum metus. Pellentesque vel euismod nunc, vitae eleifend felis. Donec non mollis ante. Cras nec tellus sit amet risus hendrerit molestie sit
-                        amet eget orci. Aenean eleifend magna eu urna varius, at tincidunt mauris molestie. Donec eget diam auctor nisi ornare accumsan sit amet eget eros. Vivamus eu dapibus augue, at molestie urna. Praesent eleifend
-                        tristique nibh. Donec tincidunt pulvinar orci, vel aliquet mauris vehicula non. Nam orci sapien, imperdiet vel rutrum pulvinar, sollicitudin id tortor. Fusce eu feugiat mauris. Nunc ac nibh feugiat, bibendum sem sed,
-                        feugiat enim. Donec orci est, tincidunt sed urna ac, posuere dapibus quam. Aenean rhoncus auctor vehicula.</p>
-                    <p>Proin ut nulla mi. Donec non tincidunt ipsum. Proin lobortis hendrerit ante eu tristique. Suspendisse consequat, lectus ut ullamcorper bibendum, tortor erat finibus mauris, vitae volutpat mauris elit et metus.
-                        Maecenas vel lacinia enim. Aenean sodales turpis sed tempus semper. Aenean sit amet augue commodo, tempor purus ac, tempus ante.</p>
-                    <p>Vivamus eleifend nunc augue, sed blandit nisl ornare a. Donec ultrices massa id nulla hendrerit dictum.</p>
+
+        <header class="container">
+            <div class="row py-5">
+                <div class="col-10 col-sm-9 col-md-8 col-lg-7 mx-auto">
+                    
+                    <h1 class="mb-3 mt-5 text-center">Reemplaza el título</h1>
+                    
+                    <h3 class="fs-6 mb-5 text-center text-uppercase">Reemplaza este subtítulo con tu nombre y apellido</h3>
+                    
+                    <p class="lead">Reemplaza este párrafo con un texto introductorio, de una extensión máxima de cien palabras. En este y todos los reemplazos, respeta los colores del código fuente en tu editor. Los colores son indicaciones. Imagina que el editor de código fuente te está indicando: En el lenguaje que reconozco, aquí reconzco una descripción que no deberías confundir con otra.</p>
+
+                    <p>Reemplaza este párrafo con un texto que complemente al introductorio. Puedes extender este párrafo hasta las doscientas palabras. Si lo deseas, puedes agregar un párrafo más; basta con que repitas el elemento demarcado por <code>&lt;p&gt;</code> y <code>&lt;/p&gt;</code>.</p>
+
+                    <img src="img/infografia.png" class="w-100 shadow my-4" />
+
                 </div>
             </div>
-            <div class="row">
-                <!--Imagen 1-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 2-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 3-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 4-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 5-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 6-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 7-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 8-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 9-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--Imagen 10-->
-                <figure class="col-12 col-lg-6">
-                    <img src="img/reemplaza-esta-imagen.gif" class="img-fluid shadow-sm" />
-                    <figcaption class="pt-1 pb-2 px-2 small">Reemplaza este pie de foto</figcaption>
-                </figure>
-                <!--si quieres eliminar imágenes, elimina desde el comentario con el número hasta aquí-->
+        </header>
+
+        <main class="container-fluid bg-light">
+            <div class="row py-5">
+                <div class="col-11 mx-auto py-3">
+                    <!--la paleta-->
+                    <h2 class="text-center">Paleta cromática</h2>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" class="shadow-sm my-3">
+                        <g id="colores"></g>
+                    </svg>
+                    <!--las fuentes-->
+                    <h2 class="text-center pt-5 pb-1">Fuentes tipográficas</h2>
+                    <div class="row my-2 g-3">
+                        <!--primera fuente-->
+                        <div class="col-sm-6">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--segunda fuente-->
+                        <div class="col-sm-6">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--no más fuentes-->
+                    </div>
+                    <!--las visualizaciones-->
+                    <h2 class="text-center pt-5 pb-1">Visualizaciones de datos</h2>
+                    <div class="row my-2 g-3">
+                        <!--primera visualización-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--segunda visualización-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--tercera visualización-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--no más visualizaciones-->
+                    </div>
+                    <!--otros recursos gráficos-->
+                    <h2 class="text-center pt-5 pb-1">Otros recursos gráficos</h2>
+                    <div class="row my-2 g-3">
+                        <!--primer recurso gráfico-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--segundo recurso gráfico-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--tercer recurso gráfico-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h5 class="card-title">Reemplaza con un nombre</h5>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--no más recursos gráficos-->
+                    </div>
+                </div>
             </div>
-            <div class="row pt-5">
-                <footer class="col-12 py-3 border-top">
-                    <p>
-                        Remplaza con tu Nombre y Apellido <span class="float-right"><a href="https://github.com/profesorfaco/dno075-2020">Infografía Digital</a> <span class="d-none d-lg-inline">&bull; Lunes 24 de agosto, 2020</span></span>
+        </main>
+
+        <footer class="container-fluid bg-dark text-white-50">
+            <div class="row py-3">
+                <div class="col-12">
+                    <p class="d-flex justify-content-between small p-1 m-0">
+                        <!--reemplaza el # que sigue con la URL de tu cuenta en GitHub-->
+                        <a href="#">Reemplaza esto con tu Nombre y Apellido</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021/">Infografía Digital v2</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021/tree/main/clase-02" class="d-none d-lg-inline">Lunes 22 de marzo, 2021</a>
                     </p>
-                </footer>
+                </div>
             </div>
-        </div>
-        <script src="https://unpkg.com/scrollreveal"></script>
+        </footer>
+
         <script>
-            // Pueden visitar https://scrollrevealjs.org/ para conocer más sobre esta biblioteca de JavaScript   
-            ScrollReveal().reveal('figure', { delay: 500 });
-        </script>        
+            // Reemplaza los colores 
+            // Si necesitas que un color ocupe más espacio en la paleta: debes repetirlo.
+            var colores = ["#461220", "#8C2F39", "#B23A48", "#FCB9B2", "#FCB9B2", "#FCB9B2", "#FCB9B2", "#FED0BB", "#FFFFFF"];
+            // No reemplaces nada de lo que sigue.
+            var w = 100 / colores.length;
+            for (var x = 0; x < colores.length; x++) {
+                document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="20" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
+            }
+        </script>
+
     </body>
 </html>
