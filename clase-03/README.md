@@ -1,4 +1,4 @@
-# Análisis de referentes: Configuración de la infografía digital
+# Análisis de antecedentes: Configuración de la infografía digital
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
@@ -16,7 +16,7 @@
 
 #### Ejercicio
 
-**Para hacer un análisis de referente**, cada estudiante debe seleccionar un trabajo de un/a mismo/a infografista y describirlo en una página web que debe construir [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-03/). Considere que:
+**Para analizar un antecedente**, cada estudiante debe seleccionar un trabajo de un/a mismo/a infografista y describirlo en una página web que debe construir [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-03/). Considere que:
 
 - Puede obtener una imagen del trabajo usando el servicio de https://www.site-shot.com/ - Active el *full-size* entre las *Browser options* y defina una escala del 50% en las *Image options*. Si la infografía tiene muchas gradaciones de colores, con fotografías muy detallistas, prefiera la extensión de archivo JPG, en caso contrario mantenga la opción PNG. 
 
