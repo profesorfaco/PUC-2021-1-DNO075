@@ -1,3 +1,4 @@
+<!doctype html>
 <html lang="es">
     <head>
         <meta charset="utf-8" />
@@ -31,7 +32,7 @@
 
                     <p>Reemplaza este párrafo con un texto que complemente al introductorio. Puedes extender este párrafo hasta las doscientas palabras. Si lo deseas, puedes agregar un párrafo más; basta con que repitas el elemento demarcado por <code>&lt;p&gt;</code> y <code>&lt;/p&gt;</code>.</p>
 
-                    <img src="img/infografia.png" class="w-100 shadow my-4" />
+                    <img src="img/infografia.png" class="w-100 shadow my-4" alt="describir la infografía" />
 
                 </div>
             </div>
@@ -158,12 +159,13 @@
         </footer>
 
         <script>
-            // Reemplaza los colores 
+            // Reemplaza los colores dentro del paréntesis cuadrado, respetando las comillas. 
             // Si necesitas que un color ocupe más espacio en la paleta: debes repetirlo.
             var colores = ["#333333", "#777777", "#AAAAAA", "#CCCCCC", "#CCCCCC", "#EEEEEE", "#FFFFFF", "#FFFFFF", "#FFFFFF"];
             // No reemplaces nada de lo que sigue.
-            var w = 100 / colores.length;
-            for (var x = 0; x < colores.length; x++) {
+            var n = colores.length;
+            var w = 100 / n;
+            for (var x = 0; x < n; x++) {
                 document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="20" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
             }
         </script>
