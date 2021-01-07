@@ -1,8 +1,8 @@
-# Referentes: Desarrollo del visual storytelling desde el periodismo digital
+# El desarrollo del *visual storytelling* desde el periodismo digital
 
 ### Clase 02 → Infografía Digital v2 → Lunes 22 de marzo, 2021
 
-**En esta clase de "Referentes: Desarrollo del visual storytelling desde el periodismo digital", el material de consulta principal es**:
+**En esta clase sobre "El desarrollo del *visual storytelling* desde el periodismo digital", el material de consulta principal es**:
  
 - Austin, T. & Doust, R. (2008). *Diseño de nuevos medios de comunicación*. Barcelona: Blume.
 
