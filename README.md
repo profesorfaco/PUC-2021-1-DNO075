@@ -1,6 +1,6 @@
 # Infografía Digital v2
 
-### Diseño / Pontificia Universidad Católica de Chile
+### DNO075 → Diseño → Pontificia Universidad Católica de Chile
 
 #### [Infografía Digital](http://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=dno075) es un Optativo de Profundización (OPR), a cargo de los profesores [Jorge Cortés](https://cargocollective.com/jorgelcortes/) y [Felipe Cortez](http://profesor.faco.cl/).
 
