@@ -10,15 +10,15 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 ### Clase a Clase
 
-[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) → Antecedentes: Entre el diseño de información y el visual storytelling.
+[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) → Antecedentes: Entre el diseño de información y el visual storytelling
 
-[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) → Referentes: Desarrollo del visual storytelling desde el periodismo digital.
+[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) → Referentes: Desarrollo del visual storytelling desde el periodismo digital
 
-[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Análisis de referentes: Configuración de la infografía digital.
+[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Análisis de antecedentes: Configuración de la infografía digital
 
-[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) → El boceto: El dibujo en función de la planificación.
+[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) → El boceto: El dibujo en función de la planificación
 
-[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial.
+[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial
 
 [Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) → Desde ilustración vectorial al SVG (sesión 1 de 2)
 
