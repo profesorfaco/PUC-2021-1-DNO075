@@ -16,11 +16,17 @@
 
 #### Ejercicio
 
-**Para hacer una descripción analítica, en términos visuales, de una infografía digital**, cada estudiante debe seleccionar un trabajo de un/a mismo/a infografista y describirlo en una página web que debe construir [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-03/). 
+**Para hacer un análisis de referente**, cada estudiante debe seleccionar un trabajo de un/a mismo/a infografista y describirlo en una página web que debe construir [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-03/). Considere que:
 
-Puede obtener una imagen del trabajo, puede usar el servicio de https://www.site-shot.com/ - Active el *full-size* entre las *Browser options* y defina una escala del 50% en las *Image options*. Si la infografía tiene muchas gradaciones de colores, con fotografías muy detallistas, prefiera la extensión de archivo JPG, en caso contrario mantenga la opción PNG. 
+- Puede obtener una imagen del trabajo usando el servicio de https://www.site-shot.com/ - Active el *full-size* entre las *Browser options* y defina una escala del 50% en las *Image options*. Si la infografía tiene muchas gradaciones de colores, con fotografías muy detallistas, prefiera la extensión de archivo JPG, en caso contrario mantenga la opción PNG. 
 
-Una vez tenga la imagen, analice los colores, las tipografías, las visualizaciones de datos utilizadas y otros recursos gráficos.
+- Puede identificar las fuentes tipográficas del trabajo con [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm), una extensión de Google Chrome
+
+- Puede definir una carta cromática o tema, a partir de la imagen del trabajo usando [Adobe Color](https://color.adobe.com/es/create/image). Pero conviene diferenciar una carta o un tema de una paleta cromática. Esta última debe incluir las proporciones de todos los colores en uso y cuidar la posición en que se presenta cada color. Las otras solo identifican los colores uso.
+
+- Para nombrar a las visualizaciones de datos y sus funciones, utiliza [A Periodic Table of Visualization Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html) y el [Catálogo de Visualización de Datos](https://datavizcatalogue.com/ES/buscar.html)
+
+- El trabajo de infografía digital también podría usar recursos gráficos distintos de los ya mencionados, tales como ilustraciones y fotografías. Si los hubiera, busque los créditos de sus autores (artistas, ilustadoras, fotógrafas, etc.)
 
 - - - - - - - 
 
