@@ -1,8 +1,8 @@
-# Antecedentes: Entre el diseño de información y el visual storytelling
+# Diseño de información y *visual storytelling*
 
 ### Clase 01 → Infografía Digital v2 → Lunes 15 de marzo, 2021
 
-**En esta clase de "Antecedentes: Entre el diseño de información y el visual storytelling", el material de consulta principal es**:
+**En esta clase de "Diseño de información y *visual storytelling*", el material de consulta principal es**:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
