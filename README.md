@@ -10,9 +10,9 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 ### Clase a Clase
 
-[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) → Antecedentes: Entre el diseño de información y el visual storytelling
+[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) → Diseño de información y *visual storytelling*
 
-[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) → Referentes: Desarrollo del visual storytelling desde el periodismo digital
+[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) → Desarrollo del *visual storytelling* desde el periodismo digital
 
 [Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Análisis de antecedentes: Configuración de la infografía digital
 
