@@ -60,8 +60,7 @@ Cada estudiante debería contar con:
 
 - Editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/))
 
-- Editor de vectores gráficos ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
-
+- Editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
 
 - - - - - - - - - -
 
