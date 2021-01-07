@@ -48,9 +48,26 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 - - - - - - - - - -
 
-#### Evaluaciones:
+#### Herramientas
 
-**En el formato de clases remotas, por [Covid-19](https://www.uc.cl/uc-contra-el-coronavirus/), las evaluaciones se definen con:**
+Cada estudiante debería contar con:
+
+- Computador
+
+- Cuenta persona en GitHub
+
+- Editor de código fuente; se recomienda [Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/).
+
+- Editor de gráficos rasterizados; se recomienda [Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/)
+
+- Editor de vectores gráficos; se recomienda [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/)
+
+
+- - - - - - - - - -
+
+#### Evaluaciones
+
+La calificación final de asignatura se basa en:
 
 - Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 10. Puntaje acumulativo que se transforma en nota equivalente al 25% de la calificación final. 
 
@@ -83,14 +100,9 @@ Según Calendario de Actividades Académicas y Estudiantiles 2021, el Ingreso de
 - [SCMP Infographics](https://www.scmp.com/infographic/): The Collection of graphics made by The South China Morning Post.
 - [Tabletop Whale](http://tabletopwhale.com/): An original science illustration blog.
 
-**Bases**
-
-- [Catálogo de Visualización de Datos](https://datavizcatalogue.com/ES/)
-- [Periodic table of visualization methods](http://www.visual-literacy.org/periodic_table/periodic_table.html )
-
 - - - - - - - - - -
 
-#### Bibliografía (con ajustes por formato de clases remotas)
+#### Bibliografía
 
 **Mínima**
 
