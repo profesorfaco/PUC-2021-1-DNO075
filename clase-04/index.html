@@ -7,11 +7,33 @@
         <title>Reemplaza este título que se muestra en la ventana de tu navegador</title>
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;1,300&display=swap" rel="stylesheet" />
+        <style>
+            :root { --bs-font-sans-serif: "DM Sans", sans-serif; }
+            :hover { transition: all ease 0.5s; }
+            * { font-weight: 300; }
+            footer a { color: var(--bs-gray); text-decoration: none; }
+            footer a:hover { color: var(--bs-light); }
+        </style>
     </head>
     <body>
-    	<div class="container-fluid">
+
+        <main class="container-fluid">
     		<img src="img/reemplazar-wireframe-mobile.png" alt="reemplazar con descripción de la imagen" class="w-100 d-md-none">
     		<img src="img/reemplazar-wireframe-desktop.png" alt="reemplazar con descripción de la imagen" class="w-100 d-none d-md-block">
-    	</div>
+    	</main>
+
+        <footer class="container-fluid bg-dark text-white-50">
+            <div class="row py-3">
+                <div class="col-12">
+                    <p class="d-flex justify-content-between small p-1 m-0">
+                        <!--reemplaza el # que sigue con la URL de tu cuenta en GitHub-->
+                        <a href="#">Reemplaza esto con tu Nombre y Apellido</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021/">Infografía Digital v2</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021/tree/main/clase-04" class="d-none d-lg-inline">Lunes 5 de abril, 2020</a>
+                    </p>
+                </div>
+            </div>
+        </footer>
+
     </body>
 </html>
