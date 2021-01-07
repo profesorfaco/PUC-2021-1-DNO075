@@ -54,7 +54,7 @@ Cada estudiante debería contar con:
 
 - Computador
 
-- Cuenta persona en GitHub
+- Cuenta persona en [GitHub](https://github.com/join)
 
 - Editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
 
