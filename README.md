@@ -8,7 +8,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 - - - - - - - - - -
 
-#### Clase a Clase
+### Clase a Clase
 
 [Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) → Antecedentes: Entre el diseño de información y el visual storytelling.
 
@@ -48,7 +48,7 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 - - - - - - - - - -
 
-#### Herramientas
+### Herramientas
 
 Cada estudiante debería contar con:
 
@@ -64,7 +64,7 @@ Cada estudiante debería contar con:
 
 - - - - - - - - - -
 
-#### Evaluaciones
+### Evaluaciones
 
 La calificación final de asignatura se basa en:
 
@@ -80,9 +80,9 @@ Según Calendario de Actividades Académicas y Estudiantiles 2021, el Ingreso de
 
 - - - - - - - - - - 
 
-#### Referencias en línea
+### Referencias en línea
 
-**Expertas/os**
+#### Expertas/os
 
 - Alberto Cairo - http://www.thefunctionalart.com/
 - Giorgia Lupi - http://giorgialupi.com/ 
@@ -92,7 +92,7 @@ Según Calendario de Actividades Académicas y Estudiantiles 2021, el Ingreso de
 - Stefanie Posavec - http://www.stefanieposavec.com/
 - Mario Zafra - http://www.marianozafra.com/
 
-**Antecedentes/Referencias**
+#### Antecedentes/Referencias
 
 - [Info We Trust](https://infowetrust.com/essays): A creative studio that makes powerful data stories that inspire. Our craft is fueled by design and science.
 - [REUTERS INTERACTIVES](https://graphics.reuters.com/): A collection of recent work from the Reuters Graphics team.
@@ -101,9 +101,9 @@ Según Calendario de Actividades Académicas y Estudiantiles 2021, el Ingreso de
 
 - - - - - - - - - -
 
-#### Bibliografía
+### Bibliografía
 
-**Mínima**
+#### Mínima
 
 Cairo, Alberto (2011). *El arte funcional: Infografía y visualización de información*. Madrid: Alamut
 
@@ -113,7 +113,7 @@ Meirelles, Isabel (2013). *Design for Information: An Introduction to the histor
 
 Roam, Dan (2008). *The Back of the Napkin: Solving Problems and Selling Ideas with Pictures*. Portfolio
 
-**Complementaria**
+#### Complementaria
 
 Cairo, Alberto (2008). *Infografía 2.0*. Madrid: Alamut.
 
