@@ -68,13 +68,13 @@ Cada estudiante debería contar con:
 
 La calificación final de asignatura se basa en:
 
-- Trabajos de aplicación a desarrollarse clase a clase → Entre las clases 01 y 10. Puntaje acumulativo que se transforma en nota equivalente al 25% de la calificación final. 
+- **Trabajos de aplicación a desarrollarse clase a clase** → Entre las clases 01 y 10. Puntaje acumulativo que se transforma en nota equivalente al 25% de la calificación final. 
 
-- Trabajo práctico de ingeniería inversa → A desarrollar en la [clase 11](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11). Equivale al 25% de la calificación final.
+- **Trabajo práctico de ingeniería inversa** → A desarrollar en la [clase 11](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11). Equivale al 25% de la calificación final.
 
-- Proceso de implementación de infografía digital → Entre las clases 12 y 15. Puntaje acumulativo que se transforma en nota equivalente al 25% de la calificación final. 
+- **Proceso de implementación de infografía digital** → Entre las clases 12 y 15. Puntaje acumulativo que se transforma en nota equivalente al 25% de la calificación final. 
 
-- Resultado de trabajo final → Promedio entre nota de pre-entrega de la [clase 17](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) y la entrega final. Equivale al 25% de la calificación final.
+- **Resultado de trabajo final** → Promedio entre notas de pre-entrega de la [clase 17](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) y  entrega final. Equivale al 25% de la calificación final.
 
 Según Calendario de Actividades Académicas y Estudiantiles 2021, el Ingreso de calificación final al sistema por parte de los Docentes debe realizarse entre los días lunes 12 y viernes 27 de julio.
 
