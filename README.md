@@ -8,6 +8,22 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 
 - - - - - - - - - -
 
+### Herramientas
+
+Cada estudiante debería contar con:
+
+- Computador
+
+- Cuenta persona en [GitHub](https://github.com/join)
+
+- Editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
+
+- Editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html), [GIMP](https://www.gimp.org/) o [Photoshopea](https://www.photopea.com/))
+
+- Editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html), [InkScape](https://inkscape.org/es/) o [Boxy SVG](https://boxy-svg.com/))
+
+- - - - - - - - - -
+
 ### Clase a Clase
 
 [Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) → Diseño de información y *visual storytelling*
@@ -45,22 +61,6 @@ Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que 
 [Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) → Pre-entrega
 
 **Clase 18 → 12/07/2021** → Período de evaluación académica final
-
-- - - - - - - - - -
-
-### Herramientas
-
-Cada estudiante debería contar con:
-
-- Computador
-
-- Cuenta persona en [GitHub](https://github.com/join)
-
-- Editor de código fuente ([Atom.io](https://atom.io/) o [Sublime Text](https://www.sublimetext.com/))
-
-- Editor de gráficos rasterizados ([Adobe Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/))
-
-- Editor de gráficos vectoriales ([Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) o [InkScape](https://inkscape.org/es/))
 
 - - - - - - - - - -
 
