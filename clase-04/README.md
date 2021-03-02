@@ -1,8 +1,8 @@
-# El boceto: El dibujo en función de la planificación
+# Infografía: Información en gráficos figurativos y no figurativos
 
 ### Clase 04 → Infografía Digital v2 → Lunes 5 de abril, 2020
 
-**En esta clase de "El boceto: El dibujo en función de la planificación", el material de consulta principal es:**
+**En esta clase de "Información en gráficos figurativos y no figurativos", el material de consulta principal es:**
 
 - Brown, D. (2011). *Communicating Design. Developing Web Site Documentations for Design and Planning*
 
