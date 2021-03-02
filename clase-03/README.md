@@ -2,15 +2,11 @@
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
-**En esta clase de "Análisis de antecedentes: Configuración de la infografía digital", el material de consulta principal es:**
+**En esta clase de "Configuración de la infografía digital: Definiciones, funciones y formas", el material de consulta principal es:**
 
 - A Periodic Table of Visualization Methods. En línea: https://www.visual-literacy.org/periodic_table/periodic_table.html
 
 - Catálogo de Visualización de Datos. En línea: https://datavizcatalogue.com/ES/buscar.html
-
-- Mikjsenaar, P. (1997). *Visual Function. An Introduction to Information Design* NY: Princeton Architectural Press.
-
-- Samara, T. (2008) *Los elementos del diseño. Manual de estilo para diseñadores gráficos*. Barcelona: GG.
 
 - - - - - - - 
 
