@@ -30,11 +30,11 @@ Cada estudiante debería contar con:
 
 [Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) → El desarrollo del *visual storytelling* desde el periodismo digital
 
-[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Análisis de antecedentes: Configuración de la infografía digital
+[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Configuración de la infografía digital: Definiciones, funciones y formas
 
-[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) → El boceto: El dibujo en función de la planificación
+[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) → Infografía: Información en Gráficos figurativos y no figurativos
 
-[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial
+[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) → Gráficos en ilustración vectorial
 
 [Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) → Desde ilustración vectorial al SVG (sesión 1 de 2)
 
@@ -122,5 +122,7 @@ Errea, Javier (2017). *Visual Journalism: Infographics from the World's Best New
 Finke, T., Manger, S., & Fichtel, S. (2012). *Informotion: Animated infographics*. Berlin: Gestalten.
 
 Franchi, Francesco (2013). *Designing News: Changing the World of Editorial Design and Information Graphics*. Berlin: Gestalten
+
+Frascara, Jorge (2006). El diseño de comunicación. Buenos Aires: Infinito.
 
 Wiedemann, Julius (2016) *National Geographic Infographics*. Colonia: Taschen.
