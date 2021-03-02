@@ -1,4 +1,4 @@
-# Análisis de antecedentes: Configuración de la infografía digital
+# Configuración de la infografía digital: Definiciones, funciones y formas
 
 ### Clase 03 → Infografía Digital v2 → Lunes 29 de marzo, 2021 
  
