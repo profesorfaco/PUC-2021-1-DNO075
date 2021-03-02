@@ -4,9 +4,9 @@
 
 **En esta clase de "Información en gráficos figurativos y no figurativos", el material de consulta principal es:**
 
-- Brown, D. (2011). *Communicating Design. Developing Web Site Documentations for Design and Planning*
+- Mikjsenaar, P. (1997). *Visual Function. An Introduction to Information Design* NY: Princeton Architectural Press.
 
-- Valcke, Thomas (2009). *Basic Sketching. Techniques for the Industrial Designer*
+- Samara, T. (2008) *Los elementos del diseño. Manual de estilo para diseñadores gráficos*. Barcelona: GG.
 
 - - - - - - - - - - - - - 
 
