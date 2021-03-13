@@ -14,14 +14,14 @@
 
 #### Ejercicio
 
-**Para identificar ejemplos de lo que se aborda en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes. Y con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-01/). 
+**Para identificar ejemplos de lo que se aborda en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes. Y con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-01/). 
 
 Una vez terminada su página, debe ponerla en línea, usando su propia cuenta de GitHub y GitHub Pages.
 
 Si este es su primer trabajo con este tipo de tecnología:
 
 - Lea con atención las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos justo donde se le indica. 
-- Apóyese en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021/wiki). 
+- Apóyese en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021-1/wiki). 
 - Aproveche servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
 - Solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
@@ -37,4 +37,4 @@ El nombre de la ponencia: [The impact of technology on infographics & data visua
 
 - - - - - - -
 
-###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02)
+###### [SIGUIENTE CLASE →](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-02)
