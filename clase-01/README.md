@@ -22,17 +22,17 @@ La [presentación de la clase de hoy](https://drive.google.com/drive/folders/1Qt
 
 #### Ejercicio
 
-**Para identificar ejemplos de lo que abordamos en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes de un *transformer*. Y con estas imágenes tiene que crear una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-01/). 
+**Para identificar ejemplos de lo que abordamos en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes de un *transformer*. Con tales imágenes y un poco de texto introductorio, tiene que crear una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-01/). 
 
-Una vez terminada su página, debe ponerla [en línea con GitHub](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
+La página creada, debe ponerse[en línea con GitHub](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
-Si este es su primer trabajo con este tipo de tecnología:
+Si este es su primer trabajo con este tipo de tecnologías, puede:
 
-- Apóyese en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021-1/wiki). 
-- Aproveche servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
-- Solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
+- Apoyarse en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021-1/wiki). 
+- Aprovechar servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
+- Solicitar ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
-Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su trabajo en un repositorio de GitHub; pantallazos u otro tipo de archivos adjuntos a correo no nos permiten apoyar de buena manera el proceso de enseñanza-aprendizaje remoto.
+Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su trabajo en un repositorio de GitHub; pantallazos u archivos adjuntos a correo no nos permiten apoyar de buena manera el proceso de enseñanza-aprendizaje remoto.
 
 - - - - - - - 
 
