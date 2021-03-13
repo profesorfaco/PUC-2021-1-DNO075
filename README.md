@@ -2,9 +2,9 @@
 
 ### DNO075 → Diseño → Pontificia Universidad Católica de Chile
 
-#### [Infografía Digital](http://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=dno075) es un Optativo de Profundización (OPR), a cargo de los profesores [Jorge Cortés](https://cargocollective.com/jorgelcortes/) y [Felipe Cortez](http://faco.cl/), y la ayudante Francisca Martina.
+#### [Infografía Digital](http://catalogo.uc.cl/index.php?tmpl=component&option=com_catalogo&view=programa&sigla=dno075) es un Optativo de Profundización (OPR), a cargo de la ayudante Francisca Martina y los profesores [Jorge Cortés](https://cargocollective.com/jorgelcortes/) y [Felipe Cortez](http://faco.cl/).
 
-Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual, impulsados desde el periodismo digital.
+Este optativo está dirigido a estudiantes de Diseño, y otras disciplinas, que se interesen en la representación gráfica digital, interactiva y dinámica como medio de transmisión del conocimiento, con especial atención a los recientes avances de la narración visual, impulsados desde el periodismo.
 
 - - - - - - - - - -
 
@@ -26,39 +26,39 @@ Cada estudiante debería contar con:
 
 ### Clase a Clase
 
-[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-01) → Diseño de información y *visual storytelling*
+[Clase 01 → 15/03/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-01) → Diseño de información y *visual storytelling*
 
-[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-02) → El desarrollo del *visual storytelling* desde el periodismo digital
+[Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-02) → El desarrollo del *visual storytelling* desde el periodismo digital
 
-[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-03) → Configuración de la infografía digital: Definiciones, funciones y formas
+[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-03) → Configuración de la infografía digital: Definiciones, funciones y formas
 
-[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-04) → Infografía: Información en gráficos figurativos y no figurativos
+[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-04) → Infografía: Información en gráficos figurativos y no figurativos
 
-[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) → Gráficos en ilustración vectorial
+[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-05) → Gráficos en ilustración vectorial
 
-[Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-06) → Desde ilustración vectorial al SVG (sesión 1 de 2)
+[Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-06) → Desde ilustración vectorial al SVG (sesión 1 de 2)
 
-[Clase 07 → 26/04/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) → Desde ilustración vectorial al SVG (sesión 2 de 2)
+[Clase 07 → 26/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-07) → Desde ilustración vectorial al SVG (sesión 2 de 2)
 
-[Clase 08 → 3/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-08) → Coding: HTML, CSS y JavaScript (sesión 1 de 2)
+[Clase 08 → 3/05/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08) → Coding: HTML, CSS y JavaScript (sesión 1 de 2)
 
 **Clase 09 → 10/05/2021** → Semana de receso universitario para estudiantes
 
-[Clase 10 → 17/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10) → Coding: HTML, CSS y JavaScript (sesión 2 de 2)
+[Clase 10 → 17/05/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-10) → Coding: HTML, CSS y JavaScript (sesión 2 de 2)
 
-[Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) → Trabajo práctico de ingeniería inversa
+[Clase 11 → 24/05/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-11) → Trabajo práctico de ingeniería inversa
 
-[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-12) → Definición del sub-tema a desarrollar
+[Clase 12 → 31/05/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-12) → Definición del sub-tema a desarrollar
 
-[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) → Planificación de la infografía a través del boceto
+[Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-13) → Planificación de la infografía a través del boceto
 
-[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) → Del boceto al prototipo digital interactivo
+[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14) → Del boceto al prototipo digital interactivo
 
-[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-15) → Ayudantías para la implementación
+[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-15) → Ayudantías para la implementación
 
 **Clase 16 → 28/06/2020** → San Pedro y San Pablo. Feriado legal
 
-[Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17) → Pre-entrega
+[Clase 17 → 05/07/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-17) → Pre-entrega
 
 **Clase 18 → 12/07/2021** → Período de evaluación académica final
 
