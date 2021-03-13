@@ -2,30 +2,37 @@
 
 ### Clase 01 → Infografía Digital v2 → Lunes 15 de marzo, 2021
 
-**En esta clase de "Diseño de información y *visual storytelling*", el material de consulta principal es**:
+**El material de consulta principal**:
  
 - Cairo, A. (2017). *NERD journalism. How Data and Digital Technology Transformed News Graphics*. Barcelona: Universitat Oberta de Catalunya.
 
 - Franchi, F. (2013). *Designing News*. Berlin: Gestalten.
 
+- Meirelles, I. (2013). *Design for Information*. MA: Rockport Publishers.
+
+**Y el material complementario**:
+
+- Amoedo, A. (2007). *Infografía con valor añadido*. En línea: https://www.unav.edu/documents/29014/467792/41.pdf 
+
 - Meirelles, I. (2015). *Data Meets Viz Workshop*. En línea: http://rosuda.org/DMVslides-f/IsabelMeirelles_dataMeetViz.pdf
+
+La [presentación de la clase de hoy](https://drive.google.com/drive/folders/1Qtv0sMwPn8p6aj0ZCBI9jY1P1M5R-7jr?usp=sharing) la pueden encontra en carpeta Drive ya compartida.
 
 - - - - - - - 
 
 #### Ejercicio
 
-**Para identificar ejemplos de lo que se aborda en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes. Y con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-01/). 
+**Para identificar ejemplos de lo que abordamos en la clase**, cada estudiante debe seleccionar de 6 a 10 imágenes de un *transformer*. Y con estas imágenes tiene que crear una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-01/). 
 
-Una vez terminada su página, debe ponerla en línea, usando su propia cuenta de GitHub y GitHub Pages.
+Una vez terminada su página, debe ponerla [en línea con GitHub](https://docs.github.com/es/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
 
 Si este es su primer trabajo con este tipo de tecnología:
 
-- Lea con atención las instrucciones incluidas en los mismos archivos compartidos, haciendo los reemplazos justo donde se le indica. 
 - Apóyese en [el Wiki de este repositorio](https://github.com/profesorfaco/dno075-2021-1/wiki). 
 - Aproveche servicios en línea que permiten [formatear](https://webformatter.com/html) y [validar](https://validator.w3.org/) código fuente.
 - Solicite ayuda a compañeras/os que hayan aprobado el Optativo de [Diseño y Nuevos Medios](https://github.com/profesorfaco/dno037-2020/).
 
-Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su trabajo en un repositorio de GitHub; pantallazos u otro tipo de archivos adjuntos a correo no nos permiten apoyar el proceso de enseñanza-aprendizaje.
+Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su trabajo en un repositorio de GitHub; pantallazos u otro tipo de archivos adjuntos a correo no nos permiten apoyar de buena manera el proceso de enseñanza-aprendizaje remoto.
 
 - - - - - - - 
 
