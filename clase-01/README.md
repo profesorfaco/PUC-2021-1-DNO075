@@ -43,7 +43,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 5 | SABRINA EGGERS	 | https://sabrina11s.github.io/infodigital-1/ | 
 | 6 | NAOMÍ ELKAYAM |	 https://nelkayam.github.io/ejercicio-1/ |
 | 7 | MARCOS FERNÁNDEZ | https://marcosfernandezr.github.io/clase-01/ |
-| 8 | ANA BELÉN GALLEGUILLOS |	 https://anagalleguillos.github.io/Clase-01/ | 
+| 8 | ANA GALLEGUILLOS |	 https://anagalleguillos.github.io/Clase-01/ | 
 | 9 | ALEXANDRA GARRIDO | https://alexandracharlotte.github.io/infografiadigital-clase1/ | 
 | 10 | ROSARIO GONZALEZ | https://rosariogonzalez.github.io/infografiadigital-1/ |		
 | 11 | MARTINA GONZÁLEZ | https://m4rtina-gonzalez.github.io/infodigital-1/ |
