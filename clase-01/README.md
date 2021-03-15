@@ -60,7 +60,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 22 | SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital1/ |
 | 23 | PAULA SCHELEFF	| https://paulascheleff.github.io/infodigital-1/ |  	
 | 24 | CECILIA SOTO	| https://cecysoto.github.io/Clase-1/ |
-| 25 | MARIA JOSE SOTO	| https://github.com/CoteSoto/Infografia-Digital-01 |
+| 25 | MARIA JOSE SOTO	| PENDIENTE |
 | 26 | CATALINA TOLEDO | https://catalinatoledo.github.io/infografia1/ |
 | 27 | ROBERTO VERDUGO | PENDIENTE |  
 | 28 | MONSERRAT VERGARA | PENDIENTE |  	
