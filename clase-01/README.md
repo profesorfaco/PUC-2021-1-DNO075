@@ -38,34 +38,34 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 |:---:|:--------|:-------------|
 | 1 | VALENTINA ALTAMIRANO | 	https://vale-altamirano.github.io/infodigital-clase1/ |
 | 2 | ANNAIS BERTIN	| https://annais-bj.github.io/ejercicio1-abj/ |
-| 3 | SOFIA COBS | PENDIENTE |
+| 3 | BLANCA COBS | https://blancacobs.github.io/Infografia-Digital-1/ |
 | 4 | GABRIELA ECHEVERRÍA	| https://gabrielaeschmidt.github.io/infografia.digital-1/ |
 | 5 | SABRINA EGGERS	 | https://sabrina11s.github.io/infodigital-1/ | 
 | 6 | NAOMÍ ELKAYAM |	 https://nelkayam.github.io/ejercicio-1/ |
 | 7 | MARCOS FERNÁNDEZ | https://marcosfernandezr.github.io/clase-01/ |
-| 8 | ANA BELÉN GALLEGUILLOS |	 PENDIENTE | 
+| 8 | ANA BELÉN GALLEGUILLOS |	 https://anagalleguillos.github.io/Clase-01/ | 
 | 9 | ALEXANDRA GARRIDO | https://alexandracharlotte.github.io/infografiadigital-clase1/ | 
 | 10 | ROSARIO GONZALEZ | https://rosariogonzalez.github.io/infografiadigital-1/ |		
 | 11 | MARTINA GONZÁLEZ | https://m4rtina-gonzalez.github.io/infodigital-1/ |
 | 12 | AGUSTINA GONZÁLEZ	 | https://agugopa.github.io/Gonzalez_Agustina_trabajo_en_clases_1/ | 
 | 13 | CATALINA GRACIA | https://catalinagracia.github.io/infodigital-1/ |
 | 14 | PAULA HREPIC | PENDIENTE | 		
-| 15 | ELIANA JIMÉNEZ | PENDIENTE | 
+| 15 | ELIANA JIMÉNEZ | https://egjimenez-uc.github.io/Infodigital-1/ | 
 | 16 | PABLO LARRAÍN | https://pablolarrain.github.io/infografiadigital01/ | 
-| 17 | VALENTINA MADRID | PENDIENTE |  
+| 17 | VALENTINA MADRID | https://valevmu.github.io/ |  
 | 18 | TRINIDAD MARTÍNEZ | PENDIENTE |  
 | 19 | RACHEL QUIROZ | https://rqsalinas.github.io/C1-InfoDigital-15.03.2021/ | 
 | 20 | CRISTIAN RISCO | PENDIENTE |  	
-| 21 | ELISA ROMÁN | PENDIENTE |  
+| 21 | ELISA ROMÁN | https://elisaromanf.github.io/infodigital-clase01/ |  
 | 22 | SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital1/ |
 | 23 | PAULA SCHELEFF	| https://paulascheleff.github.io/infodigital-1/ |  	
 | 24 | CECILIA SOTO	| https://cecysoto.github.io/Clase-1/ |
 | 25 | MARIA JOSE SOTO	| PENDIENTE |
 | 26 | CATALINA TOLEDO | https://catalinatoledo.github.io/infografia1/ |
-| 27 | ROBERTO VERDUGO | PENDIENTE |  
-| 28 | MONSERRAT VERGARA | PENDIENTE |  	
+| 27 | ROBERTO VERDUGO | https://unchocman.github.io/Infografia-digital/ |  
+| 28 | MONSERRAT VERGARA | https://monchivergara.github.io/ejercicio1/ |  	
 | 29 | FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital1/ | 
-| 30 | FRANCISCA VILLALÓN | PENDIENTE |  
+| 30 | FRANCISCA VILLALÓN | https://francisca-pankii.github.io/clase1-transformer/ |  
 
 - - - - - - - 
 
