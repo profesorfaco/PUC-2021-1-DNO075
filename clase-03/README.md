@@ -4,9 +4,7 @@
 
 **En esta clase de "Información en gráficos figurativos y no figurativos", el material de consulta principal es:**
 
-- Mikjsenaar, P. (1997). *Visual Function. An Introduction to Information Design* NY: Princeton Architectural Press.
-
-- Samara, T. (2008) *Los elementos del diseño. Manual de estilo para diseñadores gráficos*. Barcelona: GG.
+-  Cairo, A. El Arte funcional.
 
 - - - - - - - - - - - - - 
 
