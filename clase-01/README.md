@@ -48,7 +48,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 10 |	ALEXANDRA GARRIDO | Boris Artzybasheff | https://alexandracharlotte.github.io/infografiadigital-clase1/ |
 | 11 |	ROSARIO GONZALEZ | Max Gschwind | https://rosariogonzalez.github.io/infografiadigital-1/ |
 | 12 |	MARTINA GONZÁLEZ | Richard Edes Harrison | https://m4rtina-gonzalez.github.io/infodigital-1/ |
-| 13 |	AGUSTINA GONZÁLEZ | ??? | https://agugopa.github.io/Gonzalez_Agustina_trabajo_en_clases_1/ |
+| 13 |	AGUSTINA GONZÁLEZ | Rolf Klep | https://agugopa.github.io/Entrega-1/ |
 | 14 |	CATALINA GRACIA | Boris Artzybasheff | https://catalinagracia.github.io/infodigital-1/ |
 | 15 |	PAULA HREPIC | Varios | https://hrepic.github.io/hrepic01/ |
 | 16 |	ELIANA JIMÉNEZ | Bernarda Bryson | https://egjimenez-uc.github.io/Infodigital-1/ |
