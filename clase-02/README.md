@@ -31,33 +31,34 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 1 | VALENTINA ALTAMIRANO |	— |	https://vale-altamirano.github.io/info-digital-clase2/ |
 | 2 | ANNAIS BERTIN	| — |	https://annais-bj.github.io/ejercicio2-abj/ |
 | 3 | BLANCA COBS |	— |	— |
-| 4 | GABRIELA ECHEVERRÍA	|	— |	— |
-| 5 | SABRINA EGGERS	 |	https://github.com/sabrina11s/infodigital-2 |	https://sabrina11s.github.io/infodigital-2/ |
-| 6 | NAOMÍ ELKAYAM |	— |	https://nelkayam.github.io/ejercicio-2/ |
-| 7 | MARCOS FERNÁNDEZ |	https://github.com/marcosfernandezr/clase-02_InfoDigital |	https://marcosfernandezr.github.io/clase-02_InfoDigital/ |
-| 8 | ANA GALLEGUILLOS |	https://github.com/anagalleguillos/Clase-02 |	https://anagalleguillos.github.io/Clase-02/ |
-| 9 | ALEXANDRA GARRIDO |	https://github.com/alexandracharlotte/clase2-JenniferDaniel/ |	https://alexandracharlotte.github.io/clase2-JenniferDaniel/ |
-| 10 | ROSARIO GONZALEZ |	— |		https://rosariogonzalez.github.io/Lunes22Marzo/ |
-| 11 | MARTINA GONZÁLEZ |	— |	https://m4rtina-gonzalez.github.io/infodigital-2/ |
-| 12 | AGUSTINA GONZÁLEZ	 |	https://github.com/agugopa/Entrega-2 |	https://agugopa.github.io/Entrega-2/ |
-| 13 | CATALINA GRACIA |	https://github.com/catalinagracia/infografiadigital2 |	https://catalinagracia.github.io/infografiadigital2/ |
-| 14 | PAULA HREPIC |	— |	— |	
-| 15 | ELIANA JIMÉNEZ |	— |	— |
-| 16 | PABLO LARRAÍN |	— |	— |
-| 17 | VALENTINA MADRID |	— |	https://valevmu.github.io/clase2/ |
-| 18 | TRINIDAD MARTÍNEZ | — |	https://trinidadmartinez.github.io/ejercicio2/ |  
-| 19 | RACHEL QUIROZ |	https://github.com/rqsalinas/C2-InfoDigital-22.03.2021 |	https://rqsalinas.github.io/C2-InfoDigital-22.03.2021/ |
-| 20 | CRISTIAN RISCO | — |	— |  	
-| 21 | ELISA ROMÁN |	— |	— |  
-| 22 | SOFÍA SÁNCHEZ |	https://github.com/sofiasanchezdonoso/infodigital2 |	— |
-| 23 | PAULA SCHELEFF	|	— |	https://paulascheleff.github.io/infodigital-2/ | 	
-| 24 | CECILIA SOTO	|	— |	— |
-| 25 | MARIA JOSE SOTO	| — |	https://cotesoto.github.io/Infografia-Digital-02/ |
-| 26 | CATALINA TOLEDO |	https://github.com/catalinatoledo/infografia2 |	https://catalinatoledo.github.io/infografia2/ |
-| 27 | ROBERTO VERDUGO |	— |	— |
-| 28 | MONSERRAT VERGARA |	— |	https://monchivergara.github.io/clase-2/ |
-| 29 | FLORENCIA VILDÓSOLA |	— |	https://florenciavildosolae.github.io/infodigital2/ |
-| 30 | FRANCISCA VILLALÓN |	— |	https://francisca-pankii.github.io/clase2-AmandaCox/ |
+| 4 | ROSA ENCO |	— |	https://rosa-enco.github.io/Infografiadigital-actividad-2/ |
+| 5 | GABRIELA ECHEVERRÍA	|	— |	— |
+| 6 | SABRINA EGGERS	 |	https://github.com/sabrina11s/infodigital-2 |	https://sabrina11s.github.io/infodigital-2/ |
+| 7 | NAOMÍ ELKAYAM |	— |	https://nelkayam.github.io/ejercicio-2/ |
+| 8 | MARCOS FERNÁNDEZ |	https://github.com/marcosfernandezr/clase-02_InfoDigital |	https://marcosfernandezr.github.io/clase-02_InfoDigital/ |
+| 9 | ANA GALLEGUILLOS |	https://github.com/anagalleguillos/Clase-02 |	https://anagalleguillos.github.io/Clase-02/ |
+| 10 | ALEXANDRA GARRIDO |	https://github.com/alexandracharlotte/clase2-JenniferDaniel/ |	https://alexandracharlotte.github.io/clase2-JenniferDaniel/ |
+| 11 | ROSARIO GONZALEZ |	— |		https://rosariogonzalez.github.io/Lunes22Marzo/ |
+| 12 | MARTINA GONZÁLEZ |	— |	https://m4rtina-gonzalez.github.io/infodigital-2/ |
+| 13 | AGUSTINA GONZÁLEZ	 |	https://github.com/agugopa/Entrega-2 |	https://agugopa.github.io/Entrega-2/ |
+| 14 | CATALINA GRACIA |	https://github.com/catalinagracia/infografiadigital2 |	https://catalinagracia.github.io/infografiadigital2/ |
+| 15 | PAULA HREPIC |	— |	— |	
+| 16 | ELIANA JIMÉNEZ |	— |	— |
+| 17 | PABLO LARRAÍN |	— |	— |
+| 18 | VALENTINA MADRID |	— |	https://valevmu.github.io/clase2/ |
+| 19 | TRINIDAD MARTÍNEZ | — |	https://trinidadmartinez.github.io/ejercicio2/ |  
+| 20 | RACHEL QUIROZ |	https://github.com/rqsalinas/C2-InfoDigital-22.03.2021 |	https://rqsalinas.github.io/C2-InfoDigital-22.03.2021/ |
+| 21 | CRISTIAN RISCO | — |	— |  	
+| 22 | ELISA ROMÁN |	— |	— |  
+| 23 | SOFÍA SÁNCHEZ |	https://github.com/sofiasanchezdonoso/infodigital2 |	— |
+| 24 | PAULA SCHELEFF	|	— |	https://paulascheleff.github.io/infodigital-2/ | 	
+| 25 | CECILIA SOTO	|	— |	— |
+| 26 | MARIA JOSE SOTO	| — |	https://cotesoto.github.io/Infografia-Digital-02/ |
+| 27 | CATALINA TOLEDO |	https://github.com/catalinatoledo/infografia2 |	https://catalinatoledo.github.io/infografia2/ |
+| 28 | ROBERTO VERDUGO |	— |	— |
+| 29 | MONSERRAT VERGARA |	— |	https://monchivergara.github.io/clase-2/ |
+| 30 | FLORENCIA VILDÓSOLA |	— |	https://florenciavildosolae.github.io/infodigital2/ |
+| 31 | FRANCISCA VILLALÓN |	— |	https://francisca-pankii.github.io/clase2-AmandaCox/ |
 
 - - - - - - - 
 
