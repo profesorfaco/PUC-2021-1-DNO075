@@ -39,12 +39,12 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 1  | VALENTINA ALTAMIRANO | Antonio Petruccelli | https://vale-altamirano.github.io/infodigital-clase1/ |
 | 2  | ANNAIS BERTIN | Rolf Klep | https://annais-bj.github.io/ejercicio1-abj/ |
 | 3  | BLANCA COBS | Antonio Petruccelli | https://blancacobs.github.io/Infografia-Digital-1/ |
-| 4	 | ROSA ENCO | Alberto Lucas López | https://rosa-enco.github.io/Infografiadigital-actividad-2/ |
+| 4	 | ROSA ENCO | Rolf Klep | https://rosa-enco.github.io/infografiadigital-actividad-1/ |
 | 5	 | GABRIELA ECHEVERRÍA | Herbert Bayer | https://gabrielaeschmidt.github.io/infografia.digital-1/ |
 | 6	 | SABRINA EGGERS | Irving Geis | https://sabrina11s.github.io/infodigital-1/ |
 | 7	 | NAOMÍ ELKAYAM | Boris Artzybasheff | https://nelkayam.github.io/ejercicio-1/ |
 | 8	 | MARCOS FERNÁNDEZ | Herbert Bayer | https://marcosfernandezr.github.io/clase-01/ |
-| 9	 |  ANA GALLEGUILLOS | Marie Neurath | https://anagalleguillos.github.io/Clase-01/ |
+| 9	 | ANA GALLEGUILLOS | Marie Neurath | https://anagalleguillos.github.io/Clase-01/ |
 | 10 |	ALEXANDRA GARRIDO | Boris Artzybasheff | https://alexandracharlotte.github.io/infografiadigital-clase1/ |
 | 11 |	ROSARIO GONZALEZ | Max Gschwind | https://rosariogonzalez.github.io/infografiadigital-1/ |
 | 12 |	MARTINA GONZÁLEZ | Richard Edes Harrison | https://m4rtina-gonzalez.github.io/infodigital-1/ |
