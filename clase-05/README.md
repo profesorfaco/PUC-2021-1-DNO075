@@ -24,7 +24,7 @@ Corresponde:
 
 - **digitalizar tales dibujos**. Prefiera formato `JPG`, `PNG` o `GIF`, proporción cuadrada y escala de grises. Mantenga el peso de cada dibujo debajo de los [400 Kb](https://nbadiola.com/peso-ideal-fotografia-para-web/).
 
-- **armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-05/)**. 
+- **armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-05/)**. 
 
   - en primera intancia, **no debe reemplazar el *loren ipsum* en el `index.html`**. Primero corresponde evaluar la efectividad de los dibujos, sin ayuda escrita.
 
