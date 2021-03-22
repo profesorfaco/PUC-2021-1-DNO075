@@ -29,7 +29,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | Nº | Nombre  | Repositorio en GitHub | GitHub Page |
 |:---:|:--------|:-------------|:-------------|
 | 1 | VALENTINA ALTAMIRANO |	— |	— |
-| 2 | ANNAIS BERTIN	| — |	— |
+| 2 | ANNAIS BERTIN	| — |	https://annais-bj.github.io/ejercicio2-abj/ |
 | 3 | BLANCA COBS |	— |	— |
 | 4 | GABRIELA ECHEVERRÍA	|	— |	— |
 | 5 | SABRINA EGGERS	 |	https://github.com/sabrina11s/infodigital-2 |	— |
@@ -56,7 +56,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 26 | CATALINA TOLEDO |	https://github.com/catalinatoledo/infografia2 |	https://catalinatoledo.github.io/infografia2/ |
 | 27 | ROBERTO VERDUGO |	— |	— |
 | 28 | MONSERRAT VERGARA |	— |	— |
-| 29 | FLORENCIA VILDÓSOLA |	— |	— |
+| 29 | FLORENCIA VILDÓSOLA |	— |	https://florenciavildosolae.github.io/infodigital2/ |
 | 30 | FRANCISCA VILLALÓN |	— |	https://francisca-pankii.github.io/clase2-AmandaCox/ |
 
 - - - - - - - 
