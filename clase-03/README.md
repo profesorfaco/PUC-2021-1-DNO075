@@ -4,7 +4,11 @@
 
 **En esta clase de "Información en gráficos figurativos y no figurativos", el material de consulta principal es:**
 
--  Cairo, A. El Arte funcional.
+- A Periodic Table of Visualization Methods. En línea: https://www.visual-literacy.org/periodic_table/periodic_table.html
+
+- Cairo, A. (2011) El Arte funcional. Madrid: Alamut.
+
+- Catálogo de Visualización de Datos. En línea: https://datavizcatalogue.com/ES/buscar.html
 
 - - - - - - - - - - - - - 
 
