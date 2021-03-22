@@ -30,9 +30,9 @@ Cada estudiante debería contar con:
 
 [Clase 02 → 22/03/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-02) → El desarrollo del *visual storytelling* desde el periodismo digital
 
-[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-03) → Configuración de la infografía digital: Definiciones, funciones y formas
+[Clase 03 → 29/03/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-03) → Infografía: Información en gráficos figurativos y no figurativos
 
-[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-04) → Infografía: Información en gráficos figurativos y no figurativos
+[Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-04) → Configuración de la infografía digital: Definiciones, funciones y formas
 
 [Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-05) → Gráficos en ilustración vectorial
 
