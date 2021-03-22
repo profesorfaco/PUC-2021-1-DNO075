@@ -32,7 +32,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 2 | ANNAIS BERTIN	| — |	https://annais-bj.github.io/ejercicio2-abj/ |
 | 3 | BLANCA COBS |	— |	— |
 | 4 | GABRIELA ECHEVERRÍA	|	— |	— |
-| 5 | SABRINA EGGERS	 |	https://github.com/sabrina11s/infodigital-2 |	— |
+| 5 | SABRINA EGGERS	 |	https://github.com/sabrina11s/infodigital-2 |	https://sabrina11s.github.io/infodigital-2/ |
 | 6 | NAOMÍ ELKAYAM |	— |	https://nelkayam.github.io/ejercicio-2/ |
 | 7 | MARCOS FERNÁNDEZ |	https://github.com/marcosfernandezr/clase-02_InfoDigital |	https://marcosfernandezr.github.io/clase-02_InfoDigital/ |
 | 8 | ANA GALLEGUILLOS |	https://github.com/anagalleguillos/Clase-02 |	https://anagalleguillos.github.io/Clase-02/ |
