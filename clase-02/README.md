@@ -26,38 +26,38 @@ Como en clase pasada, se recomienda:
 
 Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su trabajo en un repositorio de GitHub; pantallazos o archivos adjuntos a correo no nos permiten apoyar de buena manera el proceso de enseñanza-aprendizaje remoto.
 
-| Nº | Nombre  | GitHub Page |
-|:---:|:--------|:-------------|
-| 1 | VALENTINA ALTAMIRANO |	— |
-| 2 | ANNAIS BERTIN	| — |
-| 3 | BLANCA COBS |	— |
-| 4 | GABRIELA ECHEVERRÍA	|	— |
-| 5 | SABRINA EGGERS	 |	— |
-| 6 | NAOMÍ ELKAYAM |	— |
-| 7 | MARCOS FERNÁNDEZ |	— |
-| 8 | ANA GALLEGUILLOS |	— |
-| 9 | ALEXANDRA GARRIDO |	— |
-| 10 | ROSARIO GONZALEZ |	— |	
-| 11 | MARTINA GONZÁLEZ |	— |
-| 12 | AGUSTINA GONZÁLEZ	 |	— |
-| 13 | CATALINA GRACIA |	— |
-| 14 | PAULA HREPIC |	— |	
-| 15 | ELIANA JIMÉNEZ |	— |
-| 16 | PABLO LARRAÍN |	— |
-| 17 | VALENTINA MADRID |	— |
-| 18 | TRINIDAD MARTÍNEZ | — |  
-| 19 | RACHEL QUIROZ |	— |
-| 20 | CRISTIAN RISCO | — |  	
-| 21 | ELISA ROMÁN |	— |  
-| 22 | SOFÍA SÁNCHEZ |	— |
-| 23 | PAULA SCHELEFF	|	— | 	
-| 24 | CECILIA SOTO	|	— |
-| 25 | MARIA JOSE SOTO	| — |
-| 26 | CATALINA TOLEDO |	— |
-| 27 | ROBERTO VERDUGO |	— |
-| 28 | MONSERRAT VERGARA |	— |
-| 29 | FLORENCIA VILDÓSOLA |	— |
-| 30 | FRANCISCA VILLALÓN |	— |
+| Nº | Nombre  | Repositorio en GitHub | GitHub Page |
+|:---:|:--------|:-------------|:-------------|
+| 1 | VALENTINA ALTAMIRANO |	— |	— |
+| 2 | ANNAIS BERTIN	| — |	— |
+| 3 | BLANCA COBS |	— |	— |
+| 4 | GABRIELA ECHEVERRÍA	|	— |	— |
+| 5 | SABRINA EGGERS	 |	https://github.com/sabrina11s/infodigital-2 |	— |
+| 6 | NAOMÍ ELKAYAM |	— |	— |
+| 7 | MARCOS FERNÁNDEZ |	https://github.com/marcosfernandezr/clase-02_InfoDigital |	https://marcosfernandezr.github.io/clase-02_InfoDigital/ |
+| 8 | ANA GALLEGUILLOS |	https://github.com/anagalleguillos/Clase-02 |	— |
+| 9 | ALEXANDRA GARRIDO |	— |	— |
+| 10 | ROSARIO GONZALEZ |	— |		— |
+| 11 | MARTINA GONZÁLEZ |	— |	— |
+| 12 | AGUSTINA GONZÁLEZ	 |	https://github.com/agugopa/Entrega-2 |	— |
+| 13 | CATALINA GRACIA |	https://github.com/catalinagracia/infografiadigital2 |	— |
+| 14 | PAULA HREPIC |	— |	— |	
+| 15 | ELIANA JIMÉNEZ |	— |	— |
+| 16 | PABLO LARRAÍN |	— |	— |
+| 17 | VALENTINA MADRID |	— |	— |
+| 18 | TRINIDAD MARTÍNEZ | — |	— |  
+| 19 | RACHEL QUIROZ |	https://github.com/rqsalinas/C2-InfoDigital-22.03.2021 |	— |
+| 20 | CRISTIAN RISCO | — |	— |  	
+| 21 | ELISA ROMÁN |	— |	— |  
+| 22 | SOFÍA SÁNCHEZ |	https://github.com/sofiasanchezdonoso/infodigital2 |	— |
+| 23 | PAULA SCHELEFF	|	— |	— | 	
+| 24 | CECILIA SOTO	|	— |	— |
+| 25 | MARIA JOSE SOTO	| — |	— |
+| 26 | CATALINA TOLEDO |	https://github.com/catalinatoledo/infografia2 |	— |
+| 27 | ROBERTO VERDUGO |	— |	— |
+| 28 | MONSERRAT VERGARA |	— |	— |
+| 29 | FLORENCIA VILDÓSOLA |	— |	— |
+| 30 | FRANCISCA VILLALÓN |	— |	— |
 
 - - - - - - - 
 
