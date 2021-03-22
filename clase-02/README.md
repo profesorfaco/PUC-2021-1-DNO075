@@ -37,7 +37,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 7 | MARCOS FERNÁNDEZ |	https://github.com/marcosfernandezr/clase-02_InfoDigital |	https://marcosfernandezr.github.io/clase-02_InfoDigital/ |
 | 8 | ANA GALLEGUILLOS |	https://github.com/anagalleguillos/Clase-02 |	https://anagalleguillos.github.io/Clase-02/ |
 | 9 | ALEXANDRA GARRIDO |	https://github.com/alexandracharlotte/clase2-JenniferDaniel/ |	https://alexandracharlotte.github.io/clase2-JenniferDaniel/ |
-| 10 | ROSARIO GONZALEZ |	— |		— |
+| 10 | ROSARIO GONZALEZ |	— |		https://rosariogonzalez.github.io/Lunes22Marzo/ |
 | 11 | MARTINA GONZÁLEZ |	— |	https://m4rtina-gonzalez.github.io/infodigital-2/ |
 | 12 | AGUSTINA GONZÁLEZ	 |	https://github.com/agugopa/Entrega-2 |	https://agugopa.github.io/Entrega-2/ |
 | 13 | CATALINA GRACIA |	https://github.com/catalinagracia/infografiadigital2 |	https://catalinagracia.github.io/infografiadigital2/ |
