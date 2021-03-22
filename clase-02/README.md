@@ -14,7 +14,7 @@
 
 #### Ejercicio
 
-**Para conocer más post-transforms**, cada estudiante debe seleccionar de 6 a 10 imágenes de trabajos de un/a mismo/a infografista. Con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021/clase-02/). 
+**Para conocer más post-transforms**, cada estudiante debe seleccionar de 6 a 10 imágenes de trabajos de un/a mismo/a infografista. Con estas imágenes tiene que completar una página web, [aprovechando los archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-02/). 
 
 Una vez terminada su página, debe ponerla en línea, usando su propia cuenta de GitHub y GitHub Pages.
 
