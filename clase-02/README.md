@@ -55,7 +55,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 25 | MARIA JOSE SOTO	| — |	— |
 | 26 | CATALINA TOLEDO |	https://github.com/catalinatoledo/infografia2 |	https://catalinatoledo.github.io/infografia2/ |
 | 27 | ROBERTO VERDUGO |	— |	— |
-| 28 | MONSERRAT VERGARA |	— |	— |
+| 28 | MONSERRAT VERGARA |	— |	https://monchivergara.github.io/clase-2/ |
 | 29 | FLORENCIA VILDÓSOLA |	— |	https://florenciavildosolae.github.io/infodigital2/ |
 | 30 | FRANCISCA VILLALÓN |	— |	https://francisca-pankii.github.io/clase2-AmandaCox/ |
 
