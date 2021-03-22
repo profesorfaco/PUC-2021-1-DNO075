@@ -14,9 +14,15 @@
 
 #### Ejercicio
 
-Busca 4 ejemplos de uso de gráficos figurativos y 4 de uso de gráficos no figurativos en infografía digital, y completa una completa una página web  aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021-1/clase-03/) de repositorio.
+Considerando que:
 
-Podría utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/), para ajustar formato, peso y resolución de las imágenes seleccionadas.
+- **los gráficos figurativos** son aquellos que representan fenómenos físicos. En ellos, la forma gráfica se asemeja al objeto, fenómeno o proceso que representa; y
+
+- **los gráficos no figurativos** presentan fenómenos abstractos; en ellos, la correspondencia entre lo representado y su forma visual no se basa en una semejanza, sino en una "convención".
+
+Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos en infografía digital, y complete una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021-1/clase-03/) de repositorio.
+
+Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/), para ajustar formato, peso y resolución de las imágenes seleccionadas.
 
 - - - - - - - 
 
