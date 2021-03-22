@@ -51,13 +51,13 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 21 | ELISA ROMÁN |	— |	— |  
 | 22 | SOFÍA SÁNCHEZ |	https://github.com/sofiasanchezdonoso/infodigital2 |	— |
 | 23 | PAULA SCHELEFF	|	— |	— | 	
-| 24 | CECILIA SOTO	|	— |	— |
+| 24 | CECILIA SOTO	|	— |	https://cotesoto.github.io/Infografia-Digital-02/ |
 | 25 | MARIA JOSE SOTO	| — |	— |
 | 26 | CATALINA TOLEDO |	https://github.com/catalinatoledo/infografia2 |	https://catalinatoledo.github.io/infografia2/ |
 | 27 | ROBERTO VERDUGO |	— |	— |
 | 28 | MONSERRAT VERGARA |	— |	— |
 | 29 | FLORENCIA VILDÓSOLA |	— |	— |
-| 30 | FRANCISCA VILLALÓN |	— |	— |
+| 30 | FRANCISCA VILLALÓN |	— |	https://francisca-pankii.github.io/clase2-AmandaCox/ |
 
 - - - - - - - 
 
