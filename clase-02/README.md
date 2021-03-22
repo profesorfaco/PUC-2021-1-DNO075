@@ -28,7 +28,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 
 | Nº | Nombre  | Repositorio en GitHub | GitHub Page |
 |:---:|:--------|:-------------|:-------------|
-| 1 | VALENTINA ALTAMIRANO |	— |	— |
+| 1 | VALENTINA ALTAMIRANO |	— |	https://vale-altamirano.github.io/info-digital-clase2/ |
 | 2 | ANNAIS BERTIN	| — |	https://annais-bj.github.io/ejercicio2-abj/ |
 | 3 | BLANCA COBS |	— |	— |
 | 4 | GABRIELA ECHEVERRÍA	|	— |	— |
@@ -38,7 +38,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 8 | ANA GALLEGUILLOS |	https://github.com/anagalleguillos/Clase-02 |	https://anagalleguillos.github.io/Clase-02/ |
 | 9 | ALEXANDRA GARRIDO |	https://github.com/alexandracharlotte/clase2-JenniferDaniel/ |	https://alexandracharlotte.github.io/clase2-JenniferDaniel/ |
 | 10 | ROSARIO GONZALEZ |	— |		— |
-| 11 | MARTINA GONZÁLEZ |	— |	— |
+| 11 | MARTINA GONZÁLEZ |	— |	https://m4rtina-gonzalez.github.io/infodigital-2/ |
 | 12 | AGUSTINA GONZÁLEZ	 |	https://github.com/agugopa/Entrega-2 |	https://agugopa.github.io/Entrega-2/ |
 | 13 | CATALINA GRACIA |	https://github.com/catalinagracia/infografiadigital2 |	https://catalinagracia.github.io/infografiadigital2/ |
 | 14 | PAULA HREPIC |	— |	— |	
@@ -50,7 +50,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 20 | CRISTIAN RISCO | — |	— |  	
 | 21 | ELISA ROMÁN |	— |	— |  
 | 22 | SOFÍA SÁNCHEZ |	https://github.com/sofiasanchezdonoso/infodigital2 |	— |
-| 23 | PAULA SCHELEFF	|	— |	— | 	
+| 23 | PAULA SCHELEFF	|	— |	https://paulascheleff.github.io/infodigital-2/ | 	
 | 24 | CECILIA SOTO	|	— |	— |
 | 25 | MARIA JOSE SOTO	| — |	https://cotesoto.github.io/Infografia-Digital-02/ |
 | 26 | CATALINA TOLEDO |	https://github.com/catalinatoledo/infografia2 |	https://catalinatoledo.github.io/infografia2/ |
