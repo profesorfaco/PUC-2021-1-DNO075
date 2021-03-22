@@ -12,19 +12,9 @@
 
 #### Ejercicio
 
-Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los dibujos que realicen a mano (Ej: la cámara en su teléfono inteligente, tablet, o scanner).
+Busca 4 ejemplos de uso de gráficos figurativos y 4 de uso de gráficos no figurativos en infografía digital, y completa una completa una página web  aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021-1/clase-03/) de repositorio.
 
-También se podría utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/), para ajustar peso y resolución en la digitalización del dibujo.
-
-Con papel y lápiz corresponde replicar una infografía digital determinada, echando mano a los elementos estándares en la producción del *wireframe*, que es una representación esquemática de una página web que permite un primer acercamiento a la organización de contenidos en pantalla. Estos elementos se utiliza en la aplicación https://wireframe.cc/. 
-
-La infografía digital debe replicarse en dos versiones de *wireframe*:
-
-- una versión para pantalla pequeña (smartphone); y 
-
-- una versión para pantalla grande (desktop).
-
-El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021-1/clase-04/) de repositorio. 
+Podría utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [GIMP](https://www.gimp.org/), para ajustar formato, peso y resolución de las imágenes seleccionadas.
 
 - - - - - - - 
 
