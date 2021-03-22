@@ -11,16 +11,139 @@
             :root { --bs-font-sans-serif: "DM Sans", sans-serif; }
             :hover { transition: all ease 0.5s; }
             * { font-weight: 300; }
+            header p { text-align: justify; }
+            header p.lead { line-height: 1.6; }
+            .card, .card-img-top { border: none; border-radius: 0 0; }
             footer a { color: var(--bs-gray); text-decoration: none; }
             footer a:hover { color: var(--bs-light); }
         </style>
     </head>
     <body>
 
-        <main class="container-fluid py-2">
-    		<img src="img/reemplazar-wireframe-mobile.png" alt="reemplazar con descripción de la imagen" class="w-100 d-md-none">
-    		<img src="img/reemplazar-wireframe-desktop.png" alt="reemplazar con descripción de la imagen" class="w-100 d-none d-md-block">
-    	</main>
+        <header class="container">
+            <div class="row py-5">
+                <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
+                    
+                    <h1 class="mb-3 mt-5 text-center">Reemplaza este título</h1>
+                    
+                    <h2 class="fs-6 mb-5 text-center text-uppercase">Reemplaza este subtítulo con tu nombre y apellido</h2>
+                    
+                    <p class="lead">Reemplaza este párrafo con un texto introductorio, de una extensión máxima de cien palabras. En este y todos los reemplazos, respeta los colores del código fuente en tu editor. Los colores son indicaciones.</p>
+                    
+                    <p>Reemplaza este párrafo con un texto que complemente al introductorio. Puedes extender este párrafo hasta las doscientas palabras. Si lo deseas, puedes agregar un párrafo más; basta con que repitas el elemento demarcado por <code>&lt;p&gt;</code> y <code>&lt;/p&gt;</code>.</p>
+
+                    <img src="img/infografia.png" class="w-100 shadow my-4" alt="describir la infografía" />
+
+                </div>
+            </div>
+        </header>
+
+        <main class="container-fluid bg-light">
+            <div class="row py-5">
+                <div class="col-sm-11 mx-auto py-3">
+                    <!--la paleta-->
+                    <h3 class="text-center">Paleta cromática</h3>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" class="shadow-sm my-3">
+                        <g id="colores"></g>
+                    </svg>
+                    <!--las fuentes-->
+                    <h3 class="text-center pt-5 pb-1">Fuentes tipográficas</h3>
+                    <div class="row my-2 g-3">
+                        <!--primera fuente-->
+                        <div class="col-sm-6">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--segunda fuente-->
+                        <div class="col-sm-6">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--no más fuentes-->
+                    </div>
+                    <!--las visualizaciones-->
+                    <h3 class="text-center pt-5 pb-1">Visualizaciones de datos</h3>
+                    <div class="row my-2 g-3">
+                        <!--primera visualización-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--segunda visualización-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--tercera visualización-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--no más visualizaciones-->
+                    </div>
+                    <!--otros recursos gráficos-->
+                    <h3 class="text-center pt-5 pb-1">Otros recursos gráficos</h3>
+                    <div class="row my-2 g-3">
+                        <!--primer recurso gráfico-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--segundo recurso gráfico-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--tercer recurso gráfico-->
+                        <div class="col-sm-4">
+                            <div class="card shadow-sm">
+                                <img src="img/reemplazar.png" class="card-img-top" alt="describir la imagen" />
+                                <div class="card-body">
+                                    <h4 class="card-title">Reemplaza con un nombre</h4>
+                                    <p class="card-text">Reemplaza con una descripción breve.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!--no más recursos gráficos-->
+                    </div>
+                </div>
+            </div>
+        </main>
 
         <footer class="container-fluid bg-dark text-white-50">
             <div class="row py-3">
@@ -28,12 +151,24 @@
                     <p class="d-flex justify-content-between small p-1 m-0">
                         <!--reemplaza el # que sigue con la URL de tu cuenta en GitHub-->
                         <a href="#">Reemplaza esto con tu Nombre y Apellido</a>
-                        <a href="https://github.com/profesorfaco/dno075-2021/">Infografía Digital v2</a>
-                        <a href="https://github.com/profesorfaco/dno075-2021/tree/main/clase-04" class="d-none d-lg-inline">Lunes 5 de abril, 2020</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021-1/">Infografía Digital v2</a>
+                        <a href="https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-04" class="d-none d-lg-inline">Lunes 5 de abril, 2021</a>
                     </p>
                 </div>
             </div>
         </footer>
+
+        <script>
+            // Reemplaza los colores dentro del paréntesis cuadrado, respetando las comillas. 
+            // Si necesitas que un color ocupe más espacio en la paleta: debes repetirlo.
+            var colores = ["#333333", "#777777", "#AAAAAA", "#CCCCCC", "#CCCCCC", "#EEEEEE", "#FFFFFF", "#FFFFFF", "#FFFFFF"];
+            // No reemplaces nada de lo que sigue.
+            var n = colores.length;
+            var w = 100 / n;
+            for (var x = 0; x < n; x++) {
+                document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="20" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
+            }
+        </script>
 
     </body>
 </html>
