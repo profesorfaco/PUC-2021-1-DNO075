@@ -49,7 +49,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 19 | TRINIDAD MARTÍNEZ | — |	https://trinidadmartinez.github.io/ejercicio2/ |  
 | 20 | RACHEL QUIROZ |	https://github.com/rqsalinas/C2-InfoDigital-22.03.2021 |	https://rqsalinas.github.io/C2-InfoDigital-22.03.2021/ |
 | 21 | CRISTIAN RISCO | — |	— |  	
-| 22 | ELISA ROMÁN |	— |	— |  
+| 22 | ELISA ROMÁN |	https://github.com/elisaromanf/infodigital-clase02 |	https://elisaromanf.github.io/infodigital-clase02/ |  
 | 23 | SOFÍA SÁNCHEZ |	https://github.com/sofiasanchezdonoso/infodigital2 |	— |
 | 24 | PAULA SCHELEFF	|	— |	https://paulascheleff.github.io/infodigital-2/ | 	
 | 25 | CECILIA SOTO	|	— |	— |
