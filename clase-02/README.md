@@ -42,7 +42,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 12 |	MARTINA GONZÁLEZ | Marco Hernández | https://m4rtina-gonzalez.github.io/infodigital-2/ |
 | 13 |	AGUSTINA GONZÁLEZ | Giorgia Lupi | https://agugopa.github.io/Entrega-2/ |
 | 14 |	CATALINA GRACIA | Shirley Wu | https://catalinagracia.github.io/infografiadigital2/ |
-| 15 |	PAULA HREPIC | Jaime Serra | — |
+| 15 |	PAULA HREPIC | Jaime Serra | https://hrepic.github.io/hrepic02/ |
 | 16 |	ELIANA JIMÉNEZ | Marcelo Duhalde | https://egjimenez-uc.github.io/infografia-clase2/ |
 | 17 |	PABLO LARRAÍN | Mariano Zafra | https://pablolarrain.github.io/infografiadigital02/ |
 | 18 |	VALENTINA MADRID | Fernando Gomez Baptista | https://valevmu.github.io/clase2/ |
@@ -56,7 +56,7 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 26 |	CECILIA SOTO | — | — |
 | 27 |	MARIA JOSE SOTO | Xaquín G.V. | https://cotesoto.github.io/Infografia-Digital-02/ |
 | 28 |	CATALINA TOLEDO | Luiz Iria | https://catalinatoledo.github.io/infografia2/ |
-| 29 |	ROBERTO VERDUGO | Javier Zarracina | — |
+| 29 |	ROBERTO VERDUGO | Javier Zarracina | https://unchocman.github.io/Clase-2/ |
 | 30 |	MONSERRAT VERGARA | Simon Rogers | https://monchivergara.github.io/clase-2/ |
 | 31 |	FLORENCIA VILDÓSOLA | Adolfo Arranz | https://florenciavildosolae.github.io/infodigital2/ |
 | 32 |	FRANCISCA VILLALÓN | Amanda Cox | https://francisca-pankii.github.io/clase2-AmandaCox/ |
