@@ -44,8 +44,8 @@ Si necesita más ayuda, antes de consultar a profesores y ayudante, ponga su tra
 | 14 | PAULA HREPIC |	— |	— |	
 | 15 | ELIANA JIMÉNEZ |	— |	— |
 | 16 | PABLO LARRAÍN |	— |	— |
-| 17 | VALENTINA MADRID |	— |	— |
-| 18 | TRINIDAD MARTÍNEZ | — |	— |  
+| 17 | VALENTINA MADRID |	— |	https://valevmu.github.io/clase2/ |
+| 18 | TRINIDAD MARTÍNEZ | — |	https://trinidadmartinez.github.io/ejercicio2/ |  
 | 19 | RACHEL QUIROZ |	https://github.com/rqsalinas/C2-InfoDigital-22.03.2021 |	https://rqsalinas.github.io/C2-InfoDigital-22.03.2021/ |
 | 20 | CRISTIAN RISCO | — |	— |  	
 | 21 | ELISA ROMÁN |	— |	— |  
