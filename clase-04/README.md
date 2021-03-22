@@ -24,7 +24,7 @@ La infografía digital debe replicarse en dos versiones de *wireframe*:
 
 - una versión para pantalla grande (desktop).
 
-El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021/clase-04/) de repositorio. 
+El resultado debe ponerse en línea, con el uso de GitHub Pages, aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021-1/clase-04/) de repositorio. 
 
 - - - - - - - 
 
