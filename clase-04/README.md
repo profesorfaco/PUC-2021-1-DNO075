@@ -28,7 +28,7 @@
 
 #### Tarea
 
-Aprovechar el plazo extra para terminar su página web. Tiene hasta hasta las 23.59 hrs. del día de hoy (lunes 5 de abril, 2020) 
+Aprovechar el plazo extra para terminar su página web. Tiene hasta hasta las 23.59 hrs. del día de hoy.
 
 - - - - - - - 
 
