@@ -16,9 +16,9 @@
 
 Considerando que:
 
-- **los gráficos figurativos** son aquellos que representan fenómenos físicos. En ellos, la forma gráfica se asemeja al objeto, fenómeno o proceso que representa; y
+- **los gráficos figurativos** son aquellos que representan fenómenos físicos. Al representarlos, la forma gráfica se asemeja al objeto, fenómeno o proceso que representa; y
 
-- **los gráficos no figurativos** presentan fenómenos abstractos. En ellos, la correspondencia entre lo representado y su forma visual no se basa en una semejanza, sino en una "convención".
+- **los gráficos no figurativos** presentan fenómenos abstractos. Al presentarlos, no hay semejanza posible sino una "convención".
 
 Busque 4 ejemplos de uso de los primeros y 4 de uso de los segundos en infografía digital, y complete una página web aprovechando [los archivos compartidos en esta carpeta](https://profesorfaco.github.io/dno075-2021-1/clase-03/) de repositorio.
 
