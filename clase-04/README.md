@@ -24,11 +24,40 @@
 
 - El trabajo de infografía digital también podría usar recursos gráficos distintos de los ya mencionados, tales como ilustraciones y fotografías. Si los hubiera, busque los créditos de sus autores (artistas, ilustadoras, fotógrafas, etc.)
 
-- - - - - - - 
-
-#### Tarea
-
-Aprovechar el plazo extra para terminar su página web. Tiene hasta hasta las 23.59 hrs. del día de hoy.
+| Nº   | Nombre | GitHub Pages |
+|:-----:|:-----|:-------------|
+| 1  | VALENTINA ALTAMIRANO | — |
+| 2  | ANNAIS BERTIN | — |
+| 3  | BLANCA COBS | — |
+| 4	 | ROSA ENCO | — |
+| 5	 | GABRIELA ECHEVERRÍA | — |
+| 6	 | SABRINA EGGERS | — |
+| 7	 | NAOMÍ ELKAYAM | — |
+| 8	 | MARCOS FERNÁNDEZ | — |
+| 9	 |  ANA GALLEGUILLOS | — |
+| 10 |	ALEXANDRA GARRIDO | — |
+| 11 |	ROSARIO GONZALEZ | — |
+| 12 |	MARTINA GONZÁLEZ | — |
+| 13 |	AGUSTINA GONZÁLEZ | — |
+| 14 |	CATALINA GRACIA | — |
+| 15 |	PAULA HREPIC | — |
+| 16 |	ELIANA JIMÉNEZ | — |
+| 17 |	PABLO LARRAÍN | — |
+| 18 |	VALENTINA MADRID | — |
+| 19 |	TRINIDAD MARTÍNEZ | — |
+| 20 |	TAMARA PEÑA | — |
+| 21 |	RACHEL QUIROZ | — |
+| 22 |	CRISTIAN RISCO | — |
+| 23 |	ELISA ROMÁN | — |
+| 24 |	SOFÍA SÁNCHEZ | — |
+| 25 |	PAULA SCHELEFF | — |
+| 26 |	CECILIA SOTO | — |
+| 27 |	MARIA JOSE SOTO | — |
+| 28 |	CATALINA TOLEDO | — |
+| 29 |	ROBERTO VERDUGO | — |
+| 30 |	MONSERRAT VERGARA | — |
+| 31 |	FLORENCIA VILDÓSOLA | — |
+| 32 |	FRANCISCA VILLALÓN | — |
 
 - - - - - - - 
 
