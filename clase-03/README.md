@@ -16,7 +16,7 @@
 
 Considerando que:
 
-- **los gráficos figurativos** son aquellos que representan fenómenos físicos. Al representarlos, la forma gráfica se asemeja al objeto, fenómeno o proceso que representa; y
+- **los gráficos figurativos** son aquellos que representan objetos, fenómenos o procesos físicos. Al representarlos, la forma gráfica se hace semejante; y
 
 - **los gráficos no figurativos** presentan fenómenos abstractos. Al presentarlos, no hay semejanza posible sino una "convención".
 
