@@ -30,7 +30,9 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 
 #### Tarea
 
-Aprovechar el plazo extra para terminar su página web. Tiene hasta hasta las 23.59 hrs. del día de hoy (lunes 5 de abril, 2020).
+Revisar este artículo sobre Optimización de imágenes en Photoshop Elements: 
+
+https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 
 - - - - - - - 
 
