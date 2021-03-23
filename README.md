@@ -34,7 +34,7 @@ Cada estudiante debería contar con:
 
 [Clase 04 → 5/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-04) → Configuración de la infografía digital: Definiciones, funciones y formas
 
-[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-05) → Gráficos en ilustración vectorial
+[Clase 05 → 12/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-05) → El dibujo como contenido: Imagen final o base para ilustración vectorial
 
 [Clase 06 → 19/04/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-06) → Desde ilustración vectorial al SVG (sesión 1 de 2)
 
