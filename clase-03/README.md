@@ -28,8 +28,8 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 
 | Nº   | Nombre | GitHub Pages |
 |:-----:|:-----|:-------------|
-| 1  | VALENTINA ALTAMIRANO | — |
-| 2  | ANNAIS BERTIN | — |
+| 1  | VALENTINA ALTAMIRANO | https://vale-altamirano.github.io/infodigital-clase-3/ |
+| 2  | ANNAIS BERTIN | https://annais-bj.github.io/ejercicio3-anj |
 | 3  | BLANCA COBS | — |
 | 4	 | ROSA ENCO | — |
 | 5	 | GABRIELA ECHEVERRÍA | — |
@@ -39,23 +39,23 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 | 9	 |  ANA GALLEGUILLOS | — |
 | 10 |	ALEXANDRA GARRIDO | — |
 | 11 |	ROSARIO GONZALEZ | — |
-| 12 |	MARTINA GONZÁLEZ | — |
-| 13 |	AGUSTINA GONZÁLEZ | — |
-| 14 |	CATALINA GRACIA | — |
-| 15 |	PAULA HREPIC | — |
-| 16 |	ELIANA JIMÉNEZ | — |
+| 12 |	MARTINA GONZÁLEZ | https://m4rtina-gonzalez.github.io/infodigital-3 |
+| 13 |	AGUSTINA GONZÁLEZ | https://agugopa.github.io/Entrega-3/ |
+| 14 |	CATALINA GRACIA | https://catalinagracia.github.io/infografiadigital3/ |
+| 15 |	PAULA HREPIC | https://hrepic.github.io/hrepic03/ |
+| 16 |	ELIANA JIMÉNEZ | https://egjimenez-uc.github.io/clase-3-infografia/ |
 | 17 |	PABLO LARRAÍN | — |
 | 18 |	VALENTINA MADRID | — |
-| 19 |	TRINIDAD MARTÍNEZ | — |
+| 19 |	TRINIDAD MARTÍNEZ | https://trinidadmartinez.github.io/ejercicio3/ |
 | 20 |	TAMARA PEÑA | — |
-| 21 |	RACHEL QUIROZ | — |
+| 21 |	RACHEL QUIROZ | https://rqsalinas.github.io/C3-InfoDigital-29.03.2021/ |
 | 22 |	CRISTIAN RISCO | — |
 | 23 |	ELISA ROMÁN | — |
-| 24 |	SOFÍA SÁNCHEZ | — |
-| 25 |	PAULA SCHELEFF | — |
+| 24 |	SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital-3/ |
+| 25 |	PAULA SCHELEFF | https://paulascheleff.github.io/infodigital-3/ |
 | 26 |	CECILIA SOTO | — |
 | 27 |	MARIA JOSE SOTO | — |
-| 28 |	CATALINA TOLEDO | — |
+| 28 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografia3 |
 | 29 |	ROBERTO VERDUGO | — |
 | 30 |	MONSERRAT VERGARA | — |
 | 31 |	FLORENCIA VILDÓSOLA | — |
