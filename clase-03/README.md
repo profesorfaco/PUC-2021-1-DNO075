@@ -33,7 +33,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 | 3  | BLANCA COBS | — |
 | 4	 | ROSA ENCO | — |
 | 5	 | GABRIELA ECHEVERRÍA | — |
-| 6	 | SABRINA EGGERS | — |
+| 6	 | SABRINA EGGERS | https://sabrina11s.github.io/infodigital-3/ |
 | 7	 | NAOMÍ ELKAYAM | — |
 | 8	 | MARCOS FERNÁNDEZ | — |
 | 9	 |  ANA GALLEGUILLOS | — |
