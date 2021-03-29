@@ -65,9 +65,14 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 
 #### Tarea
 
-Revisar este artículo sobre Optimización de imágenes en Photoshop Elements: 
+Revisar el Catálogo de Visualización de Datos, haciendo búsquedas por función y lista:
 
-https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
+https://datavizcatalogue.com/ES/
+
+Echarle un vistazo a:
+
+https://www.visual-literacy.org/periodic_table/periodic_table.html
+
 
 - - - - - - - 
 
