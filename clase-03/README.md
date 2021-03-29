@@ -28,13 +28,13 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 
 | Nº   | Nombre | GitHub Pages |
 |:-----:|:-----|:-------------|
-| 1  | VALENTINA ALTAMIRANO | — |
+| 1  | VALENTINA ALTAMIRANO | https://vale-altamirano.github.io/infodigital-ejercicio-3/ |
 | 2  | ANNAIS BERTIN | https://annais-bj.github.io/ejercicio3-anj |
 | 3  | BLANCA COBS | — |
 | 4	 | ROSA ENCO | — |
 | 5	 | GABRIELA ECHEVERRÍA | — |
 | 6	 | SABRINA EGGERS | https://sabrina11s.github.io/infodigital-3/ |
-| 7	 | NAOMÍ ELKAYAM | — |
+| 7	 | NAOMÍ ELKAYAM | https://nelkayam.github.io/ejercicio-3/ |
 | 8	 | MARCOS FERNÁNDEZ | — |
 | 9	 |  ANA GALLEGUILLOS | — |
 | 10 |	ALEXANDRA GARRIDO | — |
@@ -58,7 +58,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 | 28 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografia3 |
 | 29 |	ROBERTO VERDUGO | — |
 | 30 |	MONSERRAT VERGARA | — |
-| 31 |	FLORENCIA VILDÓSOLA | — |
+| 31 |	FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital3/ |
 | 32 |	FRANCISCA VILLALÓN | — |
 
 - - - - - - - 
