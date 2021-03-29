@@ -57,7 +57,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 | 27 |	MARIA JOSE SOTO | — |
 | 28 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografia3/ |
 | 29 |	ROBERTO VERDUGO | — |
-| 30 |	MONSERRAT VERGARA | — |
+| 30 |	MONSERRAT VERGARA | https://monchivergara.github.io/clase-3/ |
 | 31 |	FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital3/ |
 | 32 |	FRANCISCA VILLALÓN | — |
 
