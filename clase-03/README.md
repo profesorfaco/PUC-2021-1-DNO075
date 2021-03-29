@@ -28,7 +28,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 
 | Nº   | Nombre | GitHub Pages |
 |:-----:|:-----|:-------------|
-| 1  | VALENTINA ALTAMIRANO | https://vale-altamirano.github.io/infodigital-clase-3/ |
+| 1  | VALENTINA ALTAMIRANO | — |
 | 2  | ANNAIS BERTIN | https://annais-bj.github.io/ejercicio3-anj |
 | 3  | BLANCA COBS | — |
 | 4	 | ROSA ENCO | — |
