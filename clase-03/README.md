@@ -30,7 +30,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 |:-----:|:-----|:-------------|
 | 1  | VALENTINA ALTAMIRANO | https://vale-altamirano.github.io/infodigital-ejercicio-3/ |
 | 2  | ANNAIS BERTIN | https://annais-bj.github.io/ejercicio3-abj/ |
-| 3  | BLANCA COBS | — |
+| 3  | BLANCA COBS | https://blancacobs.github.io/Infografia-Digital-3/ |
 | 4	 | ROSA ENCO | — |
 | 5	 | GABRIELA ECHEVERRÍA | — |
 | 6	 | SABRINA EGGERS | https://sabrina11s.github.io/infodigital-3/ |
