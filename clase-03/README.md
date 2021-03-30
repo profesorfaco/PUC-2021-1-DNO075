@@ -53,7 +53,7 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 | 23 |	ELISA ROMÁN | https://elisaromanf.github.io/infodigital-clase03/ |
 | 24 |	SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital-3/ |
 | 25 |	PAULA SCHELEFF | https://paulascheleff.github.io/infodigital-3/ |
-| 26 |	CECILIA SOTO | Solo README.md |
+| 26 |	CECILIA SOTO | repositorio creado con README.md, nada más |
 | 27 |	MARIA JOSE SOTO | https://cotesoto.github.io/Infografia-Digital-03/ |
 | 28 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografia3/ |
 | 29 |	ROBERTO VERDUGO | https://unchocman.github.io/Clase-3/ |
