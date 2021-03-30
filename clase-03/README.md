@@ -31,35 +31,35 @@ Puede utilizar [Photoshop](https://www.adobe.com/la/products/photoshop.html) o [
 | 1  | VALENTINA ALTAMIRANO | https://vale-altamirano.github.io/infodigital-ejercicio-3/ |
 | 2  | ANNAIS BERTIN | https://annais-bj.github.io/ejercicio3-abj/ |
 | 3  | BLANCA COBS | https://blancacobs.github.io/Infografia-Digital-3/ |
-| 4	 | ROSA ENCO | — |
-| 5	 | GABRIELA ECHEVERRÍA | — |
+| 4	 | ROSA ENCO | https://rosa-enco.github.io/infografiadigital-actividad-3/ |
+| 5	 | GABRIELA ECHEVERRÍA | https://gabrielaeschmidt.github.io/infografia.digital-3/ |
 | 6	 | SABRINA EGGERS | https://sabrina11s.github.io/infodigital-3/ |
 | 7	 | NAOMÍ ELKAYAM | https://nelkayam.github.io/ejercicio-3/ |
-| 8	 | MARCOS FERNÁNDEZ | — |
-| 9	 |  ANA GALLEGUILLOS | — |
-| 10 |	ALEXANDRA GARRIDO | — |
-| 11 |	ROSARIO GONZALEZ | — |
-| 12 |	MARTINA GONZÁLEZ | https://m4rtina-gonzalez.github.io/infodigital-3 |
+| 8	 | MARCOS FERNÁNDEZ | https://marcosfernandezr.github.io/clase03-InfoDigital/ |
+| 9	 |  ANA GALLEGUILLOS | https://anagalleguillos.github.io/Clase-03/ |
+| 10 |	ALEXANDRA GARRIDO | https://alexandracharlotte.github.io/Clase3FigurativoNofigurativo/ |
+| 11 |	ROSARIO GONZALEZ | https://rosariogonzalez.github.io/Lunes29Marzo/ |
+| 12 |	MARTINA GONZÁLEZ | https://m4rtina-gonzalez.github.io/infodigital3/ |
 | 13 |	AGUSTINA GONZÁLEZ | https://agugopa.github.io/Entrega-3/ |
 | 14 |	CATALINA GRACIA | https://catalinagracia.github.io/infografiadigital3/ |
 | 15 |	PAULA HREPIC | https://hrepic.github.io/hrepic03/ |
 | 16 |	ELIANA JIMÉNEZ | https://egjimenez-uc.github.io/clase-3-infografia/ |
 | 17 |	PABLO LARRAÍN | — |
-| 18 |	VALENTINA MADRID | — |
+| 18 |	VALENTINA MADRID | https://valevmu.github.io/clase3/ |
 | 19 |	TRINIDAD MARTÍNEZ | https://trinidadmartinez.github.io/ejercicio3/ |
 | 20 |	TAMARA PEÑA | — |
 | 21 |	RACHEL QUIROZ | https://rqsalinas.github.io/C3-InfoDigital-29.03.2021/ |
 | 22 |	CRISTIAN RISCO | — |
-| 23 |	ELISA ROMÁN | — |
+| 23 |	ELISA ROMÁN | https://elisaromanf.github.io/infodigital-clase03/ |
 | 24 |	SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital-3/ |
 | 25 |	PAULA SCHELEFF | https://paulascheleff.github.io/infodigital-3/ |
-| 26 |	CECILIA SOTO | — |
-| 27 |	MARIA JOSE SOTO | — |
+| 26 |	CECILIA SOTO | Solo README.md |
+| 27 |	MARIA JOSE SOTO | https://cotesoto.github.io/Infografia-Digital-03/ |
 | 28 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografia3/ |
-| 29 |	ROBERTO VERDUGO | — |
+| 29 |	ROBERTO VERDUGO | https://unchocman.github.io/Clase-3/ |
 | 30 |	MONSERRAT VERGARA | https://monchivergara.github.io/clase-3/ |
 | 31 |	FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital3/ |
-| 32 |	FRANCISCA VILLALÓN | — |
+| 32 |	FRANCISCA VILLALÓN | https://francisca-pankii.github.io/clase3-Infografia-visualizacion/ |
 
 - - - - - - - 
 
