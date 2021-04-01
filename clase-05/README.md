@@ -21,7 +21,7 @@ Necesitaremos seleccionar uno de los "data samples" que ofrece [RAWGraphs](https
 
 Una vez creada una gráfica no figurativa que compla con el objetivo de permitir explorar datos de manera visual, corresponde descargar como SVG, para crear una copia y editarla con [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html).
 
-Tanto la copia como el resultado de edición con [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) serán utilizadas para crear una página, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-05/)**. 
+Tanto la copia como el resultado de edición con [Adobe Illustrator](https://www.adobe.com/la/products/illustrator.html) serán utilizadas para crear una página, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-05/). 
 
 - - - - - - - -
 
