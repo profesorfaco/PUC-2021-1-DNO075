@@ -1,4 +1,4 @@
-# Infografía Digital: Del gráfico mixto al SVG
+# Infografía digital: Del gráfico mixto al SVG
 
 ### Clase 07 → Infografía Digital v2 → Lunes 26 de abril, 2021
 
