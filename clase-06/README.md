@@ -1,4 +1,4 @@
-# Infografía Digital: Del gráfico figurativo al SVG
+# Infografía digital: Del gráfico figurativo al SVG
 
 ### Clase 06 → Infografía Digital v2 → Lunes 19 de abril, 2021
 
