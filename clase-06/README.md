@@ -22,7 +22,7 @@ Corresponde:
 
 - **dibujar 4, 5 o 6 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
 
-- **digitalizar tales dibujos** y luego **trazar las imágenes**. Así podrán contar con archivos de vectores, editables.
+- **digitalizar tales dibujos** y luego **trazar las imágenes** con [calco interactivo](https://www.youtube.com/watch?v=i4RjPqsi-Fw). 
 
 - **armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-06/)**. 
 
