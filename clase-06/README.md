@@ -2,7 +2,7 @@
 
 ### Clase 06 → Infografía Digital v2 → Lunes 19 de abril, 2021
 
-En esta clave conviene echarle un vistazo a:
+En esta clase nos apoyaremos en:
 
 - Holmes, N. (2005).*Wordless Diagrams*
 
