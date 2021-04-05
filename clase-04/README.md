@@ -27,7 +27,7 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 |:-----:|:--------------------|:-------------------------|:---------------------------|
 |  1    | [A scarce flavor](https://graphics.reuters.com/MCCORMICK-VANILLA/010092KE3B8/index.html) | https://annais-bj.github.io/ejercicio4-abj-mv/ | ANNAIS BERTIN + MONSERRAT VERGARA |
 |  2    | [Air Attack](https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/index.html) | https://florenciavildosolae.github.io/infodigital4/ | AGUSTINA GONZÁLEZ + FLORENCIA VILDÓSOLA |
-|  3    | [America's cautious comeback](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-TRENDS/jznpnbdojpl/index.html) | — | — |
+|  3    | [America's cautious comeback](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-TRENDS/jznpnbdojpl/index.html) | https://rosariogonzalez.github.io/Lunes-5-de-Abril/ | ROSARIO GONZÁLEZ + ELISA ROMÁN |
 |  4    | [Assessing Australia's "ecological disaster"](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html) | — | — |
 |  5    | [China's glaciers retreat](https://graphics.reuters.com/CLIMATE-CHANGE/CHINA-GLACIER/rlgvdamqnpo/index.html) | — | — |
 |  6    | [Climate Change](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | — | — |
