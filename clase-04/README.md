@@ -25,20 +25,20 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 
 | Nº    | Infografía          | Análisis                 | Estudiantes                | 
 |:-----:|:--------------------|:-------------------------|:---------------------------|
-|  1    | [A scarce flavor](https://graphics.reuters.com/MCCORMICK-VANILLA/010092KE3B8/index.html) | https://annais-bj.github.io/ejercicio4-abj-mv/ | ANNAIS BERTIN + MONSERRAT VERGARA |
-|  2    | [Air Attack](https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/index.html) | https://florenciavildosolae.github.io/infodigital4/ | AGUSTINA GONZÁLEZ + FLORENCIA VILDÓSOLA |
-|  3    | [America's cautious comeback](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-TRENDS/jznpnbdojpl/index.html) | https://rosariogonzalez.github.io/Lunes-5-de-Abril/ | ROSARIO GONZÁLEZ + ELISA ROMÁN |
+|  1    | [A scarce flavor](https://graphics.reuters.com/MCCORMICK-VANILLA/010092KE3B8/index.html) | https://annais-bj.github.io/ejercicio4-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |
+|  2    | [Air Attack](https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/index.html) | https://florenciavildosolae.github.io/infodigital4/ | AGUSTINA GONZÁLEZ & FLORENCIA VILDÓSOLA |
+|  3    | [America's cautious comeback](https://graphics.reuters.com/HEALTH-CORONAVIRUS/USA-TRENDS/jznpnbdojpl/index.html) | https://rosariogonzalez.github.io/Lunes-5-de-Abril/ | ROSARIO GONZÁLEZ & ELISA ROMÁN |
 |  4    | [Assessing Australia's "ecological disaster"](https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html) | — | — |
 |  5    | [China's glaciers retreat](https://graphics.reuters.com/CLIMATE-CHANGE/CHINA-GLACIER/rlgvdamqnpo/index.html) | — | — |
-|  6    | [Climate Change](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | — | — |
-|  7    | [Don't hoard!](https://graphics.reuters.com/HEALTH-CORONAVIRUS/FOOD/ygdpzjrwpwa/index.html) | https://sabrina11s.github.io/infodigital-4/ | CATALINA TOLEDO + SABRINA EGGERS |
-|  8    | [Good Dogs](https://graphics.reuters.com/USA-DOGSHOW/010060VM1N3/index.html) | https://vale-altamirano.github.io/info-digital-ejercicio4/ | VALENTINA ALTAMIRANO + NAOMI ELKAYAM |
+|  6    | [Climate Change](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | https://gabrielaeschmidt.github.io/infografia.digital-4/ | GABRIELA ECHEVERRÍA & TRINIDAD MARTÍNEZ |
+|  7    | [Don't hoard!](https://graphics.reuters.com/HEALTH-CORONAVIRUS/FOOD/ygdpzjrwpwa/index.html) | https://sabrina11s.github.io/infodigital-4/ | CATALINA TOLEDO & SABRINA EGGERS |
+|  8    | [Good Dogs](https://graphics.reuters.com/USA-DOGSHOW/010060VM1N3/index.html) | https://vale-altamirano.github.io/info-digital-ejercicio4/ | VALENTINA ALTAMIRANO & NAOMI ELKAYAM |
 |  9    | [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html) | — | — |
-|  10   | [In a flash, a changed world](https://graphics.reuters.com/WW2-ANNIVERSARY/HIROSHIMA/rlgpdnqljpo/index.html) | https://marcosfernandezr.github.io/clase-04_InfoDigital/ | MARCOS FERNÁNDEZ + ROBERTO VERDUGO |
+|  10   | [In a flash, a changed world](https://graphics.reuters.com/WW2-ANNIVERSARY/HIROSHIMA/rlgpdnqljpo/index.html) | https://marcosfernandezr.github.io/clase-04_InfoDigital/ | MARCOS FERNÁNDEZ & ROBERTO VERDUGO |
 |  11   | [Korea: a land divided](https://graphics.reuters.com/NORTHKOREA-SOUTHKOREA-UNIFICATION/010062ES43G/index.html) | — | — |
 |  12   | [MOONSHOT](https://graphics.reuters.com/SPACE-EXPLORATION-INDIA-MOON/0100B27N164/index.html) | — | — |
-|  13   | [Vaping Crisis](https://graphics.reuters.com/HEALTH-VAPING/0100B4RB2H6/index.html) | https://egjimenez-uc.github.io/infografia-clase4/ | ELIANA JIMENEZ + MARIA JOSE SOTO |
-|  14   | [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | https://gabrielaeschmidt.github.io/infografia.digital-4/ | GABRIELA ECHEVERRÍA + TRINIDAD MARTÍNEZ |
+|  13   | [Vaping Crisis](https://graphics.reuters.com/HEALTH-VAPING/0100B4RB2H6/index.html) | https://egjimenez-uc.github.io/infografia-clase4/ | ELIANA JIMENEZ & MARIA JOSE SOTO |
+|  14   | [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | https://paulascheleff.github.io/infodigital-4/ | SOFÍA SÁNCHEZ & PAULA SCHELEFF |
 
 - - - - - - - 
 
