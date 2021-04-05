@@ -33,7 +33,7 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 |  6    | [Climate Change](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | https://gabrielaeschmidt.github.io/infografia.digital-4/ | GABRIELA ECHEVERRÍA & TRINIDAD MARTÍNEZ |
 |  7    | [Don't hoard!](https://graphics.reuters.com/HEALTH-CORONAVIRUS/FOOD/ygdpzjrwpwa/index.html) | https://sabrina11s.github.io/infodigital-4/ | CATALINA TOLEDO & SABRINA EGGERS |
 |  8    | [Good Dogs](https://graphics.reuters.com/USA-DOGSHOW/010060VM1N3/index.html) | https://vale-altamirano.github.io/info-digital-ejercicio4/ | VALENTINA ALTAMIRANO & NAOMI ELKAYAM |
-|  9    | [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html) | — | — |
+|  9    | [How the novel coronavirus has evolved](https://graphics.reuters.com/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/index.html) | https://anagalleguillos.github.io/Clase-04/ | VALENTINA MADRID & ANA GALLEGUILLOS |
 |  10   | [In a flash, a changed world](https://graphics.reuters.com/WW2-ANNIVERSARY/HIROSHIMA/rlgpdnqljpo/index.html) | https://marcosfernandezr.github.io/clase-04_InfoDigital/ | MARCOS FERNÁNDEZ & ROBERTO VERDUGO |
 |  11   | [Korea: a land divided](https://graphics.reuters.com/NORTHKOREA-SOUTHKOREA-UNIFICATION/010062ES43G/index.html) | — | — |
 |  12   | [MOONSHOT](https://graphics.reuters.com/SPACE-EXPLORATION-INDIA-MOON/0100B27N164/index.html) | — | — |
