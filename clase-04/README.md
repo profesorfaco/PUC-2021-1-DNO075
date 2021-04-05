@@ -42,4 +42,13 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 
 - - - - - - - 
 
+#### Tarea
+
+Leer la introducción al tutorial de SVG en MDN Web Docs:
+
+https://developer.mozilla.org/es/docs/Web/SVG/Tutorial/Introduction
+
+
+- - - - - - - 
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-03) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-05) 
