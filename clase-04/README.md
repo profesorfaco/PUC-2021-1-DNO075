@@ -26,7 +26,7 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 | Nº   | Nombre | GitHub Pages |
 |:-----:|:-----|:-------------|
 | 1  | VALENTINA ALTAMIRANO | — |
-| 2  | ANNAIS BERTIN | — |
+| 2  | ANNAIS BERTIN | https://annais-bj.github.io/ejercicio4-abj-mv/ |
 | 3  | BLANCA COBS | — |
 | 4	 | ROSA ENCO | — |
 | 5	 | GABRIELA ECHEVERRÍA | — |
@@ -40,7 +40,7 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 | 13 |	AGUSTINA GONZÁLEZ | — |
 | 14 |	CATALINA GRACIA | — |
 | 15 |	PAULA HREPIC | — |
-| 16 |	ELIANA JIMÉNEZ | — |
+| 16 |	ELIANA JIMÉNEZ | https://egjimenez-uc.github.io/infografia-clase4/ |
 | 17 |	PABLO LARRAÍN | — |
 | 18 |	VALENTINA MADRID | — |
 | 19 |	TRINIDAD MARTÍNEZ | — |
@@ -51,10 +51,10 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 | 24 |	SOFÍA SÁNCHEZ | — |
 | 25 |	PAULA SCHELEFF | — |
 | 26 |	CECILIA SOTO | — |
-| 27 |	MARIA JOSE SOTO | — |
+| 27 |	MARIA JOSE SOTO | https://egjimenez-uc.github.io/infografia-clase4/ |
 | 28 |	CATALINA TOLEDO | — |
 | 29 |	ROBERTO VERDUGO | — |
-| 30 |	MONSERRAT VERGARA | — |
+| 30 |	MONSERRAT VERGARA | https://annais-bj.github.io/ejercicio4-abj-mv/ |
 | 31 |	FLORENCIA VILDÓSOLA | — |
 | 32 |	FRANCISCA VILLALÓN | — |
 
