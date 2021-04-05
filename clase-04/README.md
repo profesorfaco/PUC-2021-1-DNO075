@@ -37,7 +37,7 @@ Esta clase de **"Infografía digital: Funciones y formas"**, se apoya en:
 |  10   | [In a flash, a changed world](https://graphics.reuters.com/WW2-ANNIVERSARY/HIROSHIMA/rlgpdnqljpo/index.html) | — | — |
 |  11   | [Korea: a land divided](https://graphics.reuters.com/NORTHKOREA-SOUTHKOREA-UNIFICATION/010062ES43G/index.html) | — | — |
 |  12   | [MOONSHOT](https://graphics.reuters.com/SPACE-EXPLORATION-INDIA-MOON/0100B27N164/index.html) | — | — |
-|  13   | [Vaping Crisis](https://graphics.reuters.com/HEALTH-VAPING/0100B4RB2H6/index.html) | — | — |
+|  13   | [Vaping Crisis](https://graphics.reuters.com/HEALTH-VAPING/0100B4RB2H6/index.html) | https://egjimenez-uc.github.io/infografia-clase4/ | ELIANA JIMENEZ + MARIA JOSE SOTO |
 |  14   | [World’s biggest iceberg heads for disaster](https://graphics.reuters.com/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/index.html) | https://gabrielaeschmidt.github.io/infografia.digital-4/ | GABRIELA ECHEVERRÍA + TRINIDAD MARTÍNEZ |
 
 - - - - - - - 
