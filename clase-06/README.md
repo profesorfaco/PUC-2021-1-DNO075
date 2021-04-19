@@ -33,7 +33,7 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  1    | Mascarilla     | https://sofiasanchezdonoso.github.io/infodigital_6/ | MARTINA GONZÁLEZ & SOFÍA SÁNCHEZ |
 |  2    | Mascarilla     | https://marcosfernandezr.github.io/clase-06_InfoDigital/ | MARCOS FERNÁNDEZ & CRISTIAN RISCO |
 |  3    | Mascarilla     | https://egjimenez-uc.github.io/infografia-clase6/ | ELISA ROMAN & ELIANA JIMENEZ |
-|  4    | Mascarilla     | —            | —              |
+|  4    | Mascarilla     | https://valevmu.github.io/clase-6/ | GABRIELA ECHEVERRIA & VALENTINA MADRID |
 |  5    | Mascarilla     | —            | —              |
 |  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
 |  7    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
