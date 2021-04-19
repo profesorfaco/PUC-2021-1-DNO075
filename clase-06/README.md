@@ -30,17 +30,17 @@ Si se trabaja en duplas, corresponde establecer roles.
 
 | Nº    | Representación | GitHub Pages | Estudiantes    | 
 |:-----:|:---------------|:-------------|:---------------|
-|  1    | Mascarilla     | —            | —              |
+|  1    | Mascarilla     | https://sofiasanchezdonoso.github.io/infodigital_6/ | MARTINA GONZÁLEZ & SOFÍA SÁNCHEZ |
 |  2    | Mascarilla     | —            | —              |
 |  3    | Mascarilla     | —            | —              |
 |  4    | Mascarilla     | —            | —              |
 |  5    | Mascarilla     | —            | —              |
-|  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/  | CATALINA GRACIA & PAULA SCHELEFF |
-|  7    | Pinchazo       | —            | —              |
+|  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
+|  7    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
 |  8    | Pinchazo       | —            | —              |
 |  9    | Pinchazo       | —            | —              |
 |  10   | Pinchazo       | —            | —              |
-|  12   | Aikido         | —            | —              |         
+|  12   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
 |  13   | Aikido         | —            | —              |         
 |  14   | Aikido         | —            | —              |         
 |  15   | Aikido         | —            | —              |   
