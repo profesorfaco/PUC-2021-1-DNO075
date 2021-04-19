@@ -18,13 +18,15 @@ También utilizaremos [Adobe Illustrator](https://www.adobe.com/la/products/illu
 
 Necesitaremos **lápiz** y **papel**, además de un aparato para digitalizar los dibujos que realicen a mano (Ej: la cámara en su teléfono inteligente, tablet, o scanner).
 
-Corresponde:
+El ejercicio se resuelve en duplas o individualmente:
 
-- **dibujar 4, 5 o 6 pasos de un movimiento o un proceso**. Cada dibujo debe explicarse por sí solo, sin palabras.
+- **representar 4, 5 o 6 pasos de un proceso** mediante gráficos figurativos. Cada gráfico debe explicarse por sí solo, sin palabras.
 
-- **digitalizar tales dibujos** y luego **trazar las imágenes** con [calco interactivo](https://www.youtube.com/watch?v=i4RjPqsi-Fw). 
+- **digitalizar tales dibujos y armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-06/)**. 
 
-- **armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-06/)**. 
+- Más tarde podrá **trazar las imágenes** con [calco interactivo](https://www.youtube.com/watch?v=i4RjPqsi-Fw) y cambiar de imagen rasterizada a imagen vectorial.
+
+Si se trabaja en duplas, corresponde establecer roles.
 
 - - - - - - - -
 
