@@ -24,7 +24,7 @@ El ejercicio se resuelve en duplas o individualmente:
 
 - **digitalizar tales dibujos y armar la página web que tendrán que poner en línea con el uso de GitHub Pages, aprovechando los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-06/)**. 
 
-- Más tarde podrá **trazar las imágenes** con [calco interactivo](https://www.youtube.com/watch?v=i4RjPqsi-Fw) y cambiar de imagen rasterizada a imagen vectorial.
+- Más tarde podrá **trazar las imágenes (jpg, png o gif)** con [calco interactivo](https://www.youtube.com/watch?v=i4RjPqsi-Fw), cambiando el [rasterizado a vectorizado](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) (svg).
 
 Si se trabaja en duplas, corresponde establecer roles.
 
