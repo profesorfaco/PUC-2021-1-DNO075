@@ -41,7 +41,7 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  9    | Pinchazo       | —            | —              |
 |  10   | Pinchazo       | —            | —              |
 |  12   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
-|  13   | Aikido         | —            | —              |         
+|  13   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
 |  14   | Aikido         | —            | —              |         
 |  15   | Aikido         | —            | —              |   
 
