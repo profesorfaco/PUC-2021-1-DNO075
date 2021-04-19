@@ -31,7 +31,7 @@ Si se trabaja en duplas, corresponde establecer roles.
 | Nº    | Representación | GitHub Pages | Estudiantes    | 
 |:-----:|:---------------|:-------------|:---------------|
 |  1    | Mascarilla     | https://sofiasanchezdonoso.github.io/infodigital_6/ | MARTINA GONZÁLEZ & SOFÍA SÁNCHEZ |
-|  2    | Mascarilla     | —            | —              |
+|  2    | Mascarilla     | https://marcosfernandezr.github.io/clase-06_InfoDigital/ | MARCOS FERNÁNDEZ & CRISTIAN RISCO |
 |  3    | Mascarilla     | —            | —              |
 |  4    | Mascarilla     | —            | —              |
 |  5    | Mascarilla     | —            | —              |
