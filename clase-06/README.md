@@ -37,12 +37,12 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  5    | Mascarilla     | —            | —              |
 |  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
 |  7    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
-|  8    | Pinchazo       | —            | —              |
+|  8    | Pinchazo       | https://nelkayam.github.io/ejercicio-6/ | NAOMI ELKAYAM |
 |  9    | Pinchazo       | —            | —              |
 |  10   | Pinchazo       | —            | —              |
 |  12   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
 |  13   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
-|  14   | Aikido         | —            | —              |         
+|  14   | Aikido         | https://cotesoto.github.io/Infografia-Digital-06/ | ANA BELÉN GALLEGUILLOS & MARÍA JOSÉ SOTO |         
 |  15   | Aikido         | —            | —              |   
 
 - - - - - - - -
