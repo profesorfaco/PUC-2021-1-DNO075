@@ -28,6 +28,23 @@ El ejercicio se resuelve en duplas o individualmente:
 
 Si se trabaja en duplas, corresponde establecer roles.
 
+| Nº    | Representación | GitHub Pages | Estudiantes    | 
+|:-----:|:---------------|:-------------|:---------------|
+|  1    | Mascarilla     | —            | —              |
+|  2    | Mascarilla     | —            | —              |
+|  3    | Mascarilla     | —            | —              |
+|  4    | Mascarilla     | —            | —              |
+|  5    | Mascarilla     | —            | —              |
+|  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/  | CATALINA GRACIA & PAULA SCHELEFF |
+|  7    | Pinchazo       | —            | —              |
+|  8    | Pinchazo       | —            | —              |
+|  9    | Pinchazo       | —            | —              |
+|  10   | Pinchazo       | —            | —              |
+|  12   | Aikido         | —            | —              |         
+|  13   | Aikido         | —            | —              |         
+|  14   | Aikido         | —            | —              |         
+|  15   | Aikido         | —            | —              |   
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-05) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) 
