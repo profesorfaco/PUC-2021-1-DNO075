@@ -34,7 +34,7 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  2    | Mascarilla     | https://marcosfernandezr.github.io/clase-06_InfoDigital/ | MARCOS FERNÁNDEZ & CRISTIAN RISCO |
 |  3    | Mascarilla     | https://egjimenez-uc.github.io/infografia-clase6/ | ELISA ROMAN & ELIANA JIMENEZ |
 |  4    | Mascarilla     | https://valevmu.github.io/clase-6/ | GABRIELA ECHEVERRIA & VALENTINA MADRID |
-|  5    | Mascarilla     | —            | —              |
+|  5    | Mascarilla     | https://florenciavildosolae.github.io/infodigital6/ | FLORENCIA VILDÓSOLA |
 |  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
 |  7    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
 |  8    | Pinchazo       | https://nelkayam.github.io/ejercicio-6/ | NAOMI ELKAYAM |
@@ -43,7 +43,7 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  12   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
 |  13   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
 |  14   | Aikido         | https://cotesoto.github.io/Infografia-Digital-06/ | ANA BELÉN GALLEGUILLOS & MARÍA JOSÉ SOTO |         
-|  15   | Aikido         | —            | —              |   
+|  15   | Aikido         | https://blancacobs.github.io/Infografia-Digital-6/ | BLANCA COBS |
 
 - - - - - - - -
 
