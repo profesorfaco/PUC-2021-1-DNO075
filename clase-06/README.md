@@ -44,6 +44,7 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  13   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
 |  14   | Aikido         | https://cotesoto.github.io/Infografia-Digital-06/ | ANA BELÉN GALLEGUILLOS & MARÍA JOSÉ SOTO |         
 |  15   | Aikido         | https://blancacobs.github.io/Infografia-Digital-6/ | BLANCA COBS |
+|  16   | Aikido         | https://vale-altamirano.github.io/infodigital-ejercicio6/ | VALENTINA ALTAMIRANO |
 
 - - - - - - - -
 
