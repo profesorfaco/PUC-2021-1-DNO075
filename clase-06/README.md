@@ -38,7 +38,7 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
 |  7    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
 |  8    | Pinchazo       | https://nelkayam.github.io/ejercicio-6/ | NAOMI ELKAYAM |
-|  9    | Pinchazo       | —            | —              |
+|  9    | Pinchazo       | https://alexandracharlotte.github.io/Clase6-bicicleta/ | ALEXANDRA GARRIDO |
 |  10   | Pinchazo       | —            | —              |
 |  12   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
 |  13   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
