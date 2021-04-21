@@ -39,14 +39,15 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  7    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
 |  8    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
 |  9    | Pinchazo       | https://nelkayam.github.io/ejercicio-6/ | NAOMI ELKAYAM |
-|  10    | Pinchazo       | https://alexandracharlotte.github.io/Clase6-bicicleta/ | ALEXANDRA GARRIDO |
+|  10   | Pinchazo       | https://alexandracharlotte.github.io/Clase6-bicicleta/ | ALEXANDRA GARRIDO |
 |  11   | Pinchazo       | https://cecysoto.github.io/clase-6/ | CECILIA SOTO |
-|  12   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
-|  13   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
-|  14   | Aikido         | https://cotesoto.github.io/Infografia-Digital-06/ | ANA BELÉN GALLEGUILLOS & MARÍA JOSÉ SOTO |         
-|  15   | Aikido         | https://blancacobs.github.io/Infografia-Digital-6/ | BLANCA COBS |
-|  16   | Aikido         | https://vale-altamirano.github.io/infodigital-ejercicio6/ | VALENTINA ALTAMIRANO |
-|  17   | Aikido         | https://unchocman.github.io/Clase-6/ | ROBERTO VERDUGO |
+|  12   | Pinchazo       | https://agugopa.github.io/Entrega-6/ | AGUSTINA GONZÁLEZ |
+|  13   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
+|  14   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
+|  15   | Aikido         | https://cotesoto.github.io/Infografia-Digital-06/ | ANA BELÉN GALLEGUILLOS & MARÍA JOSÉ SOTO |         
+|  16   | Aikido         | https://blancacobs.github.io/Infografia-Digital-6/ | BLANCA COBS |
+|  17   | Aikido         | https://vale-altamirano.github.io/infodigital-ejercicio6/ | VALENTINA ALTAMIRANO |
+|  18   | Aikido         | https://unchocman.github.io/Clase-6/ | ROBERTO VERDUGO |
 
 - - - - - - - -
 
