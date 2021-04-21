@@ -35,16 +35,18 @@ Si se trabaja en duplas, corresponde establecer roles.
 |  3    | Mascarilla     | https://egjimenez-uc.github.io/infografia-clase6/ | ELISA ROMAN & ELIANA JIMENEZ |
 |  4    | Mascarilla     | https://valevmu.github.io/clase-6/ | GABRIELA ECHEVERRIA & VALENTINA MADRID |
 |  5    | Mascarilla     | https://florenciavildosolae.github.io/infodigital6/ | FLORENCIA VILDÓSOLA |
-|  6    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
-|  7    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
-|  8    | Pinchazo       | https://nelkayam.github.io/ejercicio-6/ | NAOMI ELKAYAM |
-|  9    | Pinchazo       | https://alexandracharlotte.github.io/Clase6-bicicleta/ | ALEXANDRA GARRIDO |
-|  10   | Pinchazo       | —            | —              |
+|  6    | Mascarilla     | https://rosa-enco.github.io/infografiadigital-actividad-6/ | ROSA ENCO |
+|  7    | Pinchazo       | https://paulascheleff.github.io/infodigital-6/ | CATALINA GRACIA & PAULA SCHELEFF |
+|  8    | Pinchazo       | https://trinidadmartinez.github.io/ejercicio6/ | TRINIDAD MARTÍNEZ |
+|  9    | Pinchazo       | https://nelkayam.github.io/ejercicio-6/ | NAOMI ELKAYAM |
+|  10    | Pinchazo       | https://alexandracharlotte.github.io/Clase6-bicicleta/ | ALEXANDRA GARRIDO |
+|  11   | Pinchazo       | https://cecysoto.github.io/clase-6/ | CECILIA SOTO |
 |  12   | Aikido         | https://annais-bj.github.io/ejercicio6-abj-mv/ | ANNAIS BERTIN & MONSERRAT VERGARA |         
 |  13   | Aikido         | https://sabrina11s.github.io/infodigital-6/    | CATALINA TOLEDO & SABRINA EGGERS  |         
 |  14   | Aikido         | https://cotesoto.github.io/Infografia-Digital-06/ | ANA BELÉN GALLEGUILLOS & MARÍA JOSÉ SOTO |         
 |  15   | Aikido         | https://blancacobs.github.io/Infografia-Digital-6/ | BLANCA COBS |
 |  16   | Aikido         | https://vale-altamirano.github.io/infodigital-ejercicio6/ | VALENTINA ALTAMIRANO |
+|  17   | Aikido         | https://unchocman.github.io/Clase-6/ | ROBERTO VERDUGO |
 
 - - - - - - - -
 
