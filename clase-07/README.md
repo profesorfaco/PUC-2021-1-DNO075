@@ -31,7 +31,7 @@ El ejercicio se resuelve en duplas o individualmente. Aquí corresponde modifica
 Si se trabaja en duplas, corresponde establecer roles.
 
 | Nº    | GitHub Pages | Estudiantes    | 
-|:-----:|:-------------|:-------------|:---------------|
+|:-----:|:-------------|:---------------|
 |  1    | — | — |
 |  2    | — | — |
 |  3    | — | — |
