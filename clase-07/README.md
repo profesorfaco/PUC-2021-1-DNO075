@@ -47,7 +47,7 @@ Pueden encontrar información sobre el ICVU en:
 |  3    | https://m4rtina-gonzalez.github.io/infodigital-7/ | PAULA PSCHELEFF Y MARTINA GONZÁLEZ |
 |  4    | https://alexandracharlotte.github.io/Clase7/ | ALEXANDRA GARRIDO |
 |  5    | https://rosariogonzalez.github.io/Lunes26Abril/ | ELISA ROMÁN Y ROSARIO GONZÁLEZ |
-|  6    | — | — |
+|  6    | https://annais-bj.github.io/ejercicio7-abj-mv/ | ANNAIS BERTIN Y MONSERRAT VERGARA |
 |  7    | — | — |
 |  8    | — | — |
 |  9    | — | — |
