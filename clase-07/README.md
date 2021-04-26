@@ -48,9 +48,9 @@ Pueden encontrar información sobre el ICVU en:
 |  4    | https://alexandracharlotte.github.io/Clase7/ | ALEXANDRA GARRIDO |
 |  5    | https://rosariogonzalez.github.io/Lunes26Abril/ | ELISA ROMÁN Y ROSARIO GONZÁLEZ |
 |  6    | https://annais-bj.github.io/ejercicio7-abj-mv/ | ANNAIS BERTIN Y MONSERRAT VERGARA |
-|  7    | — | — |
-|  8    | — | — |
-|  9    | — | — |
+|  7    | https://marcosfernandezr.github.io/clase-07_InfoDigital/ | MARCOS FERNÁNDEZ Y CRISTIAN RISCO |
+|  8    | https://agugopa.github.io/Entrega-7/ | AGUSTINA GONZÁLEZ |
+|  9    | https://vale-altamirano.github.io/infodigital-ejercicio7/ | VALENTINA ALTAMIRANO Y NAOMI ELKAYAM |
 |  10   | — | — |
 |  11   | — | — |
 |  12   | — | — |
