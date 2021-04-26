@@ -30,6 +30,15 @@ Para realizar los gráficos, será necesario contar con:
 
 El ejercicio se resuelve en duplas o individualmente. Aquí corresponde modificar los [archivos compartidos en esta carpeta de repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-07/), hasta ofrecer una infografía original y completa sobre el Índice de Calidad de Vida Urbana (ICVU) en comunas de la Región Metropolitana. 
 
+Pueden encontrar información sobre el ICVU en:
+
+- https://cchc.cl/centro-de-informacion/publicaciones/publicaciones-icvu/
+
+- http://icvu.observatoriodeciudades.com/
+
+- http://fadeu.uc.cl/noticias/4157-10-anos-calidad-de-vida-urbana-icvu-2020
+
+
 Si se trabaja en duplas, corresponde establecer roles.
 
 | Nº    | GitHub Pages | Estudiantes    | 
