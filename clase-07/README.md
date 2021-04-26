@@ -42,7 +42,7 @@ Entregas:
 
 | Nº    | GitHub Pages | Estudiantes    | 
 |:-----:|:-------------|:---------------|
-|  1    | — | — |
+|  1    | https://sabrina11s.github.io/infodigital-7/ | CATALINA TOLEDO Y SABRINA EGGERS |
 |  2    | — | — |
 |  3    | — | — |
 |  4    | — | — |
