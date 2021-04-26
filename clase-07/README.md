@@ -51,7 +51,7 @@ Pueden encontrar información sobre el ICVU en:
 |  7    | https://marcosfernandezr.github.io/clase-07_InfoDigital/ | MARCOS FERNÁNDEZ Y CRISTIAN RISCO |
 |  8    | https://agugopa.github.io/Entrega-7/ | AGUSTINA GONZÁLEZ |
 |  9    | https://vale-altamirano.github.io/infodigital-ejercicio7/ | VALENTINA ALTAMIRANO Y NAOMI ELKAYAM |
-|  10   | — | — |
+|  10   | https://florenciavildosolae.github.io/infodigital7/ | POR FLORENCIA VILDÓSOLA |
 |  11   | — | — |
 |  12   | — | — |
 |  13   | — | — |
