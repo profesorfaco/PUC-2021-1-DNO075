@@ -34,12 +34,11 @@ Pueden encontrar información sobre el ICVU en:
 
 - https://cchc.cl/centro-de-informacion/publicaciones/publicaciones-icvu/
 
-- http://icvu.observatoriodeciudades.com/
-
 - http://fadeu.uc.cl/noticias/4157-10-anos-calidad-de-vida-urbana-icvu-2020
 
+- http://icvu.observatoriodeciudades.com/
 
-Si se trabaja en duplas, corresponde establecer roles.
+Entregas:
 
 | Nº    | GitHub Pages | Estudiantes    | 
 |:-----:|:-------------|:---------------|
