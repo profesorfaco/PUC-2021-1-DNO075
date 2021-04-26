@@ -43,8 +43,8 @@ Entregas:
 | Nº    | GitHub Pages | Estudiantes    | 
 |:-----:|:-------------|:---------------|
 |  1    | https://sabrina11s.github.io/infodigital-7/ | CATALINA TOLEDO Y SABRINA EGGERS |
-|  2    | — | — |
-|  3    | — | — |
+|  2    | https://trinidadmartinez.github.io/ejercicio7/ | GABRIELA ECHEVERRÍA Y TRINIDAD MARTÍNEZ |
+|  3    | https://m4rtina-gonzalez.github.io/infodigital-7/ | PAULA PSCHELEFF Y MARTINA GONZÁLEZ |
 |  4    | — | — |
 |  5    | — | — |
 |  6    | — | — |
