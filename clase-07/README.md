@@ -45,7 +45,7 @@ Entregas:
 |  1    | https://sabrina11s.github.io/infodigital-7/ | CATALINA TOLEDO Y SABRINA EGGERS |
 |  2    | https://trinidadmartinez.github.io/ejercicio7/ | GABRIELA ECHEVERRÍA Y TRINIDAD MARTÍNEZ |
 |  3    | https://m4rtina-gonzalez.github.io/infodigital-7/ | PAULA PSCHELEFF Y MARTINA GONZÁLEZ |
-|  4    | — | — |
+|  4    | https://alexandracharlotte.github.io/Clase7/ | ALEXANDRA GARRIDO |
 |  5    | — | — |
 |  6    | — | — |
 |  7    | — | — |
