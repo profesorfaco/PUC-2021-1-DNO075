@@ -2,7 +2,7 @@
 
 ### Clase 07 → Infografía Digital v2 → Lunes 26 de abril, 2021
 
-En este clase aprovecharemos lo aprendido a propósito de gráficos, con un ejercicio donde será necesario que produzcan un gráfico no figurativo y otro donde deben ajustar un gráfico mixto.
+En este clase aprovecharemos lo aprendido sobre los gráficos que pueden ser parte de una infografía digital, mediante un ejercicio donde será necesario que produzcan tres tipos de gráficos: figurativo, no figurativo y mixto. 
 
 Para el gráfico no figurativo, podrán aprovechar:
 
@@ -12,15 +12,17 @@ Para el gráfico no figurativo, podrán aprovechar:
 
 - https://www.datawrapper.de/
 
-Y para el gráfico mixto podrán ilustrar un mapa de la Región Metropolitana para traspasarla a [imagen rasterizada](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) y/o editar una [imagen vectorial](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) donde se definen sus comunas.
+Y los gráficos figurativo y mixto podrán hacer una ilustración (a mano), para luego traspasarla a [imagen rasterizada](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html). En el mixto, también podrían editar la [imagen vectorial](https://helpx.adobe.com/es/photoshop-elements/key-concepts/raster-vector.html) donde se definen sus comunas.
 
-Por el gráfico mixto, será necesario contar con:
+Para realizar los gráficos, será necesario contar con:
 
-- **lápiz** y **papel**, además de un aparato para digitalizar los dibujos que realicen a mano (Ej: la cámara en su teléfono inteligente, tablet, o scanner). 
+- **Lápiz** y **papel**, además de un aparato para digitalizar los dibujos que realicen a mano (Ej: la cámara en su teléfono inteligente, tablet, o scanner). 
 
-- **Photoshop**
+- **Photoshop** o Gimp.
 
-- **Illustrator**
+- **Illustrator** o InkScape.
+
+- **Editor de código fuente** (Sublime Text, Atom, Brackets, etc.)
 
 - - - - - - - - - - 
 
