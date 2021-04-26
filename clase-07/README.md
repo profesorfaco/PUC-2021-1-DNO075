@@ -38,7 +38,7 @@ Pueden encontrar información sobre el ICVU en:
 
 - http://icvu.observatoriodeciudades.com/
 
-Entregas:
+##### Entregas:
 
 | Nº    | GitHub Pages | Estudiantes    | 
 |:-----:|:-------------|:---------------|
