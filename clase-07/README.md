@@ -52,7 +52,7 @@ Pueden encontrar información sobre el ICVU en:
 |  8    | https://agugopa.github.io/Entrega-7/ | AGUSTINA GONZÁLEZ |
 |  9    | https://vale-altamirano.github.io/infodigital-ejercicio7/ | VALENTINA ALTAMIRANO Y NAOMI ELKAYAM |
 |  10   | https://florenciavildosolae.github.io/infodigital7/ | FLORENCIA VILDÓSOLA |
-|  11   | — | — |
+|  11   | https://egjimenez-uc.github.io/infografia-clase7/ | ELIANA JIMENEZ |
 |  12   | — | — |
 |  13   | — | — |
 |  14   | — | — |
