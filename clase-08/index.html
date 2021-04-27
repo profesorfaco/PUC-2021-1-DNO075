@@ -13,12 +13,14 @@
             body {
                 font-family: "IBM Plex Sans", sans-serif;
                 font-weight: 400;
-                background: linear-gradient(rgb(255, 234, 71) 50%, rgb(255, 244, 101) 100%);
+                background: rgb(255, 236, 63);
             }
             h1 {
                 font-family: "Pirata One", cursive;
                 font-weight: 400;
-                font-size: calc(2rem + 2vw);
+                font-size: calc(3rem + 1.5vw);
+                color:#112;
+                line-height: 1;
             }
             h2,
             h3,
@@ -33,7 +35,7 @@
             header {
                 background: url("img/cabecera.jpg") center bottom no-repeat;
                 background-size: cover;
-                padding: 15vh 0;
+                padding: 10vh 0;
             }
 
             main p.lead {
@@ -47,11 +49,12 @@
             }
 
             a {
-                color: rgba(0, 0, 0, 0.75);
+                color:#123;
             }
 
             a:hover {
-                color: rgba(0, 0, 0, 1);
+                color:#000;
+                text-decoration: none;
             }
         </style>
         <title>Reemplaza este título que se muestra en la ventana de tu navegador</title>
@@ -61,8 +64,8 @@
             <header class="container-fluid">
                 <div class="row py-5">
                     <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
-                        <h1 class="mb-3 mt-5 text-center">Lorem ipsum dolor sit amet</h1>
-                        <h2 class="fs-5 mb-5 text-center text-uppercase">NOMBRE APELLIDO</h2>
+                        <h1 class="mb-3 mt-5 text-center">Lorem ipsum dolor sit amet cervecero</h1>
+                        <h2 class="fs-6 mb-5 text-center text-uppercase">NOMBRE APELLIDO</h2>
                     </div>
                 </div>
             </header>
@@ -70,15 +73,12 @@
             <main class="container mb-5">
                 <div class="row g-3">
                     <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 mx-auto">
-                        <p class="lead">
-                            El mercado de la cerveza en Chile ha crecido de manera robusta en los últimos años, impulsada, según los expertos, por "una industria altamente competitiva". Así, si en 2014 se bebieron 748 millones de litros en
-                            el país, en 2019 la cifra aumentó a los 997 millones anuales.
-                        </p>
-                        <p>
-                            Las secuencias que siguen sirven de relleno. No se trata de GIF animados, sino que una serie de imágenes que se muestran en un
-                            <a href="https://getbootstrap.com/docs/5.0/components/carousel/">carrusel de Bootstrap</a> configurado con un <em>fade</em>. En el lugar de tal relleno ustedes deberían ofrecer <em>do's</em> y
-                            <em>don'ts</em> para servir cerveza o referirse al proceso que se explica en un párrafo más abajo.
-                        </p>
+                        <p class="lead"> El mercado de la cerveza en Chile ha crecido de manera robusta en los últimos año. Así, si en 2014 se bebieron 748 millones de litros en el país, en 2019 la cifra aumentó a los 997 millones.</p>
+                
+                        <p>Deben cambiar los párrafos en esta página de muestra para darle sentido a su propia redacción linear (borrando las instrucciones que contienen).</p> 
+
+                        <p>Las secuencias que siguen no están hechas como GIF animado, sino que una serie de imágenes que se muestran alternadamente gracias a un <a href="https://getbootstrap.com/docs/5.0/components/carousel/">carrusel de Bootstrap</a> configurado con un <em>fade</em>. En las secuencias ustedes deberían ofrecer <em>do's</em> y <em>don'ts</em> para servir cerveza o referirse al proceso que se explica en un párrafo más abajo. </p>
+
                         <!-- Acá comienza la sección que contiene la primera secuencia -->
                         <div class="row d-flex align-items-center my-5">
                             <div class="col-md-6">
@@ -139,35 +139,25 @@
                         </div>
                         <!-- Acá termina tal sección -->
 
-                        <p>
-                            Hay dos grandes familias de cervezas. Por un lado está la familia <em>Ale</em>, compueta por toda cerveza fermentada en caliente (entre 15° y 25° C), donde las levaduras suben a la superficie del estanque debido
-                            al calor de la fermentación rápida (cinco a siete días). Por otro lado está la famila <em>lager</em>, compuesta por aquellas cervezas que fermentan con levaduras a bajas temperaturas (entre 5° y 12° C), y
-                            realizan un trabajo más lento en la parte baja del estanque (tres a cuatro semanas).
-                        </p>
+                        <p> Hay dos grandes familias de cervezas. Por un lado está la familia <em>Ale</em>, compueta por toda cerveza fermentada en caliente (entre 15° y 25° C), donde las levaduras suben a la superficie del estanque debido al calor de la fermentación rápida (cinco a siete días). Por otro lado está la famila <em>lager</em>, compuesta por aquellas cervezas que fermentan con levaduras a bajas temperaturas (entre 5° y 12° C), y realizan un trabajo más lento en la parte baja del estanque (tres a cuatro semanas).</p>
                     </div>
                     <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 mx-auto">
                         <!--esta imagen debe reemplazarse por un SVG-->
                         <img src="img/familia-cervecera.png" class="w-100 my-4 shadow-sm" />
                     </div>
                     <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 mx-auto">
-                        <p>
-                            Al momento de servirlas, lo mejor es respetar su temperatura de fermentación: No conviene servir una <em>ale</em> fría, ni una <em>lager</em> caliente. Una Stella Artois tibia sabe tan mal como una Guinness muy
-                            helada.
-                        </p>
+                        <p> Al momento de servirlas, lo mejor es respetar su fermentación: No conviene servir una <em>ale</em> muy fría, ni una <em>lager</em> tibia. Una Stella Artois tibia sabe tan mal como una Guinness muy helada.</p>
 
-                        <p>
-                            También corresponde poner atención al vaso que se utiliza al momento de servir cada cerveza a su temperatura ideal. Genere su propia versión de las imágenes que siguen, y aprovechen el texto donde se entrega un
-                            <em>tip</em> de uso. La imagen no debe contener texto. Si desea agregar texto, agréguelo como tal, fuera de la imagen.
-                        </p>
+                        <p>También corresponde poner atención al vaso que se utiliza al momento de servir cada cerveza a su temperatura ideal. Genere su propia versión de las imágenes que siguen, y aprovechen el texto donde se entrega un <em>tip</em> de uso. La imagen no debe contener texto. Si desea agregar texto, agréguelo como tal, fuera de la imagen.</p>
                     </div>
                 </div>
-                <div class="row g-5">
+                <div class="row g-3 my-3">
                     <div class="col-6 col-sm-4 col-lg-2">
                         <div class="card text-light bg-dark mb-3 shadow-sm">
                             <img src="img/vaso-schop.png" class="card-img-top" />
                             <div class="card-body">
                                 <h5 class="card-title fs-6">Schopero</h5>
-                                <p class="card-text small">Cristal.</p>
+                                <p class="card-text small">Cristal</p>
                             </div>
                         </div>
                     </div>
@@ -176,7 +166,7 @@
                             <img src="img/vaso-munich.png" class="card-img-top" />
                             <div class="card-body">
                                 <h5 class="card-title fs-6">Munich</h5>
-                                <p class="card-text small">Pilsener Urquell.</p>
+                                <p class="card-text small">Pilsener Urquell</p>
                             </div>
                         </div>
                     </div>
@@ -185,7 +175,7 @@
                             <img src="img/vaso-nonic.png" class="card-img-top" />
                             <div class="card-body">
                                 <h5 class="card-title fs-6">Nonic</h5>
-                                <p class="card-text small">London Pride.</p>
+                                <p class="card-text small">London Pride</p>
                             </div>
                         </div>
                     </div>
@@ -194,7 +184,7 @@
                             <img src="img/vaso-trigo.png" class="card-img-top" />
                             <div class="card-body">
                                 <h5 class="card-title fs-6">Trigo</h5>
-                                <p class="card-text small">Erdinger.</p>
+                                <p class="card-text small">Erdinger</p>
                             </div>
                         </div>
                     </div>
@@ -203,7 +193,7 @@
                             <img src="img/vaso-tulipa-corta.png" class="card-img-top" />
                             <div class="card-body">
                                 <h5 class="card-title fs-6">Tulipa corta</h5>
-                                <p class="card-text small">Tripel Karmeliet.</p>
+                                <p class="card-text small">Tripel Karmeliet</p>
                             </div>
                         </div>
                     </div>
@@ -212,7 +202,7 @@
                             <img src="img/vaso-tulipa-larga.png" class="card-img-top" />
                             <div class="card-body">
                                 <h5 class="card-title fs-6">Tulipa larga</h5>
-                                <p class="card-text small">Jester Saison.</p>
+                                <p class="card-text small">Jester Saison</p>
                             </div>
                         </div>
                     </div>
