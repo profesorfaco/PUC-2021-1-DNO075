@@ -1,6 +1,6 @@
 # Coding: HTML, CSS y JavaScript (sesión 1 de 2)
 
-### Clase 08 → Infografía Digital v2 → Lunes 3 de abril, 2021 
+### Clase 08 → Infografía Digital v2 → Lunes 3 de mayo, 2021 
 
 **Desde hoy vamos a profundizar en los lenguajes de código fuente que hemos aprovechado en cada clase del Optativo:**
 
