@@ -29,7 +29,7 @@ La tercera para editar el código.
 ##### Entregas:
 
 | Nº    | Tema               | Estudiantes    |  
-|:-----::-------------------|:---------------|
+|:-----:|:--------------------|:---------------|
 |  1    | Hasta Pronto Brewing Co. | Agustina Gonzalez y Florencia Vildósola |
 |  2    | Cervezaría artesanal en Chile | Sofía Sánchezy Paula Scheleff |
 |  3    | Cerveza en China | Cristian Risco y Marcos Fernandez |
