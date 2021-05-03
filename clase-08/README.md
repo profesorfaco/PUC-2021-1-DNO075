@@ -20,7 +20,7 @@ Trabajaremos en duplas o tríos, para resolver lo que sigue en tres etapas:
 
 https://profesorfaco.github.io/dno075-2021-1/clase-08/
 
-La primera etapa decidir qué contar y mostrar. 
+La primera etapa para decidir qué contar y mostrar, con bocetos como los de [Arranz](https://twitter.com/adolfux).
 
 La segunda para reconocer las pártes del código, basado en [Bootstrap](https://getbootstrap.com/).
 
