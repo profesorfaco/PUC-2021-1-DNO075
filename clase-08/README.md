@@ -12,6 +12,10 @@
 
 Del listado recién presentado, el "complicado" podría ser JavaScript, porque es el que trabaja directamente con las "complejidades" de la interacción. Con JavaScript (y sus bibliotecas) se programa. Con los demás se describe. Pero hay muchos recursos en línea que pueden guiar una introducción a la programación; es muy recomendable partir dedicándole una tarde a [JavaScript para gatos](https://jsparagatos.com/).
 
+#### Ejercicio de hoy
+
+https://profesorfaco.github.io/dno075-2021-1/clase-08/
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10) 
