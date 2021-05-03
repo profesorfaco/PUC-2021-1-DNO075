@@ -28,19 +28,19 @@ La tercera para editar el código.
 
 ##### Entregas:
 
-| Nº    | GitHub Pages | Tema               | Estudiantes    |  
-|:-----:|:-------------|:-------------------|:---------------|
-|  1    | Pendiente    | Hasta Pronto Brewing Co. | Agustina Gonzalez y Florencia Vildósola |
-|  2    | Pendiente    | Cervezaría artesanal en Chile | Sofía Sánchezy Paula Scheleff |
-|  3    | Pendiente    | Cerveza en China | Cristian Risco y Marcos Fernandez |
-|  4    | Pendiente    | Coctail con cerveza | Catalina Toledo y Sabrina Eggers |
-|  5    | Pendiente    | Exportación de cervezas chilenas | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
-|  6    | Pendiente    | Cerveza Volcanes del Sur | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
-|  7    | Pendiente    | Maridaje con cervezas  | Annais Bertin, Monserrat Vergara |
-|  8    | Pendiente    | Las micheladas     | Paula Herpic, Alexandra Garrido y Cecilia Soto |
-|  9    | Pendiente    | ???                | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
-|  10   | Pendiente    | ???                | Rosario González, Elisa Román y Ana Galleguillos |
-|  11   | Pendiente    | Cervezas Kunstmann | Valentina Madrid, María José Soto y Francisca Villalón |
+| Nº    | Tema               | Estudiantes    |  
+|:-----::-------------------|:---------------|
+|  1    | Hasta Pronto Brewing Co. | Agustina Gonzalez y Florencia Vildósola |
+|  2    | Cervezaría artesanal en Chile | Sofía Sánchezy Paula Scheleff |
+|  3    | Cerveza en China | Cristian Risco y Marcos Fernandez |
+|  4    | Coctail con cerveza | Catalina Toledo y Sabrina Eggers |
+|  5    | Exportación de cervezas chilenas | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
+|  6    | Cerveza Volcanes del Sur | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
+|  7    | Maridaje con cervezas  | Annais Bertin, Monserrat Vergara |
+|  8    | Las micheladas     | Paula Herpic, Alexandra Garrido y Cecilia Soto |
+|  9    | [Escudo](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
+|  10   | ???                | Rosario González, Elisa Román y Ana Galleguillos |
+|  11   | Cervezas Kunstmann | Valentina Madrid, María José Soto y Francisca Villalón |
 
 - - - - - - - -
 
