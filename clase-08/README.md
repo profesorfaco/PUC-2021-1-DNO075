@@ -26,6 +26,22 @@ La segunda para reconocer las pártes del código, basado en [Bootstrap](https:/
 
 La tercera para editar el código.
 
+##### Entregas:
+
+| Nº    | GitHub Pages | Tema               | Estudiantes    |  
+|:-----:|:-------------|:-------------------|:---------------|
+|  1    | Pendiente    | Hasta Pronto Brewing Co. | Agustina Gonzalez y Florencia Vildósola |
+|  2    | Pendiente    | Cervezaría artesanal en Chile | Sofía Sánchezy Paula Scheleff |
+|  3    | Pendiente    | Cerveza en China | Cristian Risco y Marcos Fernandez |
+|  4    | Pendiente    | Coctail con cerveza | Catalina Toledo y Sabrina Eggers |
+|  5    | Pendiente    | Exportación de cervezas chilenas | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
+|  6    | Pendiente    | Cerveza Volcanes del Sur | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
+|  7    | Pendiente    | Maridaje con cervezas  | Annais Bertin, Monserrat Vergara |
+|  8    | Pendiente    | Las micheladas     | Paula Herpic, Alexandra Garrido y Cecilia Soto |
+|  9    | Pendiente    | ???                | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
+|  10   | Pendiente    | ???                | Rosario González, Elisa Román y Ana Galleguillos |
+|  11   | Pendiente    | Cervezas Kunstmann | Valentina Madrid, María José Soto y Francisca Villalón |
+
 - - - - - - - -
 
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-07) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-10) 
