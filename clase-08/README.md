@@ -35,7 +35,7 @@ La tercera para editar el código.
 |  3    | [Cerveza en China](https://cristianrisco.github.io/clase8/) | Cristian Risco y Marcos Fernandez |
 |  4    | Coctail con cerveza | Catalina Toledo y Sabrina Eggers |
 |  5    | Exportación de cervezas chilenas | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
-|  6    | Cerveza Volcanes del Sur | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
+|  6    | [Cerveza Volcanes del Sur](https://vale-altamirano.github.io/infodigital-ejercicio8/) | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
 |  7    | Maridaje con cervezas  | Annais Bertin, Monserrat Vergara |
 |  8    | Las micheladas     | Paula Herpic, Alexandra Garrido y Cecilia Soto |
 |  9    | [Escudo](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
