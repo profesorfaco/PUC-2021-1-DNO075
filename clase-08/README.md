@@ -31,16 +31,16 @@ La tercera para editar el código.
 | Nº    | Tema               | Estudiantes    |  
 |:-----:|:--------------------|:---------------|
 |  1    | Hasta Pronto Brewing Co. | Agustina Gonzalez y Florencia Vildósola |
-|  2    | Cervezaría artesanal en Chile | Sofía Sánchezy Paula Scheleff |
-|  3    | Cerveza en China | Cristian Risco y Marcos Fernandez |
+|  2    | [Cervezaría artesanal en Chile](https://paulascheleff.github.io/infodigital-8/) | Sofía Sánchezy Paula Scheleff |
+|  3    | [Cerveza en China](https://cristianrisco.github.io/clase8/) | Cristian Risco y Marcos Fernandez |
 |  4    | Coctail con cerveza | Catalina Toledo y Sabrina Eggers |
 |  5    | Exportación de cervezas chilenas | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
 |  6    | Cerveza Volcanes del Sur | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
 |  7    | Maridaje con cervezas  | Annais Bertin, Monserrat Vergara |
 |  8    | Las micheladas     | Paula Herpic, Alexandra Garrido y Cecilia Soto |
 |  9    | [Escudo](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
-|  10   | ???                | Rosario González, Elisa Román y Ana Galleguillos |
-|  11   | Cervezas Kunstmann | Valentina Madrid, María José Soto y Francisca Villalón |
+|  10   | [Cerveza Austral](https://rosariogonzalez.github.io/Lunes3Mayo/) | Rosario González, Elisa Román y Ana Galleguillos |
+|  11   | [Cervezas Kunstmann](https://cotesoto.github.io/Infografia-Digital-08/) | Valentina Madrid, María José Soto y Francisca Villalón |
 
 - - - - - - - -
 
