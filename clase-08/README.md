@@ -33,10 +33,10 @@ La tercera para editar el código.
 |  1    | Hasta Pronto Brewing Co. | Agustina Gonzalez y Florencia Vildósola |
 |  2    | [Cervezaría artesanal en Chile](https://paulascheleff.github.io/infodigital-8/) | Sofía Sánchezy Paula Scheleff |
 |  3    | [Cerveza en China](https://cristianrisco.github.io/clase8/) | Cristian Risco y Marcos Fernandez |
-|  4    | Coctail con cerveza | Catalina Toledo y Sabrina Eggers |
+|  4    | [Coctail con cerveza](https://sabrina11s.github.io/infodigital-8/) | Catalina Toledo y Sabrina Eggers |
 |  5    | [Exportación de cervezas chilenas](https://trinidadmartinez.github.io/ejercicio8/) | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
 |  6    | [Cerveza Volcanes del Sur](https://vale-altamirano.github.io/infodigital-ejercicio8/) | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
-|  7    | [Maridaje con cervezas](https://annais-bj.github.io/ejercicio8-final/) | Annais Bertin, Monserrat Vergara |
+|  7    | [Maridaje con cervezas](https://annais-bj.github.io/ejercicio8-final/) | Annais Bertin y Monserrat Vergara |
 |  8    | [Las micheladas](https://cecysoto.github.io/clase-8--Infograf-a-Digital-v2--G8/) | Paula Herpic, Alexandra Garrido y Cecilia Soto |
 |  9    | [Escudo](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
 |  10   | [Cerveza Austral](https://rosariogonzalez.github.io/Lunes3Mayo/) | Rosario González, Elisa Román y Ana Galleguillos |
