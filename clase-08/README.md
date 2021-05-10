@@ -30,7 +30,7 @@ La tercera para editar el código.
 
 | Nº    | Tema               | Estudiantes    |  
 |:-----:|:--------------------|:---------------|
-|  1    | Hasta Pronto Brewing Co. | Agustina Gonzalez y Florencia Vildósola |
+|  1    | [Hasta Pronto Brewing Co.](https://florenciavildosolae.github.io/infodigital8/) | Agustina Gonzalez y Florencia Vildósola |
 |  2    | [Cervezaría artesanal en Chile](https://paulascheleff.github.io/infodigital-8/) | Sofía Sánchezy Paula Scheleff |
 |  3    | [Cerveza en China](https://cristianrisco.github.io/clase8/) | Cristian Risco y Marcos Fernandez |
 |  4    | [Coctail con cerveza](https://sabrina11s.github.io/infodigital-8/) | Catalina Toledo y Sabrina Eggers |
