@@ -37,7 +37,7 @@ La tercera para editar el código.
 |  5    | [Exportación de cervezas chilenas](https://trinidadmartinez.github.io/ejercicio8/) | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
 |  6    | [Cerveza Volcanes del Sur](https://vale-altamirano.github.io/infodigital-ejercicio8/) | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
 |  7    | [Maridaje con cervezas](https://annais-bj.github.io/ejercicio8-final/) | Annais Bertin, Monserrat Vergara |
-|  8    | Las micheladas     | Paula Herpic, Alexandra Garrido y Cecilia Soto |
+|  8    | [Las micheladas](https://cecysoto.github.io/clase-8--Infograf-a-Digital-v2--G8/) | Paula Herpic, Alexandra Garrido y Cecilia Soto |
 |  9    | [Escudo](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
 |  10   | [Cerveza Austral](https://rosariogonzalez.github.io/Lunes3Mayo/) | Rosario González, Elisa Román y Ana Galleguillos |
 |  11   | [Cervezas Kunstmann](https://cotesoto.github.io/Infografia-Digital-08/) | Valentina Madrid, María José Soto y Francisca Villalón |
