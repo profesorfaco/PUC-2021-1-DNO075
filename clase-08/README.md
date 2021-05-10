@@ -36,7 +36,7 @@ La tercera para editar el código.
 |  4    | Coctail con cerveza | Catalina Toledo y Sabrina Eggers |
 |  5    | [Exportación de cervezas chilenas](https://trinidadmartinez.github.io/ejercicio8/) | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
 |  6    | [Cerveza Volcanes del Sur](https://vale-altamirano.github.io/infodigital-ejercicio8/) | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
-|  7    | Maridaje con cervezas  | Annais Bertin, Monserrat Vergara |
+|  7    | [Maridaje con cervezas](https://annais-bj.github.io/ejercicio8-final/) | Annais Bertin, Monserrat Vergara |
 |  8    | Las micheladas     | Paula Herpic, Alexandra Garrido y Cecilia Soto |
 |  9    | [Escudo](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
 |  10   | [Cerveza Austral](https://rosariogonzalez.github.io/Lunes3Mayo/) | Rosario González, Elisa Román y Ana Galleguillos |
