@@ -36,7 +36,7 @@ Conviene considera que, en términos generales, el peso de un SVG debería estar
 
 #### Entregas
 | Nro. | Tema          | Prototipo en línea     | Estudiantes   |
-|:-----|:--------------|:-----------------------|:--------------|
+|:----:|:--------------|:-----------------------|:--------------|
 | 1    | Cerveza en el mundo | Pendiente  | Pendiente     |
 | 2    | Cerveza en el mundo | Pendiente  | Pendiente     |
 | 3    | Cerveza en el mundo | Pendiente  | Pendiente     |
