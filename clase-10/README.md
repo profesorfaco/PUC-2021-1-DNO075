@@ -4,9 +4,13 @@
 
 Vamos a dividir la clase en 3 partes. 
 
-**La primera parte (10.00 a 11.00)** la dedicaremos a una retroalimentación y conversación sobre las [entregas de la sesión pasada](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08#entregas).
+#### La primera parte (10.00 a 10.50 hrs.)
 
-**La segunda parte (11.00 a 12.00)** la dedicaremos a un trabajo que dividirá al curso en tres grupos (10 estudiantes por grupo).
+La dedicaremos a una retroalimentación y conversación sobre las [entregas de la sesión pasada](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08#entregas).
+
+#### La segunda parte (11.00 a 11.50 hrs.)
+
+La dedicaremos a un trabajo que dividirá al curso en tres grupos (10 estudiantes por grupo).
 
 1- *Cerveza en el mundo*, coordinado por Cristian Risco y Marcos Fernandez. Este grupo debe referirse a [los países con mayor consumo per capita](https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_consumo_de_cerveza_por_persona), además de los más grandes productores y la exportación de la producción chilena al mundo.
 
@@ -22,9 +26,18 @@ Ideal sería conversar con "lápiz en mano y papel en la mesa", para compartir b
 
 En sus bocetos deberían hacerse evidente las partes de la infografía, enseñadas en la [tercera clase](https://docs.google.com/presentation/d/1bZzWcd2ea6n6fU6BJYAydpzWLN13HINLzzXJGcw7d-w/edit?usp=sharing): título, bajada, contenido, fuente y crédito, además deberían indicar tipos de gráficos a utilizar en contenido: figurativo, no figurativo o mixto.   
 
-**La tercera parte (12.00 - 12.50)** la dedicaremos a la implementación de prototipos operativos de infografía digital para Cerveza en el mundo, Cerveza en Chile y Cerveza en el paladar, con énfasis en el trabajo con SVG de peso adecuado. 
+#### La tercera parte (12.00 - 12.50) 
 
-Considera que, en términos generales, el peso de un SVG debería estar por debajo de los 200kb. Para entender la razón de tal peso, por ravor revisa este artículo que refiere al peso ideal de una fotografía para la web - https://nbadiola.com/peso-ideal-fotografia-para-web/ - Esto puede servirnos de referencia al momento de preparar la "-grafía" de una infografía digital.
+La dedicaremos a la implementación de prototipos operativos de infografía digital para *Cerveza en el mundo*, *Cerveza en Chile* y *Cerveza en el paladar*, con énfasis en el trabajo con SVG de peso adecuado. 
+
+Conviene considera que, en términos generales, el peso de un SVG debería estar por debajo de los 200kb. Para entender la razón de tal peso, conviene revisar un artículo que refiere al peso ideal de una fotografía para la web - https://nbadiola.com/peso-ideal-fotografia-para-web/ - Aunque se refiere a fotografías, bien puede servir de referencia al momento de preparar la "-grafía" de una infografía digital.
+
+La implementación del boceto se hará en duplas o tríos, y exigirá la coordinación de todo el curso, para que el trabajo de un tema tenga vínculo a dos trabajos más: de los otros dos temas.
+
+#### Entregas
+| Nro. | Tema          | Prototipo en línea   | Estudiantes   |
+|:-----|:--------------|:---------------------|:--------------|
+| P | Pendiente | Pendiente | Pendiente |
 
 - - - - - - - -
 
