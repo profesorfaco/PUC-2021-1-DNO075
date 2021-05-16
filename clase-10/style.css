@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,400&family=Passion+One&display=swap');
+
+
+body {
+    font-family: 'Merriweather', serif;
+    font-weight: 400;
+    background: rgb(255, 236, 63);
+}
+h1,h2 {
+    font-family: 'Passion One', cursive;
+    font-weight: 400;
+    color: #112;
+    line-height: 1;
+}
+h1{
+    font-size: calc(3rem + 1.25vw);
+}
+h2{
+    font-size: calc(2.5rem + 1.5vw);
+}
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 700;
+}
+header {
+    background: linear-gradient(rgba(255, 236, 63, 0), rgba(255, 236, 63, 1)), url("img/espuma.jpg") center bottom no-repeat;
+    background-size: cover;
+    padding: 12vh 0 0 0;
+}
+
+main p.lead {
+    text-align: justify;
+    letter-spacing: 0.025rem;
+    line-height: 1.6;
+}
+
+main p em {
+    font-weight: 500;
+}
+
+a {
+    color: #555;
+}
+
+a:hover {
+    color: #999;
+    text-decoration: none;
+    transition: all ease 0.5s;
+}
