@@ -28,19 +28,19 @@ La tercera para editar el código.
 
 ##### Entregas:
 
-| Nº    | Tema               | Estudiantes    |  
-|:-----:|:--------------------|:---------------|
-|  1    | [Hasta Pronto Brewing Co.](https://florenciavildosolae.github.io/infodigital8/) | Agustina Gonzalez y Florencia Vildósola |
-|  2    | [Cervezaría artesanal en Chile](https://paulascheleff.github.io/infodigital-8/) | Sofía Sánchezy Paula Scheleff |
-|  3    | [Cerveza en China](https://cristianrisco.github.io/clase8/) | Cristian Risco y Marcos Fernandez |
-|  4    | [Coctail con cerveza](https://sabrina11s.github.io/infodigital-8/) | Catalina Toledo y Sabrina Eggers |
-|  5    | [Exportación de cervezas chilenas](https://trinidadmartinez.github.io/ejercicio8/) | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
-|  6    | [Cerveza Volcanes del Sur](https://vale-altamirano.github.io/infodigital-ejercicio8/) | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
-|  7    | [Maridaje con cervezas](https://annais-bj.github.io/ejercicio8-final/) | Annais Bertin y Monserrat Vergara |
-|  8    | [Las micheladas](https://cecysoto.github.io/clase-8--Infograf-a-Digital-v2--G8/) | Paula Herpic, Alexandra Garrido y Cecilia Soto |
-|  9    | [Escudo](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
-|  10   | [Cerveza Austral](https://rosariogonzalez.github.io/Lunes3Mayo/) | Rosario González, Elisa Román y Ana Galleguillos |
-|  11   | [Cervezas Kunstmann](https://cotesoto.github.io/Infografia-Digital-08/) | Valentina Madrid, María José Soto y Francisca Villalón |
+| Nº   | Tema               | Estudiantes    |  
+|:----:|:--------------------|:---------------|
+|  1   | [China 中国](https://cristianrisco.github.io/clase8/) | Cristian Risco y Marcos Fernandez |
+|  2   | [Entre cerveza y comida](https://annais-bj.github.io/ejercicio8-final/) | Annais Bertin y Monserrat Vergara |
+|  3   | [De los volcanes a tu nevera](https://vale-altamirano.github.io/infodigital-ejercicio8/) | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
+|  4   | [El sabor de la Patagonia](https://rosariogonzalez.github.io/Lunes3Mayo/) | Rosario González, Elisa Román y Ana Galleguillos |
+|  5   | [Cerveza artesanal en Chile](https://paulascheleff.github.io/infodigital-8/) | Sofía Sánchezy Paula Scheleff |
+|  6   | [Cócteles cerveceros](https://sabrina11s.github.io/infodigital-8/) | Catalina Toledo y Sabrina Eggers |
+|  7   | [Las micheladas](https://cecysoto.github.io/clase-8--Infograf-a-Digital-v2--G8/) | Paula Herpic, Alexandra Garrido y Cecilia Soto |
+|  8   | [Hasta Pronto Brewing Co.](https://florenciavildosolae.github.io/infodigital8/) | Agustina Gonzalez y Florencia Vildósola |
+|  9   | [La cerveza chilena y su exportación mundial](https://trinidadmartinez.github.io/ejercicio8/) | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
+|  10  | [¿Qué tomas que adivinas? Proceso de elaboración de la cerveza Kunstmann](https://cotesoto.github.io/Infografia-Digital-08/) | Valentina Madrid, María José Soto y Francisca Villalón |
+|  11  | [Escudo, la cerveza de Chile](https://catalinagracia.github.io/infodigital-8/)  | Catalina Gracia, Martina Gonzalez y Roberto Verdugo |
 
 - - - - - - - -
 
