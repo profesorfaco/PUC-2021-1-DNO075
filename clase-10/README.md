@@ -12,11 +12,11 @@ La dedicaremos a dar retroalimentación y conversar sobre las [entregas de la se
 
 La dedicaremos a un trabajo que dividirá al curso en tres grupos (10 estudiantes por grupo).
 
-1 - *Cerveza en el mundo*, coordinado por Cristian Risco y Marcos Fernandez. Este grupo debe referirse a [los países con mayor consumo per capita](https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_consumo_de_cerveza_por_persona), además de los más grandes productores y la exportación de la producción chilena al mundo.
+GRUPO 1 - *Cerveza en el mundo*, coordinado por Cristian Risco y Marcos Fernandez. Este grupo debe referirse a [los países con mayor consumo per capita](https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_consumo_de_cerveza_por_persona), además de los más grandes productores y la exportación de la producción chilena al mundo.
 
-2 - *Cerveza en Chile*, coordinado por Valentina Altamirano, Naomi Elkayam y Rosa Enco. Este grupo debe referirse a la [CCU](https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Cervecer%C3%ADas_Unidas) y las distintas marcas chilenas de cerveza, sean industriales o artesanales.
+GRUPO 2 - *Cerveza en Chile*, coordinado por Valentina Altamirano, Naomi Elkayam y Rosa Enco. Este grupo debe referirse a la [CCU](https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Cervecer%C3%ADas_Unidas) y las distintas marcas chilenas de cerveza, sean industriales o artesanales.
 
-3 - *Cerveza en el paladar*, coordinado por Annais Bertin y Monserrat Vergara. Este grupo debe referirse a los tipos de fermentación, sabores que aporta cada ingrediente y el efecto de la carbonización. También puede referirse a micheladas y cócteles con cerveza.
+GRUPO 3 - *Cerveza en el paladar*, coordinado por Annais Bertin y Monserrat Vergara. Este grupo debe referirse a los tipos de fermentación, sabores que aporta cada ingrediente y el efecto de la carbonización. También puede referirse a micheladas y cócteles con cerveza.
 
 Ideal sería conversar con "lápiz en mano y papel en la mesa", para compartir bocetos como los que hace Adolfo Arranz: 
 
@@ -32,7 +32,7 @@ La dedicaremos a la implementación de prototipos operativos de infografía digi
 
 Conviene considera que, en términos generales, el peso de un SVG debería estar por debajo de los 200kb. Para entender la razón de tal peso, conviene revisar un artículo que refiere al peso ideal de una fotografía para la web - https://nbadiola.com/peso-ideal-fotografia-para-web/ - Aunque se refiere a fotografías, bien puede servir de referencia al momento de preparar la "-grafía" de una infografía digital.
 
-**La implementación de cada prototipo operativo de infografía digital se hará en duplas o tríos, y exigirá la coordinación de todo el curso, para que el trabajo de un tema tenga vínculo a tres trabajos: de los otros dos temas que ahora se trabajan y uno de [la sesión pasada](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08#entregas)**.
+**La implementación de cada prototipo operativo de infografía digital se hará en DUPLAS o TRÍOS, y exigirá la coordinación de todo el curso, para que el trabajo de un tema tenga vínculo a tres trabajos: de los otros dos temas que ahora se trabajan y uno de [la sesión pasada](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08#entregas)**.
 
 #### Entregas
 | Nro. | Tema          | Prototipo en línea     | Estudiantes   |
