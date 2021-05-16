@@ -18,7 +18,7 @@ GRUPO 2 - *Cerveza en Chile*, coordinado por Valentina Altamirano, Naomi Elkayam
 
 GRUPO 3 - *Cerveza en el paladar*, coordinado por Annais Bertin y Monserrat Vergara. Este grupo debe referirse a los tipos de fermentación, sabores que aporta cada ingrediente y el efecto de la carbonización. También puede referirse a micheladas y cócteles con cerveza.
 
-Ideal sería conversar con "lápiz en mano y papel en la mesa", para compartir bocetos como los que hace Adolfo Arranz: 
+Ideal sería conversar con "lápiz y papel", para compartir bocetos como los que hace Adolfo Arranz: 
 
 - https://twitter.com/adolfux/status/739979487605968898
 - https://twitter.com/adolfux/status/1381532947962949634
