@@ -24,7 +24,7 @@ Ideal sería conversar con "lápiz en mano y papel en la mesa", para compartir b
 - https://twitter.com/adolfux/status/1381532947962949634
 - https://twitter.com/adolfux/status/1358303924281700352
 
-En sus bocetos deberían hacerse evidente las partes de la infografía, enseñadas en la [tercera clase](https://docs.google.com/presentation/d/1bZzWcd2ea6n6fU6BJYAydpzWLN13HINLzzXJGcw7d-w/edit?usp=sharing): título, bajada, contenido, fuente y crédito, además deberían indicar tipos de gráficos a utilizar en contenido: figurativo, no figurativo o mixto.   
+En sus bocetos deberían hacerse evidente las partes de la infografía, enseñadas en la [tercera clase](https://docs.google.com/presentation/d/1bZzWcd2ea6n6fU6BJYAydpzWLN13HINLzzXJGcw7d-w/edit?usp=sharing): título, bajada, contenido, fuente y crédito, además deberían indicar tipos de gráficos a utilizar en el contenido: figurativo, no figurativo o mixto.   
 
 #### La tercera parte (12.00 - 12.50) 
 
