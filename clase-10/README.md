@@ -32,7 +32,7 @@ La dedicaremos a la implementación de prototipos operativos de infografía digi
 
 Conviene considera que, en términos generales, el peso de un SVG debería estar por debajo de los 200kb. Para entender la razón de tal peso, conviene revisar un artículo que refiere al peso ideal de una fotografía para la web - https://nbadiola.com/peso-ideal-fotografia-para-web/ - Aunque se refiere a fotografías, bien puede servir de referencia al momento de preparar la "-grafía" de una infografía digital.
 
-**La implementación de cada prototipo operativo de infografía digital se hará en duplas o tríos, y exigirá la coordinación de todo el curso, para que el trabajo de un tema tenga vínculo a dos trabajos más: de los otros dos temas**.
+**La implementación de cada prototipo operativo de infografía digital se hará en duplas o tríos, y exigirá la coordinación de todo el curso, para que el trabajo de un tema tenga vínculo a tres trabajos: de los otros dos temas que ahora se trabajan y uno de [la sesión pasada](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08#entregas)**.
 
 #### Entregas
 | Nro. | Tema          | Prototipo en línea     | Estudiantes   |
