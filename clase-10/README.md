@@ -28,7 +28,7 @@ En sus bocetos deberían hacerse evidente las partes de la infografía, enseñad
 
 #### La tercera parte (12.00 - 12.50) 
 
-La dedicaremos a la implementación de prototipos operativos de infografía digital para *Cerveza en el mundo*, *Cerveza en Chile* y *Cerveza en el paladar*, con énfasis en el trabajo con SVG de peso adecuado. 
+La dedicaremos a la implementación de prototipos operativos de infografía digital para *Cerveza en el mundo*, *Cerveza en Chile* y *Cerveza en el paladar*, con énfasis en el trabajo con SVG de peso adecuado y esta plantilla: https://profesorfaco.github.io/dno075-2021-1/clase-10/ 
 
 Conviene considera que, en términos generales, el peso de un SVG debería estar por debajo de los 200kb. Para entender la razón de tal peso, conviene revisar un artículo que refiere al peso ideal de una fotografía para la web - https://nbadiola.com/peso-ideal-fotografia-para-web/ - Aunque se refiere a fotografías, bien puede servir de referencia al momento de preparar la "-grafía" de una infografía digital.
 
