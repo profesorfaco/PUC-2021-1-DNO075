@@ -37,18 +37,18 @@ Conviene considera que, en términos generales, el peso de un SVG debería estar
 #### Entregas
 | Nro. | Tema          | Prototipo en línea     | Estudiantes   |
 |:-----|:--------------|:-----------------------|:--------------|
-| 1    | Pendiente     | Cerveza en el mundo    | Pendiente     |
-| 2    | Pendiente     | Cerveza en el mundo    | Pendiente     |
-| 3    | Pendiente     | Cerveza en el mundo    | Pendiente     |
-| 4    | Pendiente     | Cerveza en el mundo    | Pendiente     |
-| 5    | Pendiente     | Cerveza en Chile       | Pendiente     |
-| 6    | Pendiente     | Cerveza en Chile       | Pendiente     |
-| 7    | Pendiente     | Cerveza en Chile       | Pendiente     |
-| 8    | Pendiente     | Cerveza en Chile       | Pendiente     |
-| 9    | Pendiente     | Cerveza en el paladar  | Pendiente     |
-| 10   | Pendiente     | Cerveza en el paladar  | Pendiente     |
-| 11   | Pendiente     | Cerveza en el paladar  | Pendiente     |
-| 12   | Pendiente     | Cerveza en el paladar  | Pendiente     |
+| 1    | Cerveza en el mundo | Pendiente  | Pendiente     |
+| 2    | Cerveza en el mundo | Pendiente  | Pendiente     |
+| 3    | Cerveza en el mundo | Pendiente  | Pendiente     |
+| 4    | Cerveza en el mundo | Pendiente  | Pendiente     |
+| 5    | Cerveza en Chile | Pendiente  | Pendiente     |
+| 6    | Cerveza en Chile | Pendiente  | Pendiente     |
+| 7    | Cerveza en Chile | Pendiente  | Pendiente     |
+| 8    | Cerveza en Chile | Pendiente  | Pendiente     |
+| 9    | Cerveza en el paladar | Pendiente  | Pendiente     |
+| 10   | Cerveza en el paladar | Pendiente  | Pendiente     |
+| 11   | Cerveza en el paladar | Pendiente  | Pendiente     |
+| 12   | Cerveza en el paladar | Pendiente  | Pendiente     |
 
 - - - - - - - -
 
