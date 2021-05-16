@@ -36,7 +36,7 @@ La tercera para editar el código.
 |  4   | [El sabor de la Patagonia](https://rosariogonzalez.github.io/Lunes3Mayo/) | Rosario González, Elisa Román y Ana Galleguillos |
 |  5   | [Cerveza artesanal en Chile](https://paulascheleff.github.io/infodigital-8/) | Sofía Sánchezy Paula Scheleff |
 |  6   | [Cócteles cerveceros](https://sabrina11s.github.io/infodigital-8/) | Catalina Toledo y Sabrina Eggers |
-|  7   | [Las micheladas](https://cecysoto.github.io/clase-8--Infograf-a-Digital-v2--G8/) | Paula Herpic, Alexandra Garrido y Cecilia Soto |
+|  7   | [Las micheladas](https://cecysoto.github.io/clase-8--Infograf-a-Digital-v2--G8/) | Paula Hrepic, Alexandra Garrido y Cecilia Soto |
 |  8   | [Hasta Pronto Brewing Co.](https://florenciavildosolae.github.io/infodigital8/) | Agustina Gonzalez y Florencia Vildósola |
 |  9   | [La cerveza chilena y su exportación mundial](https://trinidadmartinez.github.io/ejercicio8/) | Gabriela Echeverria, Trinidad Martinez y Eliana Jiménez  |
 |  10  | [¿Qué tomas que adivinas? Proceso de elaboración de la cerveza Kunstmann](https://cotesoto.github.io/Infografia-Digital-08/) | Valentina Madrid, María José Soto y Francisca Villalón |
