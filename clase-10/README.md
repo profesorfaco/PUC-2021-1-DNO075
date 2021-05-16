@@ -6,13 +6,13 @@ Serán 3 partes.
 
 #### La primera parte (10.00 a 10.50 hrs.)
 
-La dedicaremos a una retroalimentación y conversación sobre las [entregas de la sesión pasada](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08#entregas).
+La dedicaremos a dar retroalimentación y conversar sobre las [entregas de la sesión pasada](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-08#entregas).
 
 #### La segunda parte (11.00 a 11.50 hrs.)
 
 La dedicaremos a un trabajo que dividirá al curso en tres grupos (10 estudiantes por grupo).
 
- 1 - *Cerveza en el mundo*, coordinado por Cristian Risco y Marcos Fernandez. Este grupo debe referirse a [los países con mayor consumo per capita](https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_consumo_de_cerveza_por_persona), además de los más grandes productores y la exportación de la producción chilena al mundo.
+1 - *Cerveza en el mundo*, coordinado por Cristian Risco y Marcos Fernandez. Este grupo debe referirse a [los países con mayor consumo per capita](https://es.wikipedia.org/wiki/Anexo:Pa%C3%ADses_por_consumo_de_cerveza_por_persona), además de los más grandes productores y la exportación de la producción chilena al mundo.
 
 2 - *Cerveza en Chile*, coordinado por Valentina Altamirano, Naomi Elkayam y Rosa Enco. Este grupo debe referirse a la [CCU](https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_de_Cervecer%C3%ADas_Unidas) y las distintas marcas chilenas de cerveza, sean industriales o artesanales.
 
