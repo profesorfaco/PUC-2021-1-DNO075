@@ -4,13 +4,11 @@
 
 La sesión pasada, con la suma de sus puntos, se cerró la primera nota de su promedio de asignatura. 
 
-En la sesión de hoy se agrega una segunda nota a su promedio un mediante desafío que deben resolver de manera individual: Deben replicar una sección de infografía digital.
+En la sesión de hoy se agrega una segunda nota a su promedio, mediante desafío que deben resolver de manera individual: Deben replicar partes de una infografía digital real.
 
-Para resolver esta réplica, tendrán que escarbar el código fuente de la página que se les encargue, para copiar, pegar y editar las líneas que sean necesarias.
+Para resolverla, tendrán que aprovechar el código fuente de la página original: Revisar, seleccionar, copiar, pegar y editar las líneas que sean necesarias.
 
-El resultado será evaluado con nota parcial.
-
-La nota se calculará considerando la siguiente pauta de evaluación:
+El resultado será evaluado con nota parcial, considerando la siguiente pauta de evaluación:
 
 | Criterio | Descripción           | Puntaje |
 |:--------:|:----------------------|:-------:|
@@ -19,6 +17,11 @@ La nota se calculará considerando la siguiente pauta de evaluación:
 | 3        | Resuelve la modificación gráfica encargada  | NL(0) · ML(1) · L(1,5) · CL(2) |
 | *        | Punto base            | 1       |
 
+#### Entregas
+
+| Nº   | Estudiante | GitHub Page |
+|:----:|:-----------|:------------|
+| —    | —          | —           |
 
 
 - - - - - - - - - - - - -
