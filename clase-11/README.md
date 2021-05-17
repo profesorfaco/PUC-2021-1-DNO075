@@ -10,12 +10,12 @@ Para resolverla, tendrán que aprovechar el código fuente de la página origina
 
 El resultado será evaluado con nota parcial, considerando la siguiente pauta de evaluación:
 
-| Criterio | Descripción           | Puntaje |
-|:--------:|:----------------------|:-------:|
-| 1        | Toma las secciones y elementos correspondientes del original indicado | NL(0) · ML(1) · L(1,5) · CL(2) |
-| 2        | Ubica los elementos tomados entre las líneas correspondientes de la plantilla entregada  | NL(0) · ML(1) · L(1,5) · CL(2) |
-| 3        | Resuelve la modificación gráfica encargada  | NL(0) · ML(1) · L(1,5) · CL(2) |
-| *        | Punto base            | 1       |
+| Criterio | Descripción           | NL | ML | L | CL |
+|:--------:|:----------------------|:-----:|:-----:|:-----:|:-----:|
+| 1        | Toma los elementos correspondientes del original indicado | 0 | 1 | 1.5 | 2 |
+| 2        | Ubica los elementos  entre las líneas correspondientes de la plantilla entregada  | 0 | 1 | 1.5 | 2 |
+| 3        | Resuelve la modificación gráfica encargada  | 0 | 1 | 1.5 | 2 |
+| *        | Punto base            | 1  | 1 | 1 | 1   |
 
 #### Entregas
 
