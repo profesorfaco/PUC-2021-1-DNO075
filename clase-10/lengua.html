@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
+
+        <title>Hello, world!</title>
+    </head>
+    <body>
+        <div class="container">
+            <div class="row my-5">
+                <div class="col-sm-4">
+                    <svg enable-background="new 0 0 500 600" version="1.1" viewBox="0 0 500 600" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+                        <style type="text/css">
+                            path {
+                                fill: #ff33ee;
+                                fill-opacity: 0.5;
+                            }
+                        </style>
+                        <path
+                            id="lengua"
+                            d="M3.4,93.3C8.8,27.9,56,6.4,108.2,1.9
+				c58.7-5.1,123.7,11.3,142.2,10.7c17.5-0.6,76.9-15.2,133.1-12.2c56.1,3,109,23.4,113.8,92.9c15.6,225.3-37.4,373.9-114,449
+				C297.7,626.1,182.7,618,101,522C32,441-13.1,297.2,3.4,93.3z"
+                        />
+                        <path
+                            id="amargo"
+                            d="M113.6,1.9c58.7-5.1,123.7,11.3,142.2,10.7
+				c17.5-0.6,76.9-15.2,133.1-12.2C458.1,133.7,33.2,126.2,113.6,1.9z"
+                        />
+                        <g id="salado">
+                            <path
+                                d="M0.7,139.7C-1.4,195,1.3,245.5,7.9,290.9c27.8,1.9,53.4-0.5,66.5-15.1c32.2-35.8,29.3-95.6-0.9-129.7
+					C63.8,135.2,35.6,134.3,0.7,139.7z"
+                            />
+                            <path
+                                d="M499.3,139.7c-34.9-5.4-63.2-4.5-72.9,6.5c-30.2,34.1-33.1,93.9-0.9,129.7c13.1,14.6,38.6,16.9,66.5,15.1
+					C498.7,245.5,501.4,195,499.3,139.7z"
+                            />
+                        </g>
+                        <g id="acido">
+                            <path d="M99.5,309.2C82.4,298.4,45.9,304.9,15,324C27.7,388,48.6,441,74.6,482.9C135.9,459.3,135.4,332,99.5,309.2z" />
+                            <path
+                                d="M399.7,309.2c-35.9,22.8-34.1,151.2,27.2,174.8C452.9,442.2,472.3,388,485,324
+					C454.1,304.9,416.8,298.4,399.7,309.2z"
+                            />
+                        </g>
+                        <path
+                            id="dulce"
+                            d="M399.1,523.5c-90.8,104.4-207.3,100.5-298.3-2.7
+				c19.8-31.8,38.7-47.9,68.9-48.2c22.8-0.2,55.3,21.2,80.4,20.7c29.3-0.6,51.1-19.3,78.3-20.1C359.4,472.4,376.6,489.4,399.1,523.5z"
+                        />
+                    </svg>
+                </div>
+                <div class="col-sm-8">
+                    <p class="lead py-auto">
+                        El amargor y dulzor producen calma. La cerveza ofrece ambos. <span id="dulzor">La malta le da el dulzor a la cerveza</span>, mientras <span id="amargor">el lúpulo le proporciona su amargor.</span> A mayor cantidad de
+                        lúpulo se utilice en su preparación, mayor IBU tendrá el resultado.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous"></script>
+        <script>
+            $("#amargo").hover(
+                function () {
+                    $(this).css("fill-opacity", "1");
+                    $("#amargor").css("text-decoration", "underline");
+                },
+                function () {
+                    $(this).css("fill-opacity", "0.5");
+                    $("#amargor").css("text-decoration", "none");
+                }
+            );
+
+            $("#dulce").hover(
+                function () {
+                    $(this).css("fill-opacity", "1");
+                    $("#dulzor").css("text-decoration", "underline");
+                },
+                function () {
+                    $(this).css("fill-opacity", "0.5");
+                    $("#dulzor").css("text-decoration", "none");
+                }
+            );
+        </script>
+    </body>
+</html>
