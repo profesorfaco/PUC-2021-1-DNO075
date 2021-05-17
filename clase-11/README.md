@@ -2,9 +2,11 @@
 
 ### Clase 11 → Infografía Digital v2 → Lunes 24 de abril, 2021
 
-Este es un desafío evaluado. Tendrán que replicar partes de distintas infografías digitales. 
+La sesión pasada, con la suma de sus puntos, se cerró la primera nota de su promedio de asignatura. 
 
-Para hacerlo, tendrán que escarbar los códigos fuente correspondientes, para copiar, pegar y editar las líneas que sean necesarias.
+En la sesión de hoy se agrega una segunda nota a su promedio un mediante desafío que deben resolver de manera individual: Deben replicar una sección de infografía digital.
+
+Para resolver esta réplica, tendrán que escarbar el código fuente de la página que se les encargue, para copiar, pegar y editar las líneas que sean necesarias.
 
 El resultado será evaluado con nota parcial, equivalente al 25% del promedio final de Optativo.
 
