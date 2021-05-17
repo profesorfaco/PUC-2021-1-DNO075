@@ -24,7 +24,7 @@ Ideal sería conversar con "lápiz y papel", para compartir bocetos como los que
 - https://twitter.com/adolfux/status/1381532947962949634
 - https://twitter.com/adolfux/status/1358303924281700352
 
-En sus bocetos deberían hacerse evidente las partes de la infografía, enseñadas en la [tercera clase](https://docs.google.com/presentation/d/1bZzWcd2ea6n6fU6BJYAydpzWLN13HINLzzXJGcw7d-w/edit?usp=sharing): título, bajada, contenido, fuente y crédito, además deberían indicar tipos de gráficos a utilizar en el contenido: figurativo, no figurativo o mixto.   
+En sus bocetos deberían ser claras las partes de la infografía, enseñadas en la [tercera clase](https://docs.google.com/presentation/d/1bZzWcd2ea6n6fU6BJYAydpzWLN13HINLzzXJGcw7d-w/edit?usp=sharing): título, bajada, contenido, fuente y crédito, además deberían indicar tipos de gráficos a utilizar en el contenido: figurativo, no figurativo o mixto.   
 
 #### La tercera parte (12.00 - 12.50) 
 
@@ -37,15 +37,15 @@ Conviene considera que, en términos generales, el peso de un SVG debería estar
 #### Entregas
 | Nro. | Tema          | Prototipo en línea     | Estudiantes   |
 |:----:|:--------------|:-----------------------|:--------------|
-| 1    | Cerveza en el mundo | Pendiente  | Pendiente     |
+| 1    | Cerveza en el mundo | Pendiente  | Cristian Risco y Marcos Fernandez |
 | 2    | Cerveza en el mundo | Pendiente  | Pendiente     |
 | 3    | Cerveza en el mundo | Pendiente  | Pendiente     |
 | 4    | Cerveza en el mundo | Pendiente  | Pendiente     |
-| 5    | Cerveza en Chile | Pendiente  | Pendiente     |
+| 5    | Cerveza en Chile | Pendiente  | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
 | 6    | Cerveza en Chile | Pendiente  | Pendiente     |
 | 7    | Cerveza en Chile | Pendiente  | Pendiente     |
 | 8    | Cerveza en Chile | Pendiente  | Pendiente     |
-| 9    | Cerveza en el paladar | Pendiente  | Pendiente     |
+| 9    | Cerveza en el paladar | Pendiente  | Annais Bertin y Monserrat Vergara |
 | 10   | Cerveza en el paladar | Pendiente  | Pendiente     |
 | 11   | Cerveza en el paladar | Pendiente  | Pendiente     |
 | 12   | Cerveza en el paladar | Pendiente  | Pendiente     |
