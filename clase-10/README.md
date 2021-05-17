@@ -1,6 +1,6 @@
 # Coding: HTML, CSS y JavaScript (sesión 2 de 2)
 
-### Clase 10 → Infografía Digital v2 → Lunes 17 de abril, 2021
+### Clase 10 → Infografía Digital v2 → Lunes 17 de mayo, 2021
 
 Serán 3 partes. 
 
