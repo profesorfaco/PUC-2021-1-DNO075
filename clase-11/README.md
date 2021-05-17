@@ -17,7 +17,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 3        | Resuelve las modificaciones encargadas*  | 0 | 1 | 1.5 | 2 |
 | —        | Punto base            | 1  | 1 | 1 | 1   |
 
-* Las modifaciones encargadas son 3:
+Las modifaciones encargadas son 3:
 
 - pendiente
 - pendiente
