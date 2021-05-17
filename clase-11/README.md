@@ -14,7 +14,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 |:--------:|:----------------------|:-----:|:-----:|:-----:|:-----:|
 | 1        | Toma los elementos correspondientes del original indicado | 0 | 1 | 1.5 | 2 |
 | 2        | Ubica los elementos  entre las líneas correspondientes de la plantilla entregada  | 0 | 1 | 1.5 | 2 |
-| 3        | Resuelve la modificación gráfica encargada  | 0 | 1 | 1.5 | 2 |
+| 3        | Resuelve las modificaciones encargadas  | 0 | 1 | 1.5 | 2 |
 | *        | Punto base            | 1  | 1 | 1 | 1   |
 
 #### Entregas
