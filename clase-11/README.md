@@ -14,9 +14,9 @@ La nota se calculará considerando la siguiente pauta de evaluación:
 
 | Criterio | Descripción           | Puntaje |
 |:--------:|:----------------------|:-------:|
-| 1        | Pendiente             | NL(0) · ML(1) · L(1,5) · CL(2) |
-| 2        | Pendiente             | NL(0) · ML(1) · L(1,5) · CL(2) |
-| 3        | Pendiente             | NL(0) · ML(1) · L(1,5) · CL(2) |
+| 1        | Toma las secciones y elementos correspondientes del original indicado | NL(0) · ML(1) · L(1,5) · CL(2) |
+| 2        | Ubica los elementos tomados entre las líneas correspondientes de la plantilla entregada  | NL(0) · ML(1) · L(1,5) · CL(2) |
+| 3        | Resuelve la modificación gráfica encargada  | NL(0) · ML(1) · L(1,5) · CL(2) |
 | *        | Punto base            | 1       |
 
 
