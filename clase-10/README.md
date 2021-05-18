@@ -37,18 +37,17 @@ Conviene considera que, en términos generales, el peso de un SVG debería estar
 #### Entregas
 | Nro. | Tema          | Prototipo en línea     | Estudiantes   |
 |:----:|:--------------|:-----------------------|:--------------|
-| 1    | Cerveza en el mundo | Pendiente  | Cristian Risco y Marcos Fernandez |
-| 2    | Cerveza en el mundo | Pendiente  | Pendiente     |
-| 3    | Cerveza en el mundo | Pendiente  | Pendiente     |
-| 4    | Cerveza en el mundo | Pendiente  | Pendiente     |
-| 5    | Cerveza en Chile | Pendiente  | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
-| 6    | Cerveza en Chile | Pendiente  | Pendiente     |
-| 7    | Cerveza en Chile | Pendiente  | Pendiente     |
-| 8    | Cerveza en Chile | Pendiente  | Pendiente     |
-| 9    | Cerveza en el paladar | Pendiente  | Annais Bertin y Monserrat Vergara |
-| 10   | Cerveza en el paladar | Pendiente  | Pendiente     |
-| 11   | Cerveza en el paladar | Pendiente  | Pendiente     |
-| 12   | Cerveza en el paladar | Pendiente  | Pendiente     |
+| 1    | Cerveza en el mundo | https://cristianrisco.github.io/clase-10/ | Cristian Risco y Marcos Fernandez |
+| 2    | Cerveza en el mundo | https://egjimenez-uc.github.io/infografia-clase10/ | Gabriela Echeverría y Gabriela Jiménez |
+| 3    | Cerveza en el mundo | https://cecysoto.github.io/clase-10-/  | Rosario González, Elisa Román y Florencia Vildósola |
+| 4    | Cerveza en el mundo | https://rosariogonzalez.github.io/Lunes17Mayo/  | Pendiente     |
+| 5    | Cerveza en Chile | https://vale-altamirano.github.io/infodigital-9/ | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
+| 6    | Cerveza en Chile | https://valevmu.github.io/Clase10/ | María José Soto y Valentina Madrid |
+| 7    | Cerveza en Chile | https://paulascheleff.github.io/infodigital-10/  | Agustina González, Sofía Sánchez y Paula Scheleff |
+| 8    | Cerveza en Chile | https://catalinagracia.github.io/infodigital-10/  | Ana Galleguillos, Martina González y Catalina Gracia |
+| 9    | Cerveza en el paladar | https://annais-bj.github.io/clase10-ab-mv/  | Annais Bertin y Monserrat Vergara |
+| 10   | Cerveza en el paladar | https://blancacobs.github.io/Infografia-Digital-10/  | Blanca Cobs, Roberto Verdugo y Francisca Villalón |
+| 11   | Cerveza en el paladar | https://sabrina11s.github.io/infodigital-9/  | Catalina Toledo, Sabrina Eggers y Trinidad Martínez |
 
 - - - - - - - -
 
