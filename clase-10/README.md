@@ -39,8 +39,8 @@ Conviene considera que, en términos generales, el peso de un SVG debería estar
 |:----:|:--------------|:-----------------------|:--------------|
 | 1    | Cerveza en el mundo | https://cristianrisco.github.io/clase-10/ | Cristian Risco y Marcos Fernandez |
 | 2    | Cerveza en el mundo | https://egjimenez-uc.github.io/infografia-clase10/ | Gabriela Echeverría y Gabriela Jiménez |
-| 3    | Cerveza en el mundo | https://cecysoto.github.io/clase-10-/  | Rosario González, Elisa Román y Florencia Vildósola |
-| 4    | Cerveza en el mundo | https://rosariogonzalez.github.io/Lunes17Mayo/  | Pendiente     |
+| 3    | Cerveza en el mundo | https://cecysoto.github.io/clase-10-/  | Paula Hrepic y Cecilia Soto |
+| 4    | Cerveza en el mundo | https://rosariogonzalez.github.io/Lunes17Mayo/  | Rosario González, Elisa Román y Florencia Vildósola     |
 | 5    | Cerveza en Chile | https://vale-altamirano.github.io/infodigital-9/ | Valentina Altamirano, Naomi Elkayam y Rosa Enco |
 | 6    | Cerveza en Chile | https://valevmu.github.io/Clase10/ | María José Soto y Valentina Madrid |
 | 7    | Cerveza en Chile | https://paulascheleff.github.io/infodigital-10/  | Agustina González, Sofía Sánchez y Paula Scheleff |
