@@ -45,7 +45,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 5	 | SABRINA EGGERS | P |
 | 6	 | NAOMÍ ELKAYAM | P |
 | 7	 | ROSA ENCO | P |
-| 8	 | MARCOS FERNÁNDEZ | P |
+| 8	 | MARCOS FERNÁNDEZ | https://marcosfernandezr.github.io/clase-11_InfoDigital/ |
 | 9	 |  ANA GALLEGUILLOS | P |
 | 10 |	ROSARIO GONZALEZ | P |
 | 11 |	MARTINA GONZÁLEZ | P |
