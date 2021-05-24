@@ -38,35 +38,35 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 
 | Nº   | Nombre | GitHub Pages |
 |:-----:|:-----|:-------------|
-| 1  | VALENTINA ALTAMIRANO | P |
-| 2  | ANNAIS BERTIN | P |
-| 3  | BLANCA COBS | P |
+| 1  | VALENTINA ALTAMIRANO | https://vale-altamirano.github.io/infograf-a-digital-ev1/ |
+| 2  | ANNAIS BERTIN | https://annais-bj.github.io/pruebainversa/ |
+| 3  | BLANCA COBS | https://blancacobs.github.io/Infografia-Digital-11 |
 | 4	 | GABRIELA ECHEVERRÍA | https://gabrielaeschmidt.github.io/CLASE-11/ |
-| 5	 | SABRINA EGGERS | P |
-| 6	 | NAOMÍ ELKAYAM | P |
-| 7	 | ROSA ENCO | P |
+| 5	 | SABRINA EGGERS | PENDIENTE |
+| 6	 | NAOMÍ ELKAYAM | https://nelkayam.github.io/ejercicio-10/ |
+| 7	 | ROSA ENCO | https://rosa-enco.github.io/infografiadigital-11/ |
 | 8	 | MARCOS FERNÁNDEZ | https://marcosfernandezr.github.io/clase-11_InfoDigital/ |
-| 9	 |  ANA GALLEGUILLOS | P |
-| 10 |	ROSARIO GONZALEZ | P |
+| 9	 |  ANA GALLEGUILLOS | https://anagalleguillos.github.io/Clase-11/ |
+| 10 |	ROSARIO GONZALEZ | https://rosariogonzalez.github.io/Lunes24Mayo/ |
 | 11 |	MARTINA GONZÁLEZ | https://m4rtina-gonzalez.github.io/infodigital-11/ |
-| 12 |	AGUSTINA GONZÁLEZ | P |
+| 12 |	AGUSTINA GONZÁLEZ | https://agugopa.github.io/Encargo-IngenieriaInversa/ |
 | 13 |	CATALINA GRACIA | https://catalinagracia.github.io/infodigital-11/ |
 | 14 |	PAULA HREPIC | https://hrepic.github.io/hrepic-011/ |
 | 15 |	ELIANA JIMÉNEZ | https://egjimenez-uc.github.io/infografia-clase11/ |
-| 16 |	PABLO LARRAÍN | P |
+| 16 |	PABLO LARRAÍN | https://pablolarrain.github.io/clase11/ |
 | 17 |	VALENTINA MADRID | https://github.com/Valevmu/Clase11 |
-| 18 |	TRINIDAD MARTÍNEZ | P |
-| 19 |	CRISTIAN RISCO | P |
-| 20 |	ELISA ROMÁN | P |
+| 18 |	TRINIDAD MARTÍNEZ | https://trinidadmartinez.github.io/pruebaclase11/ |
+| 19 |	CRISTIAN RISCO | https://cristianrisco.github.io/clase11/ |
+| 20 |	ELISA ROMÁN | https://elisaromanf.github.io/infodigital-clase11/ |
 | 21 |	SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital-11/ |
 | 22 |	PAULA SCHELEFF | https://paulascheleff.github.io/infodigital-11/ |
 | 23 |	CECILIA SOTO | https://cecysoto.github.io/Clase-11--Infograf-a-Digital-v2-Lunes-24-de-abril-2021-evaluaci-n-/ |
-| 24 |	MARIA JOSE SOTO | P |
-| 25 |	CATALINA TOLEDO | P |
-| 26 |	ROBERTO VERDUGO | P |
-| 27 |	MONSERRAT VERGARA | P |
-| 28 |	FLORENCIA VILDÓSOLA | P |
-| 29 |	FRANCISCA VILLALÓN | P |
+| 24 |	MARIA JOSE SOTO | https://cotesoto.github.io/Infograf-a-digital-11/ |
+| 25 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografiaprueba1 |
+| 26 |	ROBERTO VERDUGO | https://unchocman.github.io/Clase-11/ |
+| 27 |	MONSERRAT VERGARA | https://monchivergara.github.io/avance-11 |
+| 28 |	FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital10/ |
+| 29 |	FRANCISCA VILLALÓN | https://francisca-pankii.github.io/clase11--evaluacion-/ |
 
 
 - - - - - - - - - - - - -
