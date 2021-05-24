@@ -10,7 +10,7 @@ Al replicar las partes, el desafío debería verse como sigue:
 
 ![copia](https://raw.githubusercontent.com/profesorfaco/dno075-2021-1/main/clase-11/copia.png)
 
-Para hacer esta réplica parcial, tendrán que aprovechar el código fuente de la página original: Revisar, seleccionar, copiar, pegar y editar las líneas que sean necesarias.
+Para hacer esta réplica parcial, tendrán que aprovechar el código fuente de la página original: [Revisar, seleccionar, copiar, pegar y editar las líneas que sean necesarias](view-source:https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/index.html)
 
 El resultado será evaluado con nota parcial, considerando la siguiente pauta de evaluación:
 
@@ -23,7 +23,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 
 **Las modifaciones encargadas son 3**:
 
-1) Copia la escalera mecánica en cabecera (revisa el elemento identificado como cover en el [HTML](view-source:https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/index.html) y las reglas [CSS](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/css/graphics.css ) que lo definen):
+1) Copia la escalera mecánica en cabecera (revisa el elemento identificado como cover en el [HTML](view-source:https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/index.html) y las reglas [CSS](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/css/graphics.css) que lo definen):
 
 
 2) Copia el primer gráfico no figurativo (PNG), y también el gráfico mixto de la mujer que mira el celular (SVG). Modifica esta última con un dibujo propio: Distinto pelo, distintos rasgos, manteniendo el blanco sobre negro. 
