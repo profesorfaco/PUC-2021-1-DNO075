@@ -21,14 +21,14 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 3        | Resuelve las modificaciones encargadas*  | 0 | 1 | 1.5 | 2 |
 | —        | Punto base            | 1  | 1 | 1 | 1   |
 
-Las modifaciones encargadas son 3:
+**Las modifaciones encargadas son 3**:
 
-1) Copiar la escalera mecánica en cabecera (revisa el elemento identificado como cover en el [HTML](view-source:https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/index.html) y las reglas [CSS](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/css/graphics.css ) que lo definen):
+1) Copia la escalera mecánica en cabecera (revisa el elemento identificado como cover en el [HTML](view-source:https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/index.html) y las reglas [CSS](https://multimedia.scmp.com/lifestyle/article/2183329/text-neck/css/graphics.css ) que lo definen):
 
 
-2) Copiar el primer gráfico no figurativo (PNG), y también el gráfico mixto de la mujer que mira el celular (SVG). Modifica esta última con un dibujo propio: Distinto pelo, distintos rasgos, manteniendo el blanco sobre negro. 
+2) Copia el primer gráfico no figurativo (PNG), y también el gráfico mixto de la mujer que mira el celular (SVG). Modifica esta última con un dibujo propio: Distinto pelo, distintos rasgos, manteniendo el blanco sobre negro. 
 
-3) Traducir el texto y ajustarlo para que haga sentido completo el segmento copiado.
+3) Traduce todo el texto, y ajústalo para que haga sentido la lectura del segmento copiado.
 
 
 #### Entregas
