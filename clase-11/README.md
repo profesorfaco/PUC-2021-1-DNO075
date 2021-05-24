@@ -36,9 +36,37 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 
 #### Entregas
 
-| Nº   | Estudiante | GitHub Page |
-|:----:|:-----------|:------------|
-| —    | —          | —           |
+| Nº   | Nombre | GitHub Pages |
+|:-----:|:-----|:-------------|
+| 1  | VALENTINA ALTAMIRANO | P |
+| 2  | ANNAIS BERTIN | P |
+| 3  | BLANCA COBS | P |
+| 4	 | GABRIELA ECHEVERRÍA | P |
+| 5	 | SABRINA EGGERS | P |
+| 6	 | NAOMÍ ELKAYAM | P |
+| 7	 | ROSA ENCO | P |
+| 8	 | MARCOS FERNÁNDEZ | P |
+| 9	 |  ANA GALLEGUILLOS | P |
+| 10 |	ROSARIO GONZALEZ | P |
+| 11 |	MARTINA GONZÁLEZ | P |
+| 12 |	AGUSTINA GONZÁLEZ | P |
+| 13 |	CATALINA GRACIA | P |
+| 14 |	PAULA HREPIC | P |
+| 15 |	ELIANA JIMÉNEZ | P |
+| 16 |	PABLO LARRAÍN | P |
+| 17 |	VALENTINA MADRID | P |
+| 18 |	TRINIDAD MARTÍNEZ | P |
+| 19 |	CRISTIAN RISCO | P |
+| 20 |	ELISA ROMÁN | P |
+| 21 |	SOFÍA SÁNCHEZ | P |
+| 22 |	PAULA SCHELEFF | P |
+| 23 |	CECILIA SOTO | P |
+| 24 |	MARIA JOSE SOTO | P |
+| 25 |	CATALINA TOLEDO | P |
+| 26 |	ROBERTO VERDUGO | P |
+| 27 |	MONSERRAT VERGARA | P |
+| 28 |	FLORENCIA VILDÓSOLA | P |
+| 29 |	FRANCISCA VILLALÓN | P |
 
 
 - - - - - - - - - - - - -
