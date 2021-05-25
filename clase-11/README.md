@@ -42,7 +42,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 2  | ANNAIS BERTIN | https://annais-bj.github.io/pruebainversa/ |
 | 3  | BLANCA COBS | https://blancacobs.github.io/Infografia-Digital-11 |
 | 4	 | GABRIELA ECHEVERRÍA | https://gabrielaeschmidt.github.io/CLASE-11/ |
-| 5	 | SABRINA EGGERS | PENDIENTE |
+| 5	 | SABRINA EGGERS | https://sabrina11s.github.io/infodigital-prueba1/ |
 | 6	 | NAOMÍ ELKAYAM | https://nelkayam.github.io/ejercicio-10/ |
 | 7	 | ROSA ENCO | https://rosa-enco.github.io/infografiadigital-11/ |
 | 8	 | MARCOS FERNÁNDEZ | https://marcosfernandezr.github.io/clase-11_InfoDigital/ |
@@ -64,7 +64,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 24 |	MARIA JOSE SOTO | https://cotesoto.github.io/Infograf-a-digital-11/ |
 | 25 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografiaprueba1 |
 | 26 |	ROBERTO VERDUGO | https://unchocman.github.io/Clase-11/ |
-| 27 |	MONSERRAT VERGARA | https://monchivergara.github.io/avance-11 |
+| 27 |	MONSERRAT VERGARA | https://monchivergara.github.io/prueba-clase-11/ |
 | 28 |	FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital10/ |
 | 29 |	FRANCISCA VILLALÓN | https://francisca-pankii.github.io/clase11--evaluacion-/ |
 
