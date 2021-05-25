@@ -49,7 +49,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 9	 |  ANA GALLEGUILLOS | https://anagalleguillos.github.io/Clase-11/ |
 | 10 |	ROSARIO GONZALEZ | https://rosariogonzalez.github.io/Lunes24Mayo/ |
 | 11 |	MARTINA GONZÁLEZ | https://m4rtina-gonzalez.github.io/infodigital-11/ |
-| 12 |	AGUSTINA GONZÁLEZ | https://agugopa.github.io/Encargo-IngenieriaInversa/ |
+| 12 |	AGUSTINA GONZÁLEZ | https://agugopa.github.io/Entrega-10/ |
 | 13 |	CATALINA GRACIA | https://catalinagracia.github.io/infodigital-11/ |
 | 14 |	PAULA HREPIC | https://hrepic.github.io/hrepic-011/ |
 | 15 |	ELIANA JIMÉNEZ | https://egjimenez-uc.github.io/infografia-clase11/ |
@@ -61,11 +61,11 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 21 |	SOFÍA SÁNCHEZ | https://sofiasanchezdonoso.github.io/infodigital-11/ |
 | 22 |	PAULA SCHELEFF | https://paulascheleff.github.io/infodigital-11/ |
 | 23 |	CECILIA SOTO | https://cecysoto.github.io/Clase-11--Infograf-a-Digital-v2-Lunes-24-de-abril-2021-evaluaci-n-/ |
-| 24 |	MARIA JOSE SOTO | https://cotesoto.github.io/Infograf-a-digital-11/ |
-| 25 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografiaprueba1 |
+| 24 |	MARIA JOSE SOTO | https://cotesoto.github.io/Infografia-digital-11/ |
+| 25 |	CATALINA TOLEDO | https://catalinatoledo.github.io/infografiaprueba1/ |
 | 26 |	ROBERTO VERDUGO | https://unchocman.github.io/Clase-11/ |
 | 27 |	MONSERRAT VERGARA | https://monchivergara.github.io/prueba-clase-11/ |
-| 28 |	FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital10/ |
+| 28 |	FLORENCIA VILDÓSOLA | https://florenciavildosolae.github.io/infodigital11/ |
 | 29 |	FRANCISCA VILLALÓN | https://francisca-pankii.github.io/clase11--evaluacion-/ |
 
 
