@@ -66,7 +66,7 @@ En los trabajos finales de infografía digital sobre **fauna endémica de Chile*
 | clase | nombre | integrantes del grupo | GitHub |
 |:------|:--------|:---------------------|:--------------|
 | Arachnida | Araña pollito (euathlus…) | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://github.com/Arana-Pollito |
-| Aves | Las aves de Juan Fernández (aguilucho de…, cachudito de…, cernícalo de…, picaflor de…) | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://github.com/aves-de-juan-fernandez |
+| Aves | Aves de Juan Fernández (aguilucho de…, cachudito de…, cernícalo de…, picaflor de…) | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://github.com/aves-de-juan-fernandez |
 | Mammalia | Zorro de Chiloé (lycalopex…) | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://github.com/ZorroDeChiloe-InfoDigital |
 | Mammalia | Delfín liso austral (lissodelphis…) | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://github.com/Delfin-Liso-Austral |
 | Reptilia | Salamanqueja del norte chico (garthia…) | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://github.com/Salamanqueja-del-Norte-Chico |  
