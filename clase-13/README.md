@@ -50,7 +50,7 @@ Ideal es que el último boceto se confunda con el *sketch* de una infografía ha
 
 Para desarrollar cada *sketch* pueden confiar en su habilidad de dibujo o usar técnicas mixtas: hasta un *collage* con partes impresas y otras tridimesionales en plasticina, que sea fotografiado sobre la mesa del comedor, es válido.
 
-Note que en el ejemplo de [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch) las partes textuales de mayor jerarquía se muestran escritas, mientras las de jerarquía menor quedan como líneas que, en su proximidad, representan párrafo.
+Noten que en el ejemplo de [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch) las partes textuales de mayor jerarquía se muestran escritas, mientras las de jerarquía menor quedan como líneas que, en su proximidad, representan párrafo.
 
 - - - - - - - -
 
