@@ -38,7 +38,9 @@ Con ella podrán inspirar un trabajo de *sketching* que se recomienda **dividir 
 
 - - - - - - - -
 
-Ideal es que el último boceto se confunda con el boceto de una infografía a ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el boceto de una [landing page](https://startbootstrap.com/themes/landing-pages):
+Este proceso se explica, con detalle, en el libro [Lean UX de Jeff Gothelf (pp.37-41)](https://drive.google.com/file/d/1sjTOzb0sRthTwPaNZF5wDJ4KkEsgChAc/view?usp=sharing), bajo el título *Design Studio*.
+
+Ideal es que el último boceto se confunda con el *sketch* de una infografía ha ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *sketch* de una *landing page*:
 
 🙂  👍  https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch
 
@@ -50,12 +52,11 @@ Note que en el ejemplo de [Infographics: The importance of the rough sketch](htt
 
 - - - - - - - -
 
-#### Entrega de hoy: todos los Sketch
+#### Entrega de hoy: todos los *Sketch*
 
-Aprovechando la plantilla compartida en este repositorio y usando su organización, publiquen todos su trabajo de *sketching*.
+Aprovechando [la plantilla compartida en este repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-13/), tienen que publicar todos el trabajo en *sketching*.
 
-
-
+¡Usen el repositorio de la organización, no usen repositorios individuaes!
 
 - - - - - - - - - - - 
 
