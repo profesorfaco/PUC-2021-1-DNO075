@@ -70,7 +70,7 @@ En los trabajos finales de infografía digital sobre **fauna endémica de Chile*
 | Mammalia | Zorro de Chiloé (lycalopex…) | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://github.com/ZorroDeChiloe-InfoDigital |
 | Mammalia | Delfín liso austral (lissodelphis…) | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://github.com/Delfin-Liso-Austral |
 | Reptilia | Salamanqueja del norte chico (garthia…) | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://github.com/Salamanqueja-del-Norte-Chico |  
-| Reptilia | Largarto leopardo (liolaemus…) | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | pendiente |
+| Reptilia | Largarto leopardo (liolaemus…) | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://github.com/Lagarto-Leopardo |
 
 - - - - - - - - - - - - -
 
