@@ -56,5 +56,24 @@ Para publicar su avance, cada equipo debe **utilizar el `README.md` de un reposi
 
 - - - - - - - - - - - - -
 
+#### Avances
+
+Hablar de Fauna es hablar del reino Animalia, donde podemos reconocer las clases Actinopterygii (peces óseos), Amphibia (anfibios), Arachnida (arácnidos), Aves, Cephalaspidomorphi (agnatos o peces sin mandíbula), Gastropoda (molúscos), Insecta (insectos), Malacostraca/Crustacea (crustáceos), Mammalia (mamíferos) y Reptilia (reptiles).
+
+En los trabajos finales de infografía digital sobre la fauna endémica de Chile, se considerarán algunos miembros del reino animal en las clases: Arachnida (arácnidos), Aves, Mammalia (mamíferos) y Reptilia (reptiles)
+
+
+| clase | nombre | integrantes del grupo | organización |
+|:------|:--------|:---------------------|:--------------|
+| Arachnida | Araña pollito (Euathlus…) | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://github.com/Arana-Pollito |
+| Aves | Las aves de Juan Fernández (aguilucho, cachudito, cernícalo, picaflor) | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | pendiente |
+| Mammalia | Zorro de Chiloé (Lycalopex…) | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://github.com/ZorroDeChiloe-InfoDigital |
+| Mammalia | Delfín liso austral (Lissodelphis…) | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://github.com/Delfin-Liso-Austral |
+| Reptilia | Salamanqueja del norte chico (Garthia…) | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://github.com/Salamanqueja-del-Norte-Chico |  
+| Reptilia | Largarto leopardo (Liolaemus…) | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | pendiente |
+
+- - - - - - - - - - - - -
+
+
 ###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-11) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-13) 
 
