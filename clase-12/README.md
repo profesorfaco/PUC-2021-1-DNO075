@@ -63,7 +63,7 @@ Hablar de Fauna es hablar del reino Animalia, donde podemos reconocer las clases
 En los trabajos finales de infografía digital sobre **fauna endémica de Chile**, se considerarán, como sub-temas, algunos miembros del reino animal en las clases: Arachnida (arácnidos), Aves, Mammalia (mamíferos) y Reptilia (reptiles)
 
 
-| clase | nombre | integrantes del grupo | organización |
+| clase | nombre | integrantes del grupo | GitHub |
 |:------|:--------|:---------------------|:--------------|
 | Arachnida | Araña pollito (euathlus…) | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://github.com/Arana-Pollito |
 | Aves | Las aves de Juan Fernández (aguilucho de…, cachudito de…, cernícalo de…, picaflor de…) | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | pendiente |
