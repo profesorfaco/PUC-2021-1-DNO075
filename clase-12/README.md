@@ -60,7 +60,7 @@ Para publicar su avance, cada equipo debe **utilizar el `README.md` de un reposi
 
 Hablar de Fauna es hablar del reino Animalia, donde podemos reconocer las clases Actinopterygii (peces óseos), Amphibia (anfibios), Arachnida (arácnidos), Aves, Cephalaspidomorphi (agnatos o peces sin mandíbula), Gastropoda (molúscos), Insecta (insectos), Malacostraca/Crustacea (crustáceos), Mammalia (mamíferos) y Reptilia (reptiles).
 
-En los trabajos finales de infografía digital sobre **fauna endémica de Chile**, se considerarán, como sub-temas, algunos miembros del reino animal en las clases: Arachnida (arácnidos), Aves, Mammalia (mamíferos) y Reptilia (reptiles)
+En los trabajos finales de infografía digital sobre **fauna endémica de Chile**, se considerarán, como sub-temas, algunos miembros del reino animal en las clases: Arachnida (arácnidos), Aves, Mammalia (mamíferos) y Reptilia (reptiles):
 
 
 | clase | nombre | integrantes del grupo | GitHub |
