@@ -14,6 +14,8 @@ Luego, cada grupo aportará al tema desde **el sub-tema de una(s) especie(s) de 
 
 Desde el reino (animal) hasta la especie (de cada grupo) hay pasos que no conviene omitir, por lo que convendría imaginarse informando en un *zoom* (*in* / *out*). Y en la ubicación del territorio chileno en el globo terráqueo también podría haber un *zoom*, necesario cuando una infografía digital, estando en línea, tiene una alcance global.
 
+- - - - - - - 
+
 #### Trabajo de hoy: *Sketching*
 
 Hoy correspode aprovechar su recolección de antecedentes en:
