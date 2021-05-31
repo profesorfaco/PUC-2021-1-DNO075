@@ -14,7 +14,7 @@ Luego, cada grupo aportará al tema desde **el sub-tema de una(s) especie(s) de 
 
 Desde el reino (animal) hasta la especie (de cada grupo) hay pasos que no conviene omitir, por lo que convendría imaginarse informando en un *zoom* (*in* / *out*). Y en la ubicación del territorio chileno en el globo terráqueo también podría haber un *zoom*, necesario cuando una infografía digital, estando en línea, tiene una alcance global.
 
-#### Trabajo de hoy: Sketch
+#### Trabajo de hoy: *Sketching*
 
 Hoy correspode aprovechar su recolección de antecedentes en:
 
@@ -22,7 +22,7 @@ Hoy correspode aprovechar su recolección de antecedentes en:
 
 - https://www.scmp.com/infographic/
 
-Con ella podrán inspirar un trabajo de *sketching* que se recomienda **dividir en 3 etapas**: 
+Con su recolección podrán inspirarse a un trabajo de *sketching* que se recomienda **dividir en 3 etapas**: 
 
 1. Delimitar el desafío de equipo: ¿Qué informar mediante la gráfica?
 
@@ -34,7 +34,7 @@ Con ella podrán inspirar un trabajo de *sketching* que se recomienda **dividir 
 
 - La segunda versión también se comparten con el equipo, para una segunda evaluación.
 
-3. Atendiendo a la segunda evaluación cruzada, el equipo estructura un último *sketch*, uno grupal. De esta manera, un equipo de 5 integrantes debería tener  11 *sketches* (5 + 5 + 1) mientras que un grupo de 4 debería tener 9 (4 + 4 + 1).
+3. Atendiendo a la segunda evaluación cruzada, el equipo estructura un último *sketch*, uno grupal. De esta manera, un equipo de 5 integrantes debería tener 11 *sketches* (5 + 5 + 1) mientras que un grupo de 4 debería tener 9 (4 + 4 + 1).
 
 - - - - - - - -
 
@@ -52,11 +52,13 @@ Note que en el ejemplo de [Infographics: The importance of the rough sketch](htt
 
 - - - - - - - -
 
-#### Entrega de hoy: todos los *Sketch*
+#### Entrega de hoy: todos los *sketches*
 
 Aprovechando [la plantilla compartida en este repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-13/), tienen que publicar todos el trabajo en *sketching*.
 
 ¡Usen el repositorio de la organización, no usen repositorios individuaes!
+
+Y no olviden las evaluaciones cruzadas, que pueden completar hasta las 23.59 hrs.
 
 - - - - - - - - - - - 
 
