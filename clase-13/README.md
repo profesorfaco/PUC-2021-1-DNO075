@@ -26,7 +26,7 @@ Hoy corresponde aprovechar su recolección de antecedentes en:
 
 Con su recolección podrán inspirarse para un trabajo de *sketching* que se recomienda **dividir en 3 etapas** y tomará un tiempo total aproximado de 2 horas:
 
-1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (responder usando de un máximo de 40 minutos)
+1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (responder usando un tiempo máximo de 40 minutos)
 
 2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo al desafío delimitado:
  
