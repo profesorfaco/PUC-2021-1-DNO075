@@ -26,7 +26,7 @@ Hoy corresponde aprovechar su recolección de antecedentes en:
 
 Con su recolección podrán inspirarse para un trabajo de *sketching* que se recomienda **dividir en 3 etapas** y tomará un tiempo total aproximado de 2 horas:
 
-1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (responder usando de un máximo de 45 minutos)
+1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (responder usando de un máximo de 40 minutos)
 
 2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo al desafío delimitado:
  
@@ -34,7 +34,7 @@ Con su recolección podrán inspirarse para un trabajo de *sketching* que se rec
 
 - Después de la primera evaluación cruzada, cada integrante prepara una segunda versión de su *sketch*, demorándose en ello no más de 10 minutos.
 
-- La segunda versión también se comparte con el grupo, pero en esta ocasión la evaluación cruzada es más selectiva y convergente (podrían votar por la mejor idea, y apuntar elementos por rescatar en otras, demorándose en ello no más de 10 minutos).
+- La segunda versión también se comparte con el grupo, pero en esta ocasión la evaluación cruzada es más selectiva y convergente (podrían votar por la mejor idea, y apuntar elementos por rescatar en otras; en esto no deberían demorar más de 10 minutos).
 
 - Aquí convendría hacer un *break* de 10 minutos, para cargar las pilas antes de cerrar el trabajo.
 
@@ -50,7 +50,7 @@ Ideal es que este trabajo cooperativo e iterativo termine en un *sketch* que se 
 
 ☹️  👎  https://es.dreamstime.com/una-plantilla-del-dise%C3%B1o-sitio-web-de-la-p%C3%A1gina-para-su-negocio-aterrizaje-wireframe-ui-ux-responsivo-moderno-plano-il-image106890730
 
-Para desarrollar cada *sketch* pueden confiar en su habilidad de dibujo o usar técnicas mixtas: hasta un *collage* que sea fotografiado sobre la mesa del comedor, es válido. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos. No es necesario ser tan cuidadosos en cada *sketching* que apoyará la comunicación interna, pero corresponde ponerle más de cuidado a único *sketch* que resultará de la convergencia de las ideas, y se utilizará para la comunicación externa.
+Para desarrollar cada *sketch* pueden confiar en su habilidad de dibujo o usar técnicas mixtas: hasta un *collage*, que sea fotografiado sobre la mesa del comedor, es válido. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos, considerando que no es necesario ser tan cuidados@s en cada *sketching* que apoyará la comunicación interna, pero corresponde ponerle más de cuidado a único *sketch* que resultará de la convergencia de las ideas, y se utilizará para la comunicación externa.
 
 Un detalle que podrían replicar: Noten que en los ejemplo en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch), las partes textuales de mayor jerarquía pueden leerse, mientras las de jerarquía menor quedan como líneas paralelas que representan párrafos.
 
