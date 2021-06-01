@@ -18,49 +18,49 @@ Desde el reino (animal) hasta la especie (de cada grupo) hay pasos que no convie
 
 #### Trabajo de hoy: *Sketching*
 
-Hoy correspode aprovechar su recolección de antecedentes en:
+Hoy corresponde aprovechar su recolección de antecedentes en:
 
 - https://graphics.reuters.com/
 
 - https://www.scmp.com/infographic/
 
-Con su recolección podrán inspirarse a un trabajo de *sketching* que se recomienda **dividir en 3 etapas**: 
+Con su recolección podrán inspirarse para un trabajo de *sketching* que se recomienda **dividir en 3 etapas** y tomará un tiempo total aproximado de 2 horas:
 
-1. Delimitar el desafío de equipo: ¿Qué informar mediante la gráfica?
+1. Delimitar el desafío grupal ¿Qué informar mediante gráfica? (responder usando de un máximo de 30 minutos)
 
-2. Cada integrante del equipo debe desarrollar un *sketch* respondiendo a tal desafío:
+2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo a tal desafío:
  
-- Una primera versión de cada *sketch* individual se comparte con el equipo para una evaluación cruzada.
+- Después de 10 minutos de trabajo, una primera versión de cada *sketch* individual se comparte con el grupo para una evaluación cruzada breve (3 minutos para presentar cada *sketch* y recibir retroalimentación).
 
-- Después de la primera evaluación cruzada, cada integrante prepara una segunda versión de su *sketch* individual.
+- Después de la primera evaluación cruzada, cada integrante prepara una segunda versión de su *sketch*, demorándose en ello no más de 10 minutos.
 
-- La segunda versión también se comparten con el equipo, para una segunda evaluación.
+- La segunda versión también se comparte con el grupo, pero en esta ocasión la evaluación cruzada es más selectiva y convergente (podrían votar por la mejor idea, y apuntar elementos por rescatar en otras, demorándose en ello no más de 10 minutos).
 
-3. Atendiendo a la segunda evaluación cruzada, el equipo estructura un último *sketch*, uno grupal. De esta manera, un equipo de 5 integrantes debería tener 11 *sketches* (5 + 5 + 1) mientras que un grupo de 4 debería tener 9 (4 + 4 + 1).
+- Aquí convendría hacer un *break* de 10 minutos, para cargar las pilas antes de cerrar el trabajo.
+
+3. Atendiendo a la segunda evaluación cruzada, el equipo estructura un último *sketch*, esta vez grupal. Puede demorar cerca de 30 minutos en su refinamiento. De esta manera, un equipo de 5 integrantes debería producir un total de 11 *sketches* (5 + 5 + 1) mientras que un grupo de 4 debería producir 9 (4 + 4 + 1).
 
 - - - - - - - -
 
-Este proceso se explica, con detalle, en el libro [Lean UX de Jeff Gothelf (pp.37-41)](https://drive.google.com/file/d/1sjTOzb0sRthTwPaNZF5wDJ4KkEsgChAc/view?usp=sharing), bajo el título *Design Studio*.
+El trabajo de *sketching* divido en tres etapas adapta una dinámica de diseño colaborativo conocida como *Design Studio*, la que se describe en el libro [Lean UX de Jeff Gothelf (pp.37-41)](https://drive.google.com/file/d/1sjTOzb0sRthTwPaNZF5wDJ4KkEsgChAc/view?usp=sharing).
 
-Ideal es que el último boceto se confunda con el *sketch* de una infografía ha ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *sketch* de una *landing page*:
+Ideal es que este trabajo cooperativo e iterativo termine en un *sketch* que se confunda con uno producido para una infografía que ha ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *sketch* de una *landing page*:
 
 🙂  👍  https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch
 
 ☹️  👎  https://es.dreamstime.com/una-plantilla-del-dise%C3%B1o-sitio-web-de-la-p%C3%A1gina-para-su-negocio-aterrizaje-wireframe-ui-ux-responsivo-moderno-plano-il-image106890730
 
-Para desarrollar cada *sketch* pueden confiar en su habilidad de dibujo o usar técnicas mixtas: hasta un *collage* con partes impresas y otras tridimesionales en plasticina, que sea fotografiado sobre la mesa del comedor, es válido.
+Para desarrollar cada *sketch* pueden confiar en su habilidad de dibujo o usar técnicas mixtas: hasta un *collage* con partes impresas y otras tridimesionales en plasticina, que sea fotografiado sobre la mesa del comedor, es válido. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos. No es necesario ser tan cuidadosos en cada *sketching* que apoyará la comunicación interna, pero corresponde ponerle más de cuidado a único *sketch* que resultará de la convergencia de las ideas, y se utilizará para la comunicación externa.
 
-Noten que en el ejemplo de [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch) las partes textuales de mayor jerarquía se muestran escritas, mientras las de jerarquía menor quedan como líneas que, en su proximidad, representan párrafo.
+Un detalle que podrían replicar: Noten que en los ejemplo en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch), las partes textuales de mayor jerarquía pueden leerse, mientras las de jerarquía menor quedan como líneas paralelas que representan párrafos.
 
 - - - - - - - -
 
 #### Entrega de hoy: todos los *sketches*
 
-Aprovechando [la plantilla compartida en este repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-13/), tienen que publicar todos el trabajo en *sketching*.
+Aprovechando [la plantilla compartida en este repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-13/), tienen que publicar todos el trabajo en *sketching*: los 11 si el grupo tiene cinco integrantes o los 9 si es que son 4 los integrantes.
 
-¡Usen el repositorio de la organización, no usen repositorios individuaes!
-
-Y no olviden las evaluaciones cruzadas, que pueden completar hasta las 23.59 hrs.
+Como en la clase recién pasada y hasta el cierre del semestre: ¡Usen el repositorio de la organización, no usen repositorios individuaes!
 
 - - - - - - - - - - - 
 
