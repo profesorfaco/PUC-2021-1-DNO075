@@ -10,7 +10,7 @@ Nuestro trabajo trata sobre especies endémicas de Chile, especies que viven exc
 
 Dentro de todas las especies posibles, nos interesan las del reino animal, por esto **el tema de todos los trabajos es la Fauna Endémica de Chile**.
 
-Luego, cada grupo aportará al tema desde un sub-tema: **una(s) especie(s) de la fauna endémica de Chile** (plural para dos casos, el de la araña pollito, que es un nombre genérico, y el caso de las aves que se apellidan de Juan Fernández).
+Luego, cada grupo aportará al tema desde un sub-tema: **una(s) especie(s) de la fauna endémica de Chile** (plural para dos casos; el de la araña pollito, que es un nombre genérico, y el caso de las aves que se apellidan de Juan Fernández).
 
 Desde el reino (animal) hasta la especie (de cada grupo) hay pasos que no conviene omitir, por lo que convendría imaginarse informando en un *zoom* (*in* / *out*). Y en la ubicación del territorio chileno en el globo terráqueo también podría haber un *zoom*, toda vez que una infografía digital, estando en línea, tiene una alcance global.
 
