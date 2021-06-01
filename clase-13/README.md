@@ -8,11 +8,11 @@ La biología utiliza la taxonomía de Linneo o taxonomía linneana, que consider
 
 Nuestro trabajo trata sobre especies endémicas de Chile, especies que viven exclusivamente dentro del territorio chileno continental, insular y marítimo, en América del Sur.
 
-Dentro de todas las especies posibles, nos interesan las animales, especies del reino animal, por esto **el tema de todos los trabajos es la Fauna Endémica de Chile**.
+Dentro de todas las especies posibles, nos interesan las del reino animal, por esto **el tema de todos los trabajos es la Fauna Endémica de Chile**.
 
-Luego, cada grupo aportará al tema desde **el sub-tema de una(s) especie(s) de la fauna endémica de Chile** (plural para dos casos, el de la araña pollito, que es un nombre genérico, y el caso de las aves que se apellidan de Juan Fernández).
+Luego, cada grupo aportará al tema desde un sub-tema: **una(s) especie(s) de la fauna endémica de Chile** (plural para dos casos, el de la araña pollito, que es un nombre genérico, y el caso de las aves que se apellidan de Juan Fernández).
 
-Desde el reino (animal) hasta la especie (de cada grupo) hay pasos que no conviene omitir, por lo que convendría imaginarse informando en un *zoom* (*in* / *out*). Y en la ubicación del territorio chileno en el globo terráqueo también podría haber un *zoom*, necesario cuando una infografía digital, estando en línea, tiene una alcance global.
+Desde el reino (animal) hasta la especie (de cada grupo) hay pasos que no conviene omitir, por lo que convendría imaginarse informando en un *zoom* (*in* / *out*). Y en la ubicación del territorio chileno en el globo terráqueo también podría haber un *zoom*, toda vez que una infografía digital, estando en línea, tiene una alcance global.
 
 - - - - - - - 
 
