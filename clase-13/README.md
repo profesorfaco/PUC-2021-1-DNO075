@@ -26,11 +26,11 @@ Hoy corresponde aprovechar su recolección de antecedentes en:
 
 Con su recolección podrán inspirarse para un trabajo de *sketching* que se recomienda **dividir en 3 etapas** y tomará un tiempo total aproximado de 2 horas:
 
-1. Delimitar el desafío grupal ¿Qué informar mediante gráfica? (responder usando de un máximo de 30 minutos)
+1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (responder usando de un máximo de 45 minutos)
 
-2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo a tal desafío:
+2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo al desafío delimitado:
  
-- Después de 10 minutos de trabajo, una primera versión de cada *sketch* individual se comparte con el grupo para una evaluación cruzada breve (3 minutos para presentar cada *sketch* y recibir retroalimentación).
+- Después de 10 minutos de trabajo, una primera versión de cada *sketch* individual se comparte con el grupo para una evaluación cruzada breve (3 minutos para presentar cada *sketch* y recibir indicaciones de mejora).
 
 - Después de la primera evaluación cruzada, cada integrante prepara una segunda versión de su *sketch*, demorándose en ello no más de 10 minutos.
 
@@ -44,19 +44,19 @@ Con su recolección podrán inspirarse para un trabajo de *sketching* que se rec
 
 El trabajo de *sketching* divido en tres etapas adapta una dinámica de diseño colaborativo conocida como *Design Studio*, la que se describe en el libro [Lean UX de Jeff Gothelf (pp.37-41)](https://drive.google.com/file/d/1sjTOzb0sRthTwPaNZF5wDJ4KkEsgChAc/view?usp=sharing).
 
-Ideal es que este trabajo cooperativo e iterativo termine en un *sketch* que se confunda con uno producido para una infografía que ha ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *sketch* de una *landing page*:
+Ideal es que este trabajo cooperativo e iterativo termine en un *sketch* que se confunda con uno producido para una infografía que ha de ser publicada por el South China Morning Post o en Reuters Graphics, y bajo ninguna circunstancia se confunda con el *sketch* de una *landing page*:
 
 🙂  👍  https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch
 
 ☹️  👎  https://es.dreamstime.com/una-plantilla-del-dise%C3%B1o-sitio-web-de-la-p%C3%A1gina-para-su-negocio-aterrizaje-wireframe-ui-ux-responsivo-moderno-plano-il-image106890730
 
-Para desarrollar cada *sketch* pueden confiar en su habilidad de dibujo o usar técnicas mixtas: hasta un *collage* con partes impresas y otras tridimesionales en plasticina, que sea fotografiado sobre la mesa del comedor, es válido. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos. No es necesario ser tan cuidadosos en cada *sketching* que apoyará la comunicación interna, pero corresponde ponerle más de cuidado a único *sketch* que resultará de la convergencia de las ideas, y se utilizará para la comunicación externa.
+Para desarrollar cada *sketch* pueden confiar en su habilidad de dibujo o usar técnicas mixtas: hasta un *collage* que sea fotografiado sobre la mesa del comedor, es válido. Cada integrante podrá decidir la manera en que puede concretar sus ideas de forma económica dentro de los plazos sugeridos. No es necesario ser tan cuidadosos en cada *sketching* que apoyará la comunicación interna, pero corresponde ponerle más de cuidado a único *sketch* que resultará de la convergencia de las ideas, y se utilizará para la comunicación externa.
 
 Un detalle que podrían replicar: Noten que en los ejemplo en [Infographics: The importance of the rough sketch](https://www.behance.net/gallery/37869347/Infographics-The-importance-of-the-rough-sketch), las partes textuales de mayor jerarquía pueden leerse, mientras las de jerarquía menor quedan como líneas paralelas que representan párrafos.
 
 - - - - - - - -
 
-#### Entrega de hoy: todos los *sketches*
+#### Encargo de hoy: Todos los *sketches* en línea
 
 Aprovechando [la plantilla compartida en este repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-13/), tienen que publicar todos el trabajo en *sketching*: los 11 si el grupo tiene cinco integrantes o los 9 si es que son 4 los integrantes.
 
