@@ -30,11 +30,11 @@ Con su recolección podrán inspirarse para un trabajo de *sketching* que se rec
 
 2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo al desafío delimitado:
  
-- Después de 10 minutos de trabajo, una primera versión de cada *sketch* individual se comparte con el grupo para una evaluación cruzada breve (3 minutos para presentar cada *sketch* y recibir indicaciones de mejora).
+- Después de 10 minutos de trabajo, una primera versión de cada *sketch* individual se comparte con el grupo para una evaluación cruzada breve (3 minutos para presentar cada *sketch* y recibir indicaciones de mejora). Deben registrar cada *sketch* en esta primera iteración.
 
 - Después de la primera evaluación cruzada, cada integrante prepara una segunda versión de su *sketch*, demorándose en ello no más de 10 minutos.
 
-- La segunda versión también se comparte con el grupo, pero en esta ocasión la evaluación cruzada es más selectiva y convergente (podrían votar por la mejor idea, y apuntar elementos por rescatar en otras; en esto no deberían demorar más de 10 minutos).
+- La segunda versión también se comparte con el grupo, pero en esta ocasión la evaluación cruzada es más selectiva y convergente (podrían votar por la mejor idea, y apuntar elementos por rescatar en otras; en esto no deberían demorar más de 10 minutos). También deben registrar cada *sketch* en esta segunda iteración.
 
 - Aquí convendría hacer un *break* de 10 minutos, para cargar las pilas antes de cerrar el trabajo.
 
