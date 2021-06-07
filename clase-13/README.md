@@ -16,7 +16,7 @@ Desde el reino (animal) hasta la especie (de cada grupo) hay pasos que no convie
 
 - - - - - - - 
 
-#### Tarea de hoy: *Sketching*
+#### Tarea de hoy, hasta las 23.59 hrs. - *Sketching*
 
 Hoy corresponde aprovechar su avance en el *layout* y la recolección de antecedentes en:
 
@@ -26,7 +26,7 @@ Hoy corresponde aprovechar su avance en el *layout* y la recolección de anteced
 
 Con su recolección podrán inspirarse para un trabajo de *sketching* que se recomienda **dividir en 3 etapas** y tomará un tiempo total aproximado de 2 horas:
 
-1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (basarse en el *layout*)
+1. Delimitar el desafío grupal: ¿Qué informar mediante gráfica? (basarse en el *layout* en Miro)
 
 2. Cada integrante del grupo debe desarrollar un *sketch* respondiendo al desafío delimitado:
  
@@ -56,7 +56,7 @@ Un detalle que podrían replicar: Noten que en los ejemplo en [Infographics: The
 
 - - - - - - - -
 
-#### Encargo de hoy: Todos los *sketches* en línea
+#### Todos los *sketches* en línea
 
 Aprovechando [la plantilla compartida en este repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-13/), tienen que publicar todos el trabajo en *sketching*: los 11 si el grupo tiene cinco integrantes o los 9 si es que son 4 los integrantes.
 
