@@ -54,7 +54,7 @@ El resultado será evaluado con nota parcial, considerando la siguiente pauta de
 | 14 |	PAULA HREPIC | https://hrepic.github.io/hrepic-011/ |
 | 15 |	ELIANA JIMÉNEZ | https://egjimenez-uc.github.io/infografia-clase11/ |
 | 16 |	PABLO LARRAÍN | https://pablolarrain.github.io/clase11/ |
-| 17 |	VALENTINA MADRID | https://github.com/Valevmu/Clase11 |
+| 17 |	VALENTINA MADRID | https://valevmu.github.io/Clase11/ |
 | 18 |	TRINIDAD MARTÍNEZ | https://trinidadmartinez.github.io/pruebaclase11/ |
 | 19 |	CRISTIAN RISCO | https://cristianrisco.github.io/clase11/ |
 | 20 |	ELISA ROMÁN | https://elisaromanf.github.io/infodigital-clase11/ |
