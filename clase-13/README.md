@@ -60,7 +60,17 @@ Un detalle que podrían replicar: Noten que en los ejemplo en [Infographics: The
 
 Aprovechando [la plantilla compartida en este repositorio](https://profesorfaco.github.io/dno075-2021-1/clase-13/), tienen que publicar todos el trabajo en *sketching*: los 11 si el grupo tiene cinco integrantes o los 9 si es que son 4 los integrantes.
 
-Como en la clase recién pasada y hasta el cierre del semestre: ¡Usen el repositorio de la organización, no usen repositorios individuaes!
+Como en la clase recién pasada y hasta el cierre del semestre: ¡Usen el repositorio de la organización, no usen repositorios individuales!
+
+
+| clase | nombre | integrantes del grupo | GitHub |
+|:------|:--------|:---------------------|:--------------|
+| Arachnida | Araña pollito (euathlus…) | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://github.com/Arana-Pollito |
+| Aves | Aves de Juan Fernández (aguilucho de…, cachudito de…, cernícalo de…, picaflor de…) | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://github.com/aves-de-juan-fernandez |
+| Mammalia | Zorro de Chiloé (lycalopex…) | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://github.com/ZorroDeChiloe-InfoDigital |
+| Mammalia | Delfín liso austral (lissodelphis…) | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://github.com/Delfin-Liso-Austral |
+| Reptilia | Salamanqueja del norte chico (garthia…) | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://github.com/Salamanqueja-del-Norte-Chico |  
+| Reptilia | Largarto leopardo (liolaemus…) | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://github.com/Lagarto-Leopardo |
 
 - - - - - - - - - - - 
 
