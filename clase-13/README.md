@@ -65,7 +65,7 @@ Como en la clase recién pasada y hasta el cierre del semestre: ¡Usen el reposi
 
 | clase | nombre | integrantes del grupo | GitHub |
 |:------|:--------|:---------------------|:--------------|
-| Arachnida | Araña pollito (euathlus…) | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | PENDIENTE |
+| Arachnida | Araña pollito (euathlus…) | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://arana-pollito.github.io/Bocetos/ |
 | Aves | Aves de Juan Fernández (aguilucho de…, cachudito de…, cernícalo de…, picaflor de…) | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/Sesion-2/ |
 | Mammalia | Zorro de Chiloé (lycalopex…) | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase13/ |
 | Mammalia | Delfín liso austral (lissodelphis…) | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://delfin-liso-austral.github.io/Clase-13-planificacion-boceto/ |
