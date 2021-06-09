@@ -69,7 +69,7 @@ Como en la clase recién pasada y hasta el cierre del semestre: ¡Usen el reposi
 | Aves | Aves de Juan Fernández (aguilucho de…, cachudito de…, cernícalo de…, picaflor de…) | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/Sesion-2/ |
 | Mammalia | Zorro de Chiloé (lycalopex…) | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase13/ |
 | Mammalia | Delfín liso austral (lissodelphis…) | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://delfin-liso-austral.github.io/Clase-13-planificacion-boceto/ |
-| Reptilia | Salamanqueja del norte chico (garthia…) | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | PENDIENTE |  
+| Reptilia | Salamanqueja del norte chico (garthia…) | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://salamanqueja-del-norte-chico.github.io/infodigital-13/ |  
 | Reptilia | Largarto leopardo (liolaemus…) | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://lagarto-leopardo.github.io/bocetos-infografia/ |
 
 - - - - - - - - - - - 
