@@ -44,7 +44,7 @@ Usaremos el ancho de 768px como punto de quiebre: Menos que ese tamaño será pa
 
 - Pantalla grande es la de *tablet* y computadora apaisada. 
 
-**Si se fijan en [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-1/clase-14/), notarán que al cambiar el ancho de la pantalla se cambia aquello que muestra**. Por tratarse de un ejemplo, el cambio es de negro sobre blanco (grande) a blanco sobre negro (chica), pero en su caso tendrán que hacer cambios de distribución que permitan la legibilidad en las pantallas correspondientes: **No se trata de comprimir o achicar lo que ya tenían, tampoco de cambiar colores. Sí se trata de reacomodar la información, manteniendo los tamaños**.
+**Si se fijan en [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-1/clase-14/), notarán que al cambiar el ancho de la ventana del navegador se cambia aquello que muestra**. Por tratarse de un ejemplo, el cambio es de negro sobre blanco (grande) a blanco sobre negro (chica), pero en su caso tendrán que hacer cambios de distribución que permitan la legibilidad en las pantallas correspondientes: **No se trata de comprimir o achicar lo que ya tenían, tampoco de cambiar colores. Sí se trata de reacomodar la información, manteniendo los tamaños**.
 
 En sus dos versiones (grande y chica), el *sketch* está dividido en tres partes. Optimicen cada parte para que pese menos de 200kb.
 
