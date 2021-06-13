@@ -4,11 +4,11 @@
 
 Corresponde continuar el trabajo, desde lo realizado [la sesión anterior](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-13): 
 
-- Un boceto en Miro donde se hace visible un acuerdo de grupo respecto de qué informar.
+- un *layout* en Miro que sirvió para delimitar el desafío grupal; y
 
-- Varios bocetos derivados del *Design Studio*, publicados en repositorios de cada organización.
+- varios bocetos derivados del *Design Studio*, que se publicaron en línea.
 
-En lo publicado en tales repositorios, varios cometen **el mismo error: Descuidan el peso de las imágenes**. Para no repetirlo, por favor revisen: 
+:rotating_light: En lo publicado, varios cometen **el mismo error: Descuidan el peso de las imágenes** :rotating_light: Para no repetirlo, por favor revisen: 
 
 - https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 
