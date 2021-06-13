@@ -52,9 +52,9 @@ Cada estudiante debería contar con:
 
 [Clase 13 → 07/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-13) → Planificación de la infografía a través del boceto
 
-[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14) → Del boceto al prototipo digital interactivo
+[Clase 14 → 14/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14) → Decisiones para la implementación
 
-[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-15) → Ayudantías para la implementación
+[Clase 15 → 21/06/2021](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-15) → Implementación
 
 **Clase 16 → 28/06/2020** → San Pedro y San Pablo. Feriado legal
 
