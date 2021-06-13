@@ -35,20 +35,19 @@ La última referencia mencionada se describe como usar https://squoosh.app/
 
 #### Ejercicio
 
-Vamos a tomar el sketch grupal y armar dos versiones de distribución de contenido: una para pantalla chica y otra para pantalla grande. 
+**Vamos a tomar el *sketch* grupal y armar dos versiones de distribución de contenido: una para pantalla chica y otra para pantalla grande.** 
 
 Usaremos el ancho de 768px como punto de quiebre: Menos que ese tamaño será pantalla chica. Igual o más que ese tamaño será pantalla grande. 
 
-- Pantalla chica es la de smartphone y tablet vistos en vertical. 
+- Pantalla chica es la de *smartphone* y *tablet* vistos en vertical. 
 
-- Pantalla grande es la de tablet y computador apaisada. 
+- Pantalla grande es la de *tablet* y computadora apaisada. 
 
-Si se fijan en [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-1/clase-14/), notarán que cambiando el ancho de la pantalla cambia lo que se muestra. Por tratarse de un ejemplo, el cambio es de negro sobre blanco a blanco sobre negro, pero en su caso tendrán que hacer cambios de distribución que permitan la legibilidad en las pantallas correspondientes: No se trata de achicar, se trata de reacomodar. 
+Si se fijan en [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-1/clase-14/), notarán que cambiando el ancho de la pantalla cambia lo que se muestra. Por tratarse de un ejemplo, el cambio es de negro sobre blanco a blanco sobre negro, pero en su caso tendrán que hacer cambios de distribución que permitan la legibilidad en las pantallas correspondientes: **No se trata de comprimir o achicar, tampoco de cambiar colores. Sí se trata de reacomodar, manteniendo todo al mismo tamaño**.
 
-Para cuidar el peso del boceto, notarán que el sketch está dividido en tres partes. Cada parte debe pesar menos de 300kb.
+Para cuidar el peso del *sketch*, en sus dos versiones (grande y chica), notarán que está dividido en tres partes. Optimicen cada parte para que pese menos de 200kb.
 
-Lo que sigue después del sketch es algo que conocen; un trabajo que hicieron en la clase 4, ahora lo reutilizamos y damos vuelta: Aquí deben mostrarnos sus decisiones sobre paleta cromática, tipografías y gráficos. 
-
+Lo que sigue después del *sketch* es algo que conocen; un trabajo que hicieron en la [clase 4](https://profesorfaco.github.io/dno075-2021-1/clase-04/), que ahora se invierte: Ya no deben capturar colores, tipografías y gráficos de una infografía digital ajena, sino que deben proponer los más partinentes a su propia infografía digital.
 
 - - - - - - - - - - -
 
