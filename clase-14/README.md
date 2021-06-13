@@ -52,11 +52,10 @@ Pero [la plantilla compartida para esta clase](https://profesorfaco.github.io/dn
 
 Ya no deben capturar colores, tipografías y gráficos de un trabajo ajeno, sino que deben decidir y mostrar los propios.
 
-En su decisión de fuentes tipográficas, es recomendable que usen las disponibles en [Google Fonts](https://fonts.google.com/), y recuerden que las fuentes deberían: 
+En su decisión sobre tipografías, es recomendable que usen las disponibles en [Google Fonts](https://fonts.google.com/), y recuerden que las fuentes deberían: 
 
-- mostrar el tenor y el significado la textualidad; 
-- además de aclarar su estructura y jerarquías; y
-- en ningún caso decorar.
+- mostrar el tenor y el significado de la textualidad; 
+- además de aclarar su estructura y jerarquías.
 
 En su decisión sobre colores:
 
