@@ -24,4 +24,4 @@ Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), convie
 
 - - - - - - - - - - - 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-16)
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-17)
