@@ -1,4 +1,4 @@
-# Del boceto al prototipo digital interactivo 
+# Implementación 
 
 ### Clase 15 → Infografía Digital v2 → Lunes 21 de junio, 2021
 
