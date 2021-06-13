@@ -36,7 +36,7 @@ En la última referencia mencionada, se describe cómo usar https://squoosh.app/
 
 #### Ejercicio
 
-**Vamos a tomar [el *sketch* grupal en línea](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-13#todos-los-sketches-en-l%C3%ADnea) y armar dos versiones: una para pantalla chica y otra para pantalla grande.** 
+**Deben tomar [el *sketch* grupal en línea](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-13#todos-los-sketches-en-l%C3%ADnea) y armar dos versiones: una para pantalla chica y otra para pantalla grande.** 
 
 Usaremos el ancho de 768px como punto de quiebre: Menos que ese tamaño será pantalla chica / Igual o más que ese tamaño será pantalla grande. 
 
