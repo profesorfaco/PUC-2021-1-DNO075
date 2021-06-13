@@ -8,9 +8,9 @@ Seguimos aprovechándonos del trabajo de la clase anterior para un paso más. Es
 
 Con los *snippets* podrían resolver: 
 
-- [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2021-1/clase-14/snippets/organizacion.html)
-- [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2021-1/clase-14/snippets/encabezado.html)
-- [Varias imágenes de fondo en la página completa](https://profesorfaco.github.io/dno075-2021-1/clase-14/snippets/imagenes_de_fondo.html)
+- [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2021-1/clase-15/snippets/organizacion.html)
+- [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2021-1/clase-15/snippets/encabezado.html)
+- [Varias imágenes de fondo en la página completa](https://profesorfaco.github.io/dno075-2021-1/clase-15/snippets/imagenes_de_fondo.html)
 - etc. (se agregarás más según sus definiciones en clase 14)
 
 Estos *snippets* suponen el uso de [Bootstrap 5](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del Optativo. 
