@@ -1,16 +1,27 @@
-# Ayudantías para la implementación 
+# Del boceto al prototipo digital interactivo 
 
 ### Clase 15 → Infografía Digital v2 → Lunes 21 de junio, 2021
 
-Durante esta semana, que es la última antes de la pre-entrega de sus infografías digitales, se ofrecerán sesiones de ayudantía para resolver dudas en la implentación del código fuente final.
+Para pasar del boceto al prototipo digital intearctivo corresponde aprovechar los *snippets* incluidos en esta carpeta de repositorio, que fueron preparados atendiendo a sus definiciones de la clase anterior: 
 
-Hay dos condiciones para participar de las ayudantías:
+> *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 
-- que el trabajo del equipo ya se encuentre en GitHub, en un repositorio de organización; y 
-- que tal trabajo haya aprovechado los *snippets* ofrecidos la clase recién pasada.
+Con los *snippets* podrían resolver: 
 
-Las ayudantías se programarán en horario a convenir, distinto del habitual de la clase. 
+- [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2021-1/clase-14/snippets/organizacion.html)
+- [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2021-1/clase-14/snippets/encabezado.html)
+- [Varias imágenes de fondo en la página completa](https://profesorfaco.github.io/dno075-2021-1/clase-14/snippets/imagenes_de_fondo.html)
+- etc. (se agregarás más según sus definiciones en clase 14)
 
-- - - - - - - - - - -
+Estos *snippets* suponen el uso de [Bootstrap 5](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del Optativo. 
 
-###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021/tree/main/clase-17)
+Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
+
+- **[Bootstrap 5 Grid](https://getbootstrap.com/docs/5.0/examples/grid/)**
+- **[Bootstrap 5 Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)**
+- **[Bootstrap Typography](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-typography.php)**
+
+
+- - - - - - - - - - - 
+
+###### [← CLASE PASADA](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14) — [CLASE SIGUIENTE →](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-16)
