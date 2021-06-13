@@ -2,7 +2,7 @@
 
 ### Clase 15 → Infografía Digital v2 → Lunes 21 de junio, 2021
 
-Seguimos aprovechándonos del trabajo de la clase anterior para un paso más. Este paso lo vamos a dar con *snippets* incluidos en esta carpeta de repositorio:
+Seguimos aprovechándonos del trabajo de la clase anterior para un paso más. Este paso lo vamos a dar con los *snippets* incluidos en esta carpeta de repositorio:
 
 > *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 
