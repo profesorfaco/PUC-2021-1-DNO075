@@ -4,11 +4,11 @@
 
 Corresponde continuar el trabajo, desde lo realizado la sesión anterior: 
 
-- Boceto donde se hace visible un acuerdo de grupo en Miro.
+- Un boceto en Miro donde se hace visible un acuerdo de grupo.
 
-- Bocetos derivados del *Design Studio*, publicados en repositorios de cada organización.
+- Varios bocetos derivados del *Design Studio*, publicados en repositorios de cada organización.
 
-En lo publicado en los repositorios, muchos cometen **el mismo error: Descuidan el peso de las imágenes**. Para evitarlo, por favor revisen: 
+En lo publicado en tales repositorios, muchos cometen **el mismo error: Descuidan el peso de las imágenes**. Para evitarlo, por favor revisen: 
 
 - https://helpx.adobe.com/es/photoshop-elements/using/optimizing-images.html
 
@@ -20,8 +20,7 @@ En lo publicado en los repositorios, muchos cometen **el mismo error: Descuidan 
 
 - https://www.targetinternet.com/a-complete-guide-to-squoosh-what-is-it-and-how-to-use-it/
 
-
-La última referencia mencionada se describe como usar https://squoosh.app/
+En la última referencia mencionada, se describe como usar https://squoosh.app/
 
 **Si ustedes construyen algo para la Web con imágenes de peso excesivo: Están abusando de la transferencia de datos en la conexión a Internet de cada visitante**. Esta transferencia puede demorar, y en la demora la imagen no se muestra. Luego, quien visita lo construído se decepciona porque no ve nada y en cosa de segundos puede retirarse a otro lugar:
 
@@ -29,13 +28,13 @@ La última referencia mencionada se describe como usar https://squoosh.app/
 
 - [5-Second Usability Test](https://www.nngroup.com/videos/5-second-usability-test/) se llama una técnica que permite evaluar la primera impresión de un sitio web. 
 
-**La situación es así de extrema: Si demora 5 segundos en cargar, no existe. El peso de las imágenes no da lo mismo. No lo descuiden**.
+**La situación es así: Si demora 5 segundos en cargar, no existe. El peso de las imágenes no da lo mismo. No lo descuiden**.
 
 - - - - - - - - - - - - - -
 
 #### Ejercicio
 
-**Vamos a tomar el *sketch* grupal y armar dos versiones de distribución de contenido: una para pantalla chica y otra para pantalla grande.** 
+**Vamos a tomar [el *sketch* grupal en línea](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-13#todos-los-sketches-en-l%C3%ADnea) y armar dos versiones: una para pantalla chica y otra para pantalla grande.** 
 
 Usaremos el ancho de 768px como punto de quiebre: Menos que ese tamaño será pantalla chica. Igual o más que ese tamaño será pantalla grande. 
 
@@ -43,11 +42,11 @@ Usaremos el ancho de 768px como punto de quiebre: Menos que ese tamaño será pa
 
 - Pantalla grande es la de *tablet* y computadora apaisada. 
 
-Si se fijan en [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-1/clase-14/), notarán que cambiando el ancho de la pantalla cambia lo que se muestra. Por tratarse de un ejemplo, el cambio es de negro sobre blanco a blanco sobre negro, pero en su caso tendrán que hacer cambios de distribución que permitan la legibilidad en las pantallas correspondientes: **No se trata de comprimir o achicar, tampoco de cambiar colores. Sí se trata de reacomodar, manteniendo todo al mismo tamaño**.
+**Si se fijan en [la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-1/clase-14/), notarán que al cambiar el ancho de la pantalla se cambia aquello que muestra**. Por tratarse de un ejemplo, el cambio es de negro sobre blanco (grande) a blanco sobre negro (chica), pero en su caso tendrán que hacer cambios de distribución que permitan la legibilidad en las pantallas correspondientes: **No se trata de comprimir o achicar lo que ya tenían, tampoco de cambiar colores. Sí se trata de reacomodar la información, manteniendo todo al mismo tamaño**.
 
-Para cuidar el peso del *sketch*, en sus dos versiones (grande y chica), notarán que está dividido en tres partes. Optimicen cada parte para que pese menos de 200kb.
+En sus dos versiones (grande y chica), el *sketch* está dividido en tres partes. Optimicen cada parte para que pese menos de 200kb.
 
-Lo que sigue después del *sketch* es algo que conocen; un trabajo que hicieron en la [clase 4](https://profesorfaco.github.io/dno075-2021-1/clase-04/), que ahora se invierte: Ya no deben capturar colores, tipografías y gráficos de una infografía digital ajena, sino que deben proponer los más partinentes a su propia infografía digital.
+[En la plantilla compartida para esta clase](https://profesorfaco.github.io/dno075-2021-1/clase-14/), lo que sigue después del *sketch* es algo que conocen; es el trabajo que hicieron en la [clase 4](https://profesorfaco.github.io/dno075-2021-1/clase-04/), que ahora se invierte: Ya no deben capturar colores, tipografías y gráficos de una infografía digital ajena, sino que deben decidir y mostrar los propios.
 
 - - - - - - - - - - -
 
