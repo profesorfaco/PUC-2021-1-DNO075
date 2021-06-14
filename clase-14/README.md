@@ -30,7 +30,7 @@ En la última referencia mencionada, se describe cómo usar https://squoosh.app/
 
 - [5-Second Usability Test](https://www.nngroup.com/videos/5-second-usability-test/) se llama una técnica que permite evaluar la primera impresión de un sitio web. 
 
-**La situación es así: Si demora 5 segundos en cargar, no existe. El peso de las imágenes no da lo mismo. No lo descuiden**.
+**La regla: Si demora 5 segundos en cargar, no existe. El peso de las imágenes no da lo mismo. No lo descuiden**.
 
 - - - - - - - - - - - - - -
 
