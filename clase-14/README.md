@@ -63,6 +63,16 @@ En su decisión sobre colores:
 - recuerden que no todo es [armonía](https://www.fotonostra.com/grafico/compositivascolor.htm), también están los 7 contrastes de color ([Itten](https://drive.google.com/file/d/1SYMEvbFcgxNQb9_Vdy59teqOUoGuBv8t/view?usp=sharing)); y
 - cuiden el [*contrast ratio*](https://webaim.org/articles/contrast/) en los colores que podrían usar en figuras y fondos.
 
+#### Avances
+
+| sub-tema | integrantes del grupo | GitHub |
+|:------|:--------|:---------------------|
+| Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://github.com/Arana-Pollito |
+| Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://github.com/aves-de-juan-fernandez |
+| Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://github.com/ZorroDeChiloe-InfoDigital |
+| Delfín liso austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://github.com/Delfin-Liso-Austral |
+| Salamanqueja del norte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://github.com/Salamanqueja-del-Norte-Chico |  
+| Largarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://github.com/Lagarto-Leopardo |
 
 - - - - - - - - - - -
 
