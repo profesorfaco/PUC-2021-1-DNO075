@@ -65,14 +65,14 @@ En su decisión sobre colores:
 
 #### Avances
 
-| sub-tema | integrantes del grupo | GitHub |
+| sub-tema | integrantes del grupo | Avance en GitHub |
 |:------|:--------|:---------------------|
-| Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://github.com/Arana-Pollito |
-| Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://github.com/aves-de-juan-fernandez |
-| Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://github.com/ZorroDeChiloe-InfoDigital |
-| Delfín liso austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://github.com/Delfin-Liso-Austral |
-| Salamanqueja del norte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://github.com/Salamanqueja-del-Norte-Chico |  
-| Largarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://github.com/Lagarto-Leopardo |
+| Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://arana-pollito.github.io/Bocetos_2/ |
+| Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/sesion-3/ |
+| Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase14/ |
+| Delfín liso austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://delfin-liso-austral.github.io/Clase-14-versiones/ |
+| Salamanqueja del norte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://salamanqueja-del-norte-chico.github.io/infodigital-14/ |  
+| Largarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://lagarto-leopardo.github.io/formato-pantallas/ |
 
 - - - - - - - - - - -
 
