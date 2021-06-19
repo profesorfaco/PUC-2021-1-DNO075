@@ -1,0 +1,44 @@
+body{
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 400;
+	color: #333;
+	background: #ece0c7;
+}
+
+h1,h2,h3,h4,h5,h6{
+font-family: 'IBM Plex Sans Condensed', sans-serif;
+font-weight: 700;
+}
+
+p.lead{
+	font-weight: 300;
+}
+
+
+header{
+	background: transparent url(images/bg-header.png) no-repeat center bottom;
+	background-size:100% auto;
+	height: 70vh;
+}
+
+#habitat{
+	background: url(images/bg-habitat.png) no-repeat center bottom, linear-gradient(#b4b58d, #ece0c7);
+	padding-bottom:250px;
+}
+
+img#gecko{
+	height: 40vh;
+	widows: auto;
+}
+
+#ciclo, #alimentacion, #familia{
+	background: transparent;
+}
+#amenazas{
+	background: linear-gradient(#ece0c7, #b4b58d);
+}
+footer{
+	background: black url(images/bg-footer.png) no-repeat center top;
+	background-size:100% auto;
+	padding-top:30vw;
+}
