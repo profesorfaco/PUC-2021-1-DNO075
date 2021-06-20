@@ -1,0 +1,44 @@
+body{
+	font-family: 'Bitter', serif;
+	font-weight: 400;
+	color: #666;
+	background: #efefef;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Lexend', sans-serif;
+	font-weight: 600;
+}
+
+h1{
+	font-size: calc(2.5rem + 2.5vw);
+}
+
+h2{
+	color: #cc6666;
+	font-size: calc(1rem + 1vw);
+}
+
+
+p.lead{
+	font-weight: 400;
+	text-align: justify;
+}
+
+small, svg{
+font-family: 'Lexend', sans-serif;
+font-weight: 400;	
+}
+
+header{
+	min-height: 500px;
+	height: 100vh;
+	background: transparent url(images/bg-header.png) no-repeat center top ;
+	background-size:auto 100%;
+}
+
+footer{
+	background: black url(images/bg-footer.png) no-repeat center top;
+	background-size:100% auto;
+	padding-top:30vw;
+}
