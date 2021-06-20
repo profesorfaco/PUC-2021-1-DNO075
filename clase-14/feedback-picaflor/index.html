@@ -1,157 +1,249 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
     <head>
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous" />
-        <title>Aves de Juan Fernández</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
-        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital@0;1&display=swap" rel="stylesheet">
-        <style>
-            :root { --bs-font-sans-serif: "DM Sans", sans-serif; }
-            :hover { transition: all ease 0.5s; }
-            * { font-weight: 300; }
-            header p { text-align: justify; }
-            header p.lead { line-height: 1.6; }
-            .card, .card-img-top { border: none; border-radius: 0 0; }
-            footer a { color: var(--bs-gray); text-decoration: none; }
-            footer a:hover { color: var(--bs-light); }
-        </style>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,700;1,400&family=DM+Serif+Text&display=swap" rel="stylesheet" />
+        <link href="style.css" rel="stylesheet" />
+        <title>Picaflor de Juan Fernández | FAUNA ENDÉMICA DE CHILE</title>
     </head>
     <body>
-
-        <header class="container">
-            <div class="row py-5">
-                <div class="col-12 col-sm-11 col-md-10 col-lg-9 col-xl-8 col-xxl-7 mx-auto">
-                    <h2 class="text-center">FEEDBACK</h2>
-                    <h1 class="mb-5 mt-3 text-center">Picaflor de Juan Fernández</h1>
-                
-                    <p class="lead">Nuestro tema es la Fauna Endémica de Chile y corresponde buscar un lugar donde indicarlo. El subtema del grupo es el picaflor, una de varias aves endémicas de Juan Fernández (por eso su apellido); y algunas de estas aves están en peligro. Corresponde que en un primer gráfico mixto, hecho en SVG, puedan informar de todo esto.</p>
-                    <p>Consideramos que es buena idea que hembra y macho descansen en ramitas que "entran" por los lados de la ventana del navegador. Se puede aprovechar tal recurso desde una cabecera que nos podría instalar como observadores de aves en un bosque denso.</p>
-                    <p>Si quieren mostrar el relieve de una de las islas del archipiélago, podrían hacerlo más abajo, en un pie de página que utilizará todo el curso.</p>
-                    <p>Conviene establecer un mejor encadenamiento entre las partes de la infografía; que cada sección sea antecedida por una que la justifica: A propósito de X, tengo que sumar Y. A propósito de Y, tengo que aclarar Z. Después de Z, no hay más.</p>
-                    <p>En el par tipográfico recomendamos un cambio: Bien por la DM Serif. Pero consideren que también hay una DM Sans. Ambas están hechas para emparejarse. Los colores parecen ser adecuados. Pero el boceto no nos muestra la aplicación de las tipografías ni muchos colores. Tuvimos que ponernos creativos en su aplicación rápida… o, mejor dicho, aplicación apurada.</p>
-                    <p>Para que puedan seguir avanzando, en la carpeta de <a href="https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-17">clase 17</a> les dejamos <a href="https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-picaflor/index.html">algo</a>.</p>
-
-                    
-                    <!--SKETCH PARA PANTALLA GRANDE-->
-                    <div class="d-none d-md-block shadow my-5">
-                        <!--NINGUNA IMAGEN DEBE PESAR MÁS DE 200KB-->
-                        <img src="img/lg-introduccion.jpg" class="w-100" alt="introducción pantalla grande" />
-                        <img src="img/lg-desarrollo.jpg" class="w-100" alt="desarrollo pantalla grande" />
-                        <img src="img/lg-conclusion.jpg" class="w-100" alt="conclusión pantalla grande" />
-                    </div>
-                    
-                    <!--SKETCH PARA PANTALLA CHICA-->
-                    <div class="d-md-none shadow my-5">
-                        <!--NINGUNA IMAGEN DEBE PESAR MÁS DE 200KB-->
-                        <img src="img/xs-introduccion.jpg" class="w-100" alt="introducción pantalla chica" />
-                        <img src="img/xs-desarrollo.jpg" class="w-100" alt="desarrollo pantalla chica" />
-                        <img src="img/xs-conclusion.jpg" class="w-100" alt="conclusión pantalla chica" />
+        <!-- tema, sub-tema y bajada -->
+        <header>
+            <div class="container h-100">
+                <div class="row h-100">
+                    <div class="col-11 col-sm-9 col-md-9 col-lg-8 col-xl-7 col-xxl-6 m-auto text-center">
+                        <h2 class="fs-4">FAUNA ENDÉMICA DE CHILE</h2>
+                        <h1 class="mb-5">Picaflor de Juan Fernández</h1>
+                        <p class="lead mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus.</p>
                     </div>
                 </div>
             </div>
         </header>
-
-        <main class="container-fluid bg-light">
-            <div class="row py-5">
-                <div class="col-sm-11 mx-auto py-3">
-                    <!--LA PALETA CROMÁTICA-->
-                    <h3 class="text-center">Colores</h3>
-                    <!--Esto se define más abajo, en línea 175-->
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20" class="shadow-sm my-3">
-                        <g id="colores"></g>
-                    </svg>
-                    <p class="text-center">Estos colores se aplican en la infografía con un contraste cálido-frío.</p>
-                    <!--LAS FUENTES TIPOGRÁFICAS-->
-                    <h3 class="text-center pt-5 pb-1">Tipografías</h3>
-                    <div class="row my-2 g-3">
-                        <!-- PRIMERA FUENTE DEBE ESTAR DISPONIBLE EN GOOGLE FONTS--> 
-                        <!--https://fonts.google.com/ -->
-                        <div class="col-md-6">
-                            <div class="card shadow-sm">
-                                <img src="img/tipo2.jpg" class="card-img-top" alt="Tipografía para títulos con serifas" />
-                                <div class="card-body">
-                                    <h4 class="card-title">DM Serif Display</h4>
-                                    <p class="card-text">Fuente tipográfica con delicadas serifas y finos detalles que ayuda a destacar con elegancia los enunciados de texto. Diseñada por Colophon Foundry y Frank Griebhammer</p>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- SEGUNDA FUENTE TAMBIÉN DEBE ESTAR DISPONIBLE EN GOOGLE FONTS--> 
-                        <!--https://fonts.google.com/ -->
-                        <div class="col-md-6">
-                            <div class="card shadow-sm">
-                                <img src="img/tipo1.jpg" class="card-img-top" alt="Tipografía para texto sans serif" />
-                                <div class="card-body">
-                                    <h4 class="card-title">Quicksand</h4>
-                                    <p class="card-text">Fuente de estilo sans serif con terminaciones redondas diseñada por Andrew Paglinawan en 2008. Utiliza la base geométrica como composición permitiendo mayor lecturabilidad y legibilidad.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--LOS GRÁFICOS-->
-                    <h3 class="text-center pt-5 pb-1">Gráficos</h3>
-                    <div class="row my-2 g-3">
-                        <!--primer gráfico-->
-                        <div class="col-sm-6 col-md-4">
-                            <div class="card shadow-sm">
-                                <img src="img/pinmap.png" class="card-img-top" alt="describir la imagen" />
-                                <div class="card-body">
-                                    <h4 class="card-title">Pin Map (No figurativo)</h4>
-                                    <p class="card-text">para el primer gráfico de la infografía respecto a la ubicación de las aves mostradas, es una buena forma de condensar su nombre sobre la zona geográfica para ahorrar espacio al costado.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--segundo gráfico-->
-                        <div class="col-sm-6 col-md-4">
-                            <div class="card shadow-sm">
-                                <img src="img/illustrationdiagram.png" class="card-img-top" alt="describir la imagen" />
-                                <div class="card-body">
-                                    <h4 class="card-title">Illustration Diagram (Figurativo)</h4>
-                                    <p class="card-text">A partir del picaflor de gran formato y la rama en que estará parado, desplegar su información básica. Luego, también será utilizado para explicar las diferencias visuales entre el macho y la hembra, y finalmente, la anatomía interna del picaflor.</a></p>
-                                </div>
-                            </div>
-                        </div>
-                        <!--tercer gráfico-->
-                        <div class="col-sm-6 col-md-4">
-                            <div class="card shadow-sm">
-                                <img src="img/groupedbarchart.png" class="card-img-top" alt="describir la imagen" />
-                                <div class="card-body">
-                                    <h4 class="card-title">Grouped Bar Chart (No figurativo)</h4>
-                                    <p class="card-text">Este gráfico es la mejor opción para mostrar el porcentaje de disminución en la población del picaflor entre un año y otro, pues la información visual impacta de manera inmediata.</a></p>
-                                </div>
-                            </div>
-                        </div>                       
-                        <!--no más gráficos-->
+        <!-- esta y otras aves de juan fernández-->
+        <section id="isla">
+            <div class="container-fluid g-0">
+                <div class="row g-0">
+                    <div class="col">
+                        <img src="images/1x1.png" class="w-100 d-none d-md-block my-3" />
+                        <img src="images/1x2.png" class="w-100 d-md-none my-3" />
                     </div>
                 </div>
             </div>
-        </main>
-
-        <footer class="container-fluid bg-dark text-white-50">
-            <div class="row py-3">
-                <div class="col-12">
-                    <p class="d-flex justify-content-between small p-1 m-0">
-                        <!--reemplaza el # que sigue con la URL de tu organización en GitHub-->
-                        <a href="https://github.com/Aves-de-Juan-Fernandez">Avez de Juan Fernández</a>
-                        <a href="https://github.com/profesorfaco/dno075-2021-1/">Infografía Digital v2</a>
-                        <a href="https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14" class="d-none d-lg-inline">Lunes 14 de junio, 2021</a>
-                    </p>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto my-3">
+                        <p>Este picaflor es una especie endémica del Archipiélago de Juan Fernández. Habita en los bosques densos de la isla Robinson Crusoe, entre lumas, naranjillos y canelos. En verano se le puede avistar en plantaciones forestales de San Juan Bautista, cuando los eucaliptos están floreciendo. También es frecuente verlos colgar de las grandes flores de la col de Juan Fernández.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- reconocimiento del ave que nos interesa-->
+        <section id="identificacion">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto mt-4">
+                        <h3 class="text-center my-3">Indentificación de la especie</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid g-0">
+                <div class="row g-0">
+                    <div class="col-md-11 col-lg-10 me-auto">
+                        <img src="images/2x1.png" class="w-100 mt-3" />
+                    </div>
+                    <div class="col-md-11 col-lg-10 ms-auto">
+                        <img src="images/2x1.png" class="w-100 mb-3" />
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- radiografía del ave que nos interesa-->
+        <section id="anatomia">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto mt-5">
+                        <h3 class="text-center my-3">Anatomía</h3>
+                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid g-0">
+                <div class="row g-0">
+                    <div class="col">
+                        <img src="images/2x1.png" class="w-100 d-none d-md-block my-3" />
+                        <img src="images/1x2.png" class="w-100 d-md-none my-3" />
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto my-3">
+                        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- como pica la flor el ave que nos interesa-->
+        <section id="vuelo">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto mt-4">
+                        <h3 class="text-center my-3">Alimentación y vuelo</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid g-0">
+                <div class="row g-0">
+                    <div class="col-md-11 col-lg-10 ms-auto">
+                        <div class="row my-3 g-0">
+                            <div class="col-8">
+                                <!--en lugar de Gif, usen carousel-->
+                                <div id="gif" class="carousel slide carousel-fade" data-bs-ride="carousel" data-bs-pause="false" data-bs-interval="1000">
+                                    <div class="carousel-inner">
+                                        <div class="carousel-item active">
+                                            <img src="images/2x1-1.png" class="d-block w-100" alt="..." />
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/2x1-2.png" class="d-block w-100" alt="..." />
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/2x1-3.png" class="d-block w-100" alt="..." />
+                                        </div>
+                                        <div class="carousel-item">
+                                            <img src="images/2x1-4.png" class="d-block w-100" alt="..." />
+                                        </div>
+                                    </div>
+                                </div>
+                                <!--pesa menos sin pérdida, y las modificaciones son más rápidas-->                                
+                            </div>
+                            <div class="col-4"><img src="images/1x1.png" class="w-100" /></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto my-3">
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque
+                            sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- así tanto depende de picarlas-->
+        <section id="reproduccion">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-10 col-md-9 col-lg-8 col-xl-7 col-xxl-6 mx-auto mt-4">
+                        <h3 class="text-center my-3">Reproducción y estaciones del año</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque
+                            sapien accumsan in. Suspendisse ut fermentum sem, vitae lacinia risus.
+                        </p>
+                        <h4 class="text-center mt-4 mb-4">Verano</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue.</p>
+                        <div class="py-2 px-5">
+                            <img src="images/1x1.png" class="w-100" />
+                        </div>
+                        <h4 class="text-center mt-4 mb-4">Otoño</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue.</p>
+                        <div class="py-2 px-5">
+                            <img src="images/1x1.png" class="w-100" />
+                        </div>
+                        <h4 class="text-center mt-4 mb-4">Invierno</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue.</p>
+                        <div class="py-2 px-5">
+                            <img src="images/1x1.png" class="w-100" />
+                        </div>
+                        <h4 class="text-center mt-4 mb-2">Primavera</h4>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue.</p>
+                        <div class="pt-2 pb-5 px-5">
+                            <img src="images/1x1.png" class="w-100" />
+                        </div>
+                        <p>
+                            <strong>Habiendo flores, hay picaflores</strong>. Si falta vegetación o se altera el ciclo natural de las estaciones del año, las flores y picaflores pueden desaparecer. Lorem ipsum dolor sit amet,
+                            consectetur adipiscing elit. Aliquam lorem leo, hendrerit viverra suscipit at, venenatis in nunc. Nam sit amet laoreet augue. Maecenas placerat placerat magna, iaculis scelerisque sapien accumsan in. Suspendisse
+                            ut fermentum sem, vitae lacinia risus.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer>
+            <div class="container text-white-50">
+                <div class="row pt-5">
+                    <div class="col-11 col-sm-10 col-md-9 col-lg-8 col-xl-7 mx-auto text-start">
+                        <h3 class="fs-5">Metodología</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales varius odio. Sed lacus neque, mollis eu metus eu, cursus facilisis leo. Fusce quis ultricies risus, sit amet elementum odio. Ut dictum
+                            risus vitae euismod porta. Sed ornare a justo vel hendrerit. Vivamus laoreet ut quam a porta. Suspendisse tristique.
+                        </p>
+                        <h3 class="fs-5">Fuentes y referencias</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sodales varius odio. Sed lacus neque, mollis eu metus eu, cursus facilisis leo. Fusce quis ultricies risus, sit amet elementum odio. Ut dictum
+                            risus vitae euismod porta. Sed ornare a justo vel hendrerit. Vivamus laoreet ut quam a porta. Suspendisse tristique.
+                        </p>
+                        <h3 class="fs-5">Equipo de trabajo</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit &bull; Lorem ipsum dolor sit amet, consectetur adipiscing elit &bull; Lorem ipsum dolor sit amet, consectetur adipiscing elit &bull; Lorem ipsum dolor sit
+                            amet, consectetur adipiscing elit &bull; Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                        </p>
+                        <hr class="my-5" />
+                    </div>
+                </div>
+            </div>
+            <div class="container-fluid text-white-50">
+                <div class="row p-1 p-sm-2 p-md-3 p-lg-4">
+                    <div class="col-6 col-lg-3">
+                        <div class="card text-white bg-dark mb-3">
+                            <img src="images/2x1.png" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title fs-6">Nombre especie</h5>
+                                <p class="card-text small">Copiar bajada que use el grupo. Es clave un acuerdo de curso sobre la extensión de cada bajada.</p>
+                                <a href="#" class="btn btn-sm btn-secondary w-100">Conoce a esta especie</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="card text-white bg-dark mb-3">
+                            <img src="images/2x1.png" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title fs-6">Nombre especie</h5>
+                                <p class="card-text small">Copiar bajada que use el grupo. Es clave un acuerdo de curso sobre la extensión de cada bajada.</p>
+                                <a href="#" class="btn btn-sm btn-secondary w-100">Conoce a esta especie</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="card text-white bg-dark mb-3">
+                            <img src="images/2x1.png" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title fs-6">Nombre especie</h5>
+                                <p class="card-text small">Copiar bajada que use el grupo. Es clave un acuerdo de curso sobre la extensión de cada bajada.</p>
+                                <a href="#" class="btn btn-sm btn-secondary w-100">Conoce a esta especie</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-6 col-lg-3">
+                        <div class="card text-white bg-dark mb-3">
+                            <img src="images/2x1.png" class="card-img-top" alt="..." />
+                            <div class="card-body">
+                                <h5 class="card-title fs-6">Nombre especie</h5>
+                                <p class="card-text small">Copiar bajada que use el grupo. Es clave un acuerdo de curso sobre la extensión de cada bajada.</p>
+                                <a href="#" class="btn btn-sm btn-secondary w-100">Conoce a esta especie</a>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </footer>
-
-        <script>
-            // Reemplaza los colores dentro del paréntesis cuadrado, respetando las comillas. 
-            // Si necesitas que un color ocupe más espacio en la paleta: debes repetirlo.
-            var colores = ["#eaeddc", "#eaeddc", "#eaeddc", "#afcfc4", "#afcfc4", "#476f66", "#f9aa7f", "#c53652",];
-            // No reemplaces nada de lo que sigue.
-            var n = colores.length;
-            var w = 100 / n;
-            for (var x = 0; x < n; x++) {
-                document.getElementById("colores").innerHTML += '<rect width="' + w + '" height="20" x="' + x * w + '" y="0" fill="' + colores[x] + '" stroke="' + colores[x] + '"/>';
-            }
-        </script>
-
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
     </body>
 </html>
