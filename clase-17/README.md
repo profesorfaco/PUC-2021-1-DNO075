@@ -22,13 +22,13 @@ Lo preparado, usa la versión más reciente de [Bootstrap](https://getbootstrap.
 
 - **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Enseñan lo justo y necesario de un asunto bien aprendido.
+- **Calidad informativa**: Enseñan lo justo y necesario de un asunto bien aprendido
 
-- **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto (forma, color, contraste, legibilidad).
+- **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto (forma, color, contraste, legibilidad, etc.)
 
-- **Configuración total**: El todo es distinto que la simple suma de las partes.
+- **Configuración total**: El todo es distinto que la simple suma de las partes
 
-- **Reconocimiento de pares**: Están vinculados en el *footer* de cada infografía digital ajena.
+- **Reconocimiento de pares**: Están vinculados en el *footer* de cada infografía digital ajena
 
 **Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y volver a presentar al comienzo de la próxima clase, para una re-evaluación**. 
 
