@@ -68,7 +68,7 @@ En su decisión sobre colores:
 | sub-tema | integrantes del grupo | Avance en GitHub | Feedback |
 |:------|:--------|:---------------------|:----------|
 | Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://arana-pollito.github.io/Bocetos_2/ | Pendiente |
-| Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/sesion-3/ | Pendiente |
+| Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/sesion-3/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-picaflor/index.html) |
 | Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase14/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-zorro/index.html) |
 | Delfín liso austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://delfin-liso-austral.github.io/Clase-14-versiones/ | Pendiente | 
 | Salamanqueja del norte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://salamanqueja-del-norte-chico.github.io/infodigital-14/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-salamanqueja/index.html) |
