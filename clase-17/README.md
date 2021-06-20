@@ -6,15 +6,15 @@ Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2
 
 En cada *feedback* hay un vínculo a un material que encuentran en la presente carpeta, que deberían utilizar para la implementación de su infografía digital definitiva:
 
-- [Picaflor de Juan Fernández](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-picaflor/index.html)
-- [Salamanqueja del Norte Chico](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-salamanqueja/index.html)
-- [Zorro de Chiloé](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-zorro/index.html)
+- **[Picaflor de Juan Fernández](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-picaflor/index.html)**
+- **[Salamanqueja del Norte Chico](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-salamanqueja/index.html)**
+- **[Zorro de Chiloé](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-zorro/index.html)**
 
 Lo preparado, usa la versión más reciente de [Bootstrap ](https://getbootstrap.com/). Herramienta que hemos aprovechado en cada clase del Optativo. Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
 
-- **[Bootstrap 5 Grid](https://getbootstrap.com/docs/5.0/examples/grid/)**
-- **[Bootstrap 5 Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)**
-- **[Bootstrap Typography](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-typography.php)**
+- [Bootstrap 5 Grid](https://getbootstrap.com/docs/5.0/examples/grid/)
+- [Bootstrap 5 Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+- [Bootstrap Typography](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-typography.php)
 
 - - - - - - - - - 
 
