@@ -10,7 +10,7 @@ Si revisaban su *feedback*, encontraban vínculo al material en la presente carp
 - **[Salamanqueja del Norte Chico](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-salamanqueja/index.html)**
 - **[Zorro de Chiloé](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-zorro/index.html)**
 
-Lo preparado, usa la versión más reciente de [Bootstrap ](https://getbootstrap.com/). Herramienta que hemos aprovechado en cada clase del Optativo. Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
+Lo preparado, usa la versión más reciente de [Bootstrap ](https://getbootstrap.com/). Herramienta que hemos aprovechado en cada clase del Optativo. Para resolver dudas, conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
 
 - [Bootstrap 5 Grid](https://getbootstrap.com/docs/5.0/examples/grid/)
 - [Bootstrap 5 Cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
