@@ -18,7 +18,8 @@ p.lead{
 header{
 	background: transparent url(images/bg-header.png) no-repeat center bottom;
 	background-size:100% auto;
-	height: 70vh;
+	min-height: 500px;
+	height: 60vh;
 }
 
 #habitat{
