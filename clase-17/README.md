@@ -22,9 +22,9 @@ Lo preparado, usa la versión más reciente de [Bootstrap](https://getbootstrap.
 
 - **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Enseñan lo justo y necesario de un asunto bien dominado.
+- **Calidad informativa**: Enseñan lo justo y necesario de un asunto bien aprendido.
 
-- **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto.
+- **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto (forma, color, contraste, legibilidad).
 
 - **Configuración total**: El todo es distinto que la simple suma de las partes.
 
