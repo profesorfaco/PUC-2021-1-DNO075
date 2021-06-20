@@ -2,18 +2,15 @@
 
 ###  Clase 17 → Infografía Digital v2 → Lunes 5 de julio, 2021
 
-Seguimos aprovechándonos del trabajo de la clase anterior para un paso más. Este paso lo vamos a dar con los *snippets* incluidos en esta carpeta de repositorio:
+Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14#avances), incluimos vínculos a páginas con *feedback*.
+
+En cada *feedback* hay un vínculo a un material que encuentran en esta carpeta, que deberían utilizar para la implementación de su infografía digital definitiva.
+
+Además, cuenta con algunos *snippets*:
 
 > *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 
-Con los *snippets* podrían resolver: 
-
-- [Organización para simplificar la construcción](https://profesorfaco.github.io/dno075-2021-1/clase-15/snippets/organizacion.html)
-- [Imagen de ancho completo en el fondo de la cabecera](https://profesorfaco.github.io/dno075-2021-1/clase-15/snippets/encabezado.html)
-- [Varias imágenes de fondo en la página completa](https://profesorfaco.github.io/dno075-2021-1/clase-15/snippets/imagenes_de_fondo.html)
-- etc. (se agregarás más según sus definiciones en clase 14)
-
-Estos *snippets* suponen el uso de [Bootstrap 5](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del Optativo. 
+Tanto lo *snippets* como lo que le encuentran en carpeta para la implementación usan la versión más reciente de [Bootstrap ](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del Optativo.  
 
 Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
 
@@ -23,11 +20,21 @@ Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), convie
 
 - - - - - - - - - 
 
-En esta clase se evaluará el resultado del trabajo de los equipos, aplicando una pauta de cotejo.
+**Al final de esta clase se evaluará el resultado del trabajo de los equipos, aplicando una pauta que considerará**:
 
-Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y presentar el resultado de entrega final. Esta entrega será evaluada con la misma pauta de cotejo.
+- **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-La cuarta y última evaluación del Optativo, equivalente al 25% del promedio final, resultará del promedio entre evaluación de pre-entrega y evaluación de entrega.
+- **Síntesis informativa**: Enseñan lo justo y necesario de un asunto bien dominado.
+
+- **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto.
+
+- **Configuración total**: El todo es distinto que la simple suma de las partes.
+
+- **Reconocimiento de pares**: Están vinculados en el *footer* de cada infografía digital ajena.
+
+**Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y volver a presentar la próxima clase, para una re-evaluación**. 
+
+Esta nota es la cuarta y última evaluación del Optativo, equivalente al 25% del promedio final.
 
 - - - - - - - - - - -
 
