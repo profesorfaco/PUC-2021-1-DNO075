@@ -10,7 +10,7 @@ Además, cuentan con algunos *snippets*:
 
 > *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 
-Tanto lo *snippets* como lo que le encuentran en carpeta para la implementación usan la versión más reciente de [Bootstrap ](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del Optativo.  
+En los *snippets* y su carpeta para implementación, se usa la versión más reciente de [Bootstrap ](https://getbootstrap.com/), herramienta que hemos aprovechado en cada clase del Optativo.
 
 Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), conviene revisar los ejercicios ya desarrollados y tener a la mano vínculos de **consulta rápida**:
 
@@ -24,7 +24,7 @@ Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), convie
 
 - **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Síntesis informativa**: Enseñan lo justo y necesario de un asunto bien dominado.
+- **Calidad informativa**: Enseñan lo justo y necesario de un asunto bien dominado.
 
 - **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto.
 
@@ -32,7 +32,7 @@ Para resolver dudas respecto de [Bootstrap 5](https://getbootstrap.com/), convie
 
 - **Reconocimiento de pares**: Están vinculados en el *footer* de cada infografía digital ajena.
 
-**Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y volver a presentar la próxima clase, para una re-evaluación**. 
+**Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y volver a presentar al comienzo de la próxima clase, para una re-evaluación**. 
 
 Esta nota es la cuarta y última evaluación del Optativo, equivalente al 25% del promedio final.
 
