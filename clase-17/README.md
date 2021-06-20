@@ -6,7 +6,7 @@ Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2
 
 En cada *feedback* hay un vínculo a un material que encuentran en la presente carpeta, que deberían utilizar para la implementación de su infografía digital definitiva.
 
-Además, cuenta con algunos *snippets*:
+Además, cuentan con algunos *snippets*:
 
 > *Snippet* es un término del idioma inglés utilizado en programación para referirse a pequeñas partes reusables de código fuente, código máquina o texto. Comúnmente son definidas como unidades o métodos funcionales que se pueden integrar fácilmente en módulos mucho más grandes, aportando funcionalidad — https://es.wikipedia.org/wiki/Snippet
 
