@@ -4,7 +4,7 @@
 
 Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14#avances), incluimos vínculos a páginas con *feedback*.
 
-En cada *feedback* hay un vínculo a un material que encuentran en esta carpeta, que deberían utilizar para la implementación de su infografía digital definitiva.
+En cada *feedback* hay un vínculo a un material que encuentran en la presente carpeta, que deberían utilizar para la implementación de su infografía digital definitiva.
 
 Además, cuenta con algunos *snippets*:
 
