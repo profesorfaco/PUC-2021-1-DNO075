@@ -11,23 +11,27 @@ h1,h2,h3,h4,h5,h6{
 }
 
 h1{
-	font-size: calc(2.5rem + 2.5vw);
+	font-size: calc(2rem + 2vw);
 }
 
 h2{
 	color: #cc6666;
-	font-size: calc(1rem + 1vw);
+	font-size: calc(1rem + .5vw);
 }
-
 
 p.lead{
 	font-weight: 400;
-	text-align: justify;
+}
+
+@media (min-width: 768px) {
+	p.lead{
+		text-align: justify;
+	}
 }
 
 small, svg{
-font-family: 'Lexend', sans-serif;
-font-weight: 400;	
+	font-family: 'Lexend', sans-serif;
+	font-weight: 400;	
 }
 
 header{
