@@ -4,7 +4,7 @@
 
 Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14#avances), incluimos vínculos a páginas con *feedback*.
 
-En cada *feedback* hay un vínculo a un material que encuentran en la presente carpeta, que deberían utilizar para la implementación de su infografía digital definitiva:
+Si revisaban su *feedback*, encontraban vínculo al material en la presente carpeta, que deberían utilizar para la implementación de su infografía digital definitiva:
 
 - **[Picaflor de Juan Fernández](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-picaflor/index.html)**
 - **[Salamanqueja del Norte Chico](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-salamanqueja/index.html)**
