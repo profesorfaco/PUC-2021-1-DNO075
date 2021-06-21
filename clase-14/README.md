@@ -66,7 +66,7 @@ En su decisión sobre colores:
 #### Avances
 
 | sub-tema | integrantes del grupo | Avance en GitHub | Feedback |
-|:------|:--------|:---------------------|:----------|
+|:------|:--------|:---------------------|:----------:|
 | Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://arana-pollito.github.io/Bocetos_2/ | Pendiente |
 | Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/sesion-3/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-picaflor/index.html) |
 | Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase14/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-zorro/index.html) |
