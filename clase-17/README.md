@@ -2,9 +2,9 @@
 
 ###  Clase 17 → Infografía Digital v2 → Lunes 5 de julio, 2021
 
-Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14#avances), incluimos vínculos a páginas con *feedback*.
+Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2021-1/tree/main/clase-14#avances), incluimos vínculos a páginas web y videos con *feedback*.
 
-Revisando su *feedback* podían encontrar un vínculo al material en la presente carpeta, el que deberían utilizar para la implementación de su infografía digital definitiva:
+Revisando su *feedback*, podían encontrar un vínculo al material en la presente carpeta. Material que cada grupo deberían utilizar para la implementación de su infografía digital definitiva:
 
 - **[Delfín Liso Austral](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-delfin/index.html)**
 - **[Lagarto Leopardo](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-lagarto/index.html)**
@@ -28,7 +28,7 @@ Lo preparado, usa la versión más reciente de [Bootstrap](https://getbootstrap.
 
 - **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto (forma, color, contraste, legibilidad, etc.)
 
-- **Configuración total**: El todo es distinto que la simple suma de las partes
+- **Configuración total**: El todo es distinto que la simple suma de las partes (*Gestalt*)
 
 - **Reconocimiento de pares**: Están vinculados en el *footer* de cada infografía digital ajena
 
