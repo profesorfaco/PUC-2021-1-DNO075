@@ -1,0 +1,55 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	background: rgba(165,150,135,1);
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 900;
+}
+
+h1{
+	font-size: calc(3rem + 1vw);
+	line-height: 1;
+	color: rgba(0,0,0,0.9);
+}
+
+h2{
+	letter-spacing: 0.075rem;
+	color: rgba(255,255,255,0.75);
+}
+
+h3{
+	text-transform: uppercase;
+	color: rgba(0,0,0,0.8);
+}
+
+h1,h2,h3{
+	text-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+p.lead{
+	font-weight: 400;
+}
+
+@media (min-width: 768px) {
+	p.lead{
+		text-align: justify;
+	}
+}
+
+header{
+	height: 70vh;
+	min-height: 400px;
+	background: linear-gradient(rgba(165,150,135,0.1), rgba(165,150,135,1)), url(images/bg-header.jpg);
+	background-position: center top;
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+footer{
+	background: black url(images/bg-footer.png) no-repeat center top;
+	background-size:100% auto;
+	padding-top:20vw;
+}
