@@ -6,6 +6,7 @@ Al final del [README.md de la clase 14](https://github.com/profesorfaco/dno075-2
 
 En su página de *feedback*, podían encontrar un vínculo al *algo*: el material en la presente carpeta. Material que cada grupo deberían utilizar para la implementación de su infografía digital definitiva:
 
+- **[Araña Pollito](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-arana/index.html)**
 - **[Delfín Liso Austral](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-delfin/index.html)**
 - **[Lagarto Leopardo](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-lagarto/index.html)**
 - **[Picaflor de Juan Fernández](https://profesorfaco.github.io/dno075-2021-1/clase-17/implementacion-picaflor/index.html)**
