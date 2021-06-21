@@ -1,0 +1,65 @@
+body{
+	font-weight: 400;
+	background: #F2F5DD;
+	color: #333;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Cinzel Decorative', cursive;
+	font-weight: 700;
+}
+
+h1,h2{
+	color: rgba(5, 66, 87, 1);
+}
+
+h2{
+	font-size: calc(1rem + 0.5vw);
+	text-transform: lowercase;
+}
+
+p.lead{
+	font-weight: 500;
+	color: rgba(5, 66, 87, 1);
+	text-shadow: 0 0 5px rgba(169, 226, 227, 1.00);
+}
+
+@media (min-width: 768px) {
+	p.lead{
+		text-align: justify;
+	}
+}
+
+aside{
+	background: linear-gradient(rgba(52, 134, 148, 0) 20%, rgba(52, 134, 148, 1) 80%), url(images/bg-aside.png);
+	background-position: center center;
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+
+section{
+	color:#F2F5DD;
+	background:rgba(5, 66, 87, 1);
+}
+
+section h3 {
+	text-shadow: 0 0 5px rgba(5, 66, 87, 1);
+	color: white;
+	letter-spacing: 0.05rem;	
+}
+
+section#familia{
+	background: linear-gradient(rgba(52, 134, 148, 1), rgba(30, 109, 126, 1));	
+}
+
+section#anatomia{
+	background: linear-gradient(rgba(30, 109, 126, 1), rgba(5, 66, 87, 1));	
+}
+
+footer{
+	background: black url(images/bg-footer.png) no-repeat center top;
+	background-size:100% auto;
+	padding-top:20vw;
+}
