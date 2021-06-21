@@ -65,14 +65,14 @@ En su decisión sobre colores:
 
 #### Avances
 
-| sub-tema | integrantes del grupo | Avance en GitHub | Feedback |
-|:------|:--------|:---------------------|:----------:|
-| Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://arana-pollito.github.io/Bocetos_2/ | Pendiente |
-| Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/sesion-3/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-picaflor/index.html) |
-| Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase14/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-zorro/index.html) |
-| Delfín liso austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://delfin-liso-austral.github.io/Clase-14-versiones/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-delfin/index.html) | 
-| Salamanqueja del norte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://salamanqueja-del-norte-chico.github.io/infodigital-14/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-salamanqueja/index.html) |
-| Largarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://lagarto-leopardo.github.io/formato-pantallas/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-lagarto/index.html) | 
+| sub-tema | integrantes del grupo | Avance en GitHub | Feedback Web | Feedback Video |
+|:------|:--------|:---------------------|:----------:|:------------:|
+| Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://arana-pollito.github.io/Bocetos_2/ | Pendiente | [Ver video](https://cursos.canvas.uc.cl/courses/30184/files/folder/feedback-boceto-final?preview=3620090) |
+| Aves de Juan Fernández  | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara | https://aves-de-juan-fernandez.github.io/sesion-3/ | [Ver web](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-picaflor/index.html) | [Ver video](https://cursos.canvas.uc.cl/courses/30184/files/folder/feedback-boceto-final?preview=3620096) |
+| Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase14/ | [Ver web](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-zorro/index.html) | [Ver video](https://cursos.canvas.uc.cl/courses/30184/files/folder/feedback-boceto-final?preview=3620117) |
+| Delfín liso austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://delfin-liso-austral.github.io/Clase-14-versiones/ | [Ver web](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-delfin/index.html) | [Ver video](https://cursos.canvas.uc.cl/courses/30184/files/folder/feedback-boceto-final?preview=3620104) |
+| Salamanqueja del norte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://salamanqueja-del-norte-chico.github.io/infodigital-14/ | [Ver web](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-salamanqueja/index.html) | [Ver video](https://cursos.canvas.uc.cl/courses/30184/files/folder/feedback-boceto-final?preview=3620117) |
+| Largarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://lagarto-leopardo.github.io/formato-pantallas/ | [Ver web](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-lagarto/index.html) | [Ver video](https://cursos.canvas.uc.cl/courses/30184/files/folder/feedback-boceto-final?preview=3620110) | 
 
 - - - - - - - - - - -
 
