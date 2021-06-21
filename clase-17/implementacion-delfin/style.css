@@ -1,8 +1,8 @@
 body{
+	font-family: 'Arimo', sans-serif;
 	font-weight: 400;
-	background: #F2F5DD;
+	background: #c3f0f1;
 	color: #333;
-	font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -21,8 +21,8 @@ h2{
 }
 
 p.lead{
-	font-weight: 500;
-	color: rgba(5, 66, 87, 1);
+	font-weight: 400;
+	color: rgba(2, 33, 43, 1);
 	text-shadow: 0 0 5px rgba(169, 226, 227, 1.00);
 }
 
@@ -40,13 +40,13 @@ aside{
 }
 
 section{
-	color:#F2F5DD;
+	color:rgba(255, 255, 255, 0.85);
 	background:rgba(5, 66, 87, 1);
 }
 
 section h3 {
 	text-shadow: 0 0 5px rgba(5, 66, 87, 1);
-	color: white;
+	color: rgba(255, 255, 255, 0.95);
 	letter-spacing: 0.05rem;	
 }
 
