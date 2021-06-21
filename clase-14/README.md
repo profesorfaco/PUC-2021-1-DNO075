@@ -72,7 +72,7 @@ En su decisión sobre colores:
 | Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González,  Agustina González, Cristian Risco | https://zorrodechiloe-infodigital.github.io/Clase14/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-zorro/index.html) |
 | Delfín liso austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://delfin-liso-austral.github.io/Clase-14-versiones/ | Pendiente | 
 | Salamanqueja del norte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://salamanqueja-del-norte-chico.github.io/infodigital-14/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-salamanqueja/index.html) |
-| Largarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://lagarto-leopardo.github.io/formato-pantallas/ | Pendiente | 
+| Largarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos | https://lagarto-leopardo.github.io/formato-pantallas/ | [Ver aquí](https://profesorfaco.github.io/dno075-2021-1/clase-14/feedback-lagarto/index.html) | 
 
 - - - - - - - - - - -
 
