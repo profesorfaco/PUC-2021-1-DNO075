@@ -14,12 +14,18 @@ p.lead{
 	font-weight: 300;
 }
 
-
 header{
 	background: transparent url(images/bg-header.png) no-repeat center bottom;
 	background-size:100% auto;
-	min-height: 400px;
-	height: 60vh;
+}
+
+aside{
+	background: #b4b58d;
+}
+
+img#gecko{
+	height: 35vh;
+	width: auto;
 }
 
 #habitat{
@@ -27,18 +33,14 @@ header{
 	padding-bottom:250px;
 }
 
-img#gecko{
-	min-height: 200px;	
-	height: 40vh;
-	widows: auto;
-}
-
 #ciclo, #alimentacion, #familia{
 	background: transparent;
 }
+
 #amenazas{
 	background: linear-gradient(#ece0c7, #b4b58d);
 }
+
 footer{
 	background: black url(images/bg-footer.png) no-repeat center top;
 	background-size:100% auto;
