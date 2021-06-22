@@ -15,11 +15,6 @@ p.lead{
 	font-weight: 400;
 }
 
-small, svg{
-font-family: 'Lexend', sans-serif;
-font-weight: 400;	
-}
-
 header{
 	background: url(images/bg-header-start.png), url(images/bg-header-end.png);
 	background-position:left top, right top;
