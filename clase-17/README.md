@@ -21,17 +21,19 @@ Lo preparado, usa la versión más reciente de [Bootstrap](https://getbootstrap.
 
 - - - - - - - - - 
 
+#### Evaluación final
+
 **Al final de esta clase se evaluará el resultado del trabajo de los equipos, aplicando una pauta que considerará**:
 
 - **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Enseñan lo justo y necesario de un asunto bien aprendido
+- **Calidad informativa**: Lo que muestran y cuentan lo justo y necesario de deja en evidencia un asunto bien investigado, no en extensión sino en claridad y calidad informativa.
 
-- **Resolución gráfica**: Cuidan cada detalle en lo figurativo, no figurativo y mixto (forma, color, contraste, legibilidad, etc.)
+- **Resolución gráfica**: Cuidan cada detalle como la forma, color, contraste, legibilidad, peso de las imágenes, fuentes usadas, etc.
 
-- **Configuración total**: El todo es distinto que la simple suma de las partes (*Gestalt*)
+- **Responsividad**: La infografía digital se despliega bien en celular y otros dispositivos.
 
-- **Reconocimiento de pares**: Están vinculados en el *footer* de cada infografía digital ajena
+- **Reconocimiento de pares**: Están vinculados en el footer de cada infografía digital ajena
 
 **Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y volver a presentar al comienzo de la próxima clase, para una re-evaluación**. 
 
