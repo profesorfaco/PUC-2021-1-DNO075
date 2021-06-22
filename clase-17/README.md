@@ -37,7 +37,7 @@ Lo preparado, usa la versión más reciente de [Bootstrap](https://getbootstrap.
 
 **Recibiendo su evaluación, los equipos tendrán la posibilidad de hacer modificaciones dentro de una semana y volver a presentar al comienzo de la próxima clase, para una re-evaluación**. 
 
-Esta nota es la cuarta y última evaluación del Optativo, equivalente al 25% del promedio final.
+Esta nota es [la cuarta](https://docs.google.com/spreadsheets/d/1F8X4SfuIPLewy1c-Lw1gaIW4CIYZxy7JeKbyklCPEK4/edit?usp=sharing) y última del Optativo; equivalente al 25% del [promedio final](https://docs.google.com/spreadsheets/d/1tkjn9lcySclYiM9l8LZWia_8aAZ3foN0pKWi8Eqrt0Y/edit?usp=sharing).
 
 - - - - - - - - - - -
 
