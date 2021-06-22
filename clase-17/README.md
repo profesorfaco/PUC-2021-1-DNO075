@@ -27,7 +27,7 @@ Lo preparado, usa la versión más reciente de [Bootstrap](https://getbootstrap.
 
 - **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
 
-- **Calidad informativa**: Lo que muestran y cuentan lo justo y necesario de deja en evidencia un asunto bien investigado, no en extensión sino en claridad y calidad informativa.
+- **Calidad informativa**: Escriben y muestran lo justo y necesario, dando evidencia de un asunto bien investigado (en calidad no cantidad)
 
 - **Resolución gráfica**: Cuidan cada detalle como la forma, color, contraste, legibilidad, peso de las imágenes, fuentes usadas, etc.
 
