@@ -23,6 +23,16 @@ Lo preparado, usa la versión más reciente de [Bootstrap](https://getbootstrap.
 
 #### Evaluación final
 
+| Especie       | Grupo | Proceso | Entrega final |
+|:--------------|:------|:--------|:--------------|
+| Araña pollito | Roberto Verdugo, Pablo Larraín, Blanca Cobs, Valentina Madrid, Alexandra Garrido | https://github.com/arana-pollito | https://arana-pollito.github.io/Implementacion/ |
+| Delfín Liso Austral | Trinidad Martinez, Gabriela Echeverria, Eliana Jimenez, Paula Hrepic, Cecy Soto | https://github.com//delfin-liso-austral/ | https://delfin-liso-austral.github.io/Entrega-Final-/ |
+| Lagarto leopardo | Sabrina Eggers, Catalina Toledo, María José Soto, Francisca Villalón, Ana Galleguillos	 | https://github.com/lagarto-leopardo | https://lagarto-leopardo.github.io/entrega-final/ |
+| Picaflor Juan Fernández | Rosa Enco, Valentina Altamirano, Annais Bertin, Naomi Elkayam, Monserrat Vergara	 | https://github.com/aves-de-juan-fernandez | https://aves-de-juan-fernandez.github.io/Picaflor-Entrega-Final/ |
+| Salamanqueja del morte chico | Paula Sheleff, Martina Gonzalez, Sofía Sanchez, Catalina Gracia, Florencia Vildósola | https://github.com/salamanqueja-del-norte-chico | https://salamanqueja-del-norte-chico.github.io/infodigital-final/ |
+| Zorro de Chiloé | Marcos Fernández, Elisa Román, Rosario González, Agustina González, Cristian Risco | https://github.com/zorrodechiloe-infodigital | https://zorrodechiloe-infodigital.github.io/Zorro_de_Chiloe/ |
+
+
 **Al final de esta clase se evaluará el resultado del trabajo de los equipos, aplicando una pauta que considerará**:
 
 - **Redacción linear**: Escriben y muestran - https://www.youtube.com/watch?v=iEB3oILm-qQ&t=2010s
